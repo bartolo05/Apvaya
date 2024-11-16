@@ -4,3 +4,4 @@ Hoewel de zorg voor zijn vrouw altijd voor zal gaan, loopt het circus op wieltje
 Door zijn gezonde levensstijl heeft Avaroth een gezegende leeftijd bereikt als halfork, maar het ziet er niet naar uit dat hij snel zal inpakken.
 ![[Avaroth.jpg]]
 ### Tusala
+Tusala is de langzaam dementerende vrouw van Avaroth.
