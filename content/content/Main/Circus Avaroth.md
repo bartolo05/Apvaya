@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: Circus Avaroth Exotica Nova
 ---
 
 Circus Avaroth Exotica Nova kan soms meer een freakshow lijken dan een gewoon circus. 

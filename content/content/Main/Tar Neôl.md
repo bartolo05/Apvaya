@@ -5,7 +5,7 @@ De ceremoniële groothertog [[Menasteus III]] van het huis Neôl lijdt al enkele
 De ware macht en ambtenarij in de stad is in handen van de vele gilden. Elke zelfstandige in de stad heeft de erkenning nodig van één of meerdere gildes om handel te mogen voeren. 
 De bevolking van Tar Neôl grapt wel vaker: "Het enige dat je mag doen zonder gilde is sterven, maar hoop niet begraven te worden."
 
-Als entertainment heeft [[Main/Circus Avaroth]] de erkenning van de [[De Gilden#Theatergilde|Theatergilde]]  voor het houden van tentoonstellingen.
+Als entertainment heeft [[content/Main/Circus Avaroth]] de erkenning van de [[De Gilden#Theatergilde|Theatergilde]]  voor het houden van tentoonstellingen.
 
 Tar Neôl valt onder te verdeling in vier delen: de buitenstad, de bovengrondse stad, de ondergrondse en de klifhaven.
 
