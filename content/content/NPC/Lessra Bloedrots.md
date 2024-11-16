@@ -1,2 +1,0 @@
-Duergar buikspreker met geanimeerde poppen. Lessra is al jaren verliefd op Duaine, die met zijn stenen hoofd haar niet ziet staan.
-Sommigen denken dat dit maar voor het beste is, daar ze beide een koppig karakter kunnen hebben.
