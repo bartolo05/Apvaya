@@ -1,4 +1,5 @@
 ---
 title: Welkom in de wereld van Circus Avaroth
 ---
-Ontdek 
+Ontdek Circus Avaroth
+Ontdek Apvaÿa
