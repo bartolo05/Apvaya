@@ -1,9 +1,9 @@
 ---
 title: Welkom in de wereld van Circus Avaroth
 ---
-Ontdek Circus
+Ontdek [[Circus Avaroth]]
 
-ontdek Apvaya
+ontdek [[Apvaÿa]]
 
 pagina test
 
