@@ -1,56 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// MMW: hiding notes from graph via tags
-const tagsToRemove = ["graph-exclude"]
-const graphConfig = {
-  localGraph: {
-    removeTags: tagsToRemove,
-    excludeTags: ["graph-exclude"],
-  },
-  globalGraph: {
-    removeTags: tagsToRemove,
-    excludeTags: ["graph-exclude"],
-  },
-}
-
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LinksHeader()],
-  afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        // from data-repo
-        repo: "morrowind-modding/morrowind-modding.github.io",
-        // from data-repo-id
-        repoId: "R_kgDOLP1-Jw",
-        // from data-category
-        category: "Announcements",
-        // from data-category-id
-        categoryId: "DIC_kwDOLP1-J84CdRF8",
-        reactionsEnabled: true,
-      },
-    }),
-  ],
+  header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/morrowind-modding/wiki",
-      "Discord Community": "https://discord.gg/UdM3VrmJsc",
+      GitHub: "https://github.com/bartolo05/Apvaya",
+      "Discord Community": "https://discord.gg/WnXrahX",
     },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-    Component.MobileOnly(Component.TableOfContents2()),
-  ],
+  beforeBody: [Component.Breadcrumbs()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -58,53 +24,51 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
+        sortFn: (a, b) => {
+          const nameOrderMap: Record<string, number> = {
+            "The Magic": 100,
+            Atlas: 200,
+            "Gods & Religion": 300,
+            "The Races": 400,
+            "Dramatis Personae": 500,
+            Organizations: 600,
+            Herbarium: 700,
+            Mechanics: 800,
+            OOC: 900,
+          }
+
+          let orderA = 0
+          let orderB = 0
+
+          if (a.file && a.file.slug) {
+            orderA = nameOrderMap[a.file.slug] || 0
+          } else if (a.name) {
+            orderA = nameOrderMap[a.name] || 0
+          }
+
+          if (b.file && b.file.slug) {
+            orderB = nameOrderMap[b.file.slug] || 0
+          } else if (b.name) {
+            orderB = nameOrderMap[b.name] || 0
+          }
+
+          return orderA - orderB
+        },
       }),
     ),
   ],
-  right: [
-    Component.MobileOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      }),
-    ),
-    Component.DesktopOnly(Component.Graph(graphConfig)),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.MobileOnly(Component.TableOfContents2()),
-  ],
+  beforeBody: [Component.Breadcrumbs()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      }),
-    ),
+    Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    Component.MobileOnly(
-      Component.Explorer({
-        folderClickBehavior: "link",
-        filterFn: (node) => node.name !== "templates",
-      }),
-    ),
-    Component.DesktopOnly(Component.Graph(graphConfig)),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
