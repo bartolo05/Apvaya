@@ -9,4 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Hidden
+content/Hidden/*
 content/hidden
+content/hidden/*
+
