@@ -3,6 +3,9 @@ publish: "true"
 ---
 Apvion is het continent van de bekende wereld op Apvaÿa, andere continenten zijn gevonden maar niet gedocumenteerd en handel met deze exotische continenten is schaars.
 
+<iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
+
+
 
 ```leaflet   
 id: Apvion Map
