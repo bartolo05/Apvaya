@@ -1,11 +1,11 @@
 Tar Neôl, a.k.a. de koperen stad vanwege de koperen daken is een havenstad op, aan en in een rotsklif. Wat ooit begon als een dwergennederzetting met een kopermijn is uitgegroeid tot een rijke metropool van ambachtslieden.
 
-De ceremoniële groothertog [[Menasteus III]] van het huis Neôl lijdt al enkele jaren onder zijn zwakke gezondheid en wordt slechts weinig in het openbaar gezien. Zijn regering van gildeheren staat onder leiding van [[Ottar Maanstaf]], heer van de [[De Gilden#Magiërsgilde|Magiërsgilde]]. 
+De ceremoniële groothertog Menasteus III van het huis Neôl lijdt al enkele jaren onder zijn zwakke gezondheid en wordt slechts weinig in het openbaar gezien. Zijn regering van gildeheren staat onder leiding van Ottar Maanstaf, heer van de [[De Gilden#Magiërsgilde|Magiërsgilde]]. 
 
 De ware macht en ambtenarij in de stad is in handen van de vele gilden. Elke zelfstandige in de stad heeft de erkenning nodig van één of meerdere gildes om handel te mogen voeren. 
 De bevolking van Tar Neôl grapt wel vaker: "Het enige dat je mag doen zonder gilde is sterven, maar hoop niet begraven te worden."
 
-Als entertainment heeft [[content/Main/Circus Avaroth]] de erkenning van de [[De Gilden#Theatergilde|Theatergilde]]  voor het houden van tentoonstellingen.
+Als entertainment heeft [[content/Main/Circus Avaroth|Circus Avaroth]] de erkenning van de [[De Gilden#Theatergilde|Theatergilde]]  voor het houden van tentoonstellingen.
 
 Tar Neôl valt onder te verdeling in vier delen: de buitenstad, de bovengrondse stad, de ondergrondse en de klifhaven.
 
@@ -56,7 +56,7 @@ De uitbater, Niddala, is een djinn op leeftijd die zijn dagen liefst in zijn sch
 Allerhande alledaagse benodigdheden met Aurhan Langhand de goliath achter de kassa.
 
 #### 't Ouwe kruid
-Kruidenier en alchemist [[Pyra]] de half-elf heeft voor alle noden een potion of zalf. 
+Kruidenier en alchemist [[NPC/Pyra]] de half-elf heeft voor alle noden een potion of zalf. 
 Pyra is een hete MILF op het randje van GILF.
 
 #### De koperen ketel
