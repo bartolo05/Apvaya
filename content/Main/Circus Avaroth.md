@@ -9,7 +9,7 @@ Van de stenen man tot de levende tatoeage tot een vierling van acrobatenbroers, 
 Bijna op het einde van een succesvolle tournee langs de zuidelijke oever van het [[Zwartwijrm Schiereiland]], zal Circus Avaroth [[Tar Neôl]] aandoen voor een grootse finale.
 
 ### Management
-[[NPC/Avaroth|Avaroth]]
+[[../NPC/Avaroth|Avaroth]]
 [[NPC/Ebzir|Ebzir]]
 
 ### Artiesten
