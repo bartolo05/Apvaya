@@ -3,4 +3,4 @@ De kleine Azter werd maanden lang voor pijnlijke en duistere experimenten gebrui
 
 Zijn tatoeages leiden een eigen leven, maar als hij zich sterk concentreert kan Azter de tatoeages controleren en los laten komen van zijn lichaam. 
 Met deze inktachtige, schaduwkleurige appendices kan hij zichzelf bevrijden uit elke handboei, slot, ketting of kooi.
-![[Azter.png]]
+![](../img/Azter.png)
