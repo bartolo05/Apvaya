@@ -1,0 +1,1 @@
+sh npx quartz sync
