@@ -1,0 +1,47 @@
+/*  Wiki Tables (!WTBL)
+==============================================================================*/
+/**
+ *  Base Table styling to mimic Bootstrap Tables
+ */
+.wiki-content-table table {
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.wiki-content-table thead > tr > th,
+.wiki-content-table tbody > tr > th,
+.wiki-content-table tfoot > tr > th,
+.wiki-content-table thead > tr > td,
+.wiki-content-table tbody > tr > td,
+.wiki-content-table tfoot > tr > td {
+  border-top: 1px solid #ccc;
+  line-height: 1.42857;
+  padding: 8px;
+  vertical-align: top;
+}
+.wiki-content-table th {
+  text-align: left;
+}
+/**
+ *  Color the Table
+ */
+.wiki-content-table thead > tr > th,
+.wiki-content-table tbody > tr > th,
+.wiki-content-table tfoot > tr > th,
+.wiki-content-table thead > tr > td,
+.wiki-content-table tbody > tr > td,
+.wiki-content-table tfoot > tr > td {
+  border-top: none;
+  border-bottom: 1px solid #ccc;
+}
+.wiki-content-table thead > tr > th,
+.wiki-content-table tbody > tr > th,
+.wiki-content-table tfoot > tr > th {
+  background: #908149;
+  color: #ece9e4;
+}
+.wiki-content-table thead {
+  background-color: #908149;
+}
