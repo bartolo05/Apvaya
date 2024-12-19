@@ -9,21 +9,21 @@ Van de stenen man tot de levende tatoeage tot een vierling van acrobatenbroers, 
 Bijna op het einde van een succesvolle tournee langs de zuidelijke oever van het [Zwartwijrm Schiereiland](../Locations/Features/Zwartwijrm%20Schiereiland.md), zal Circus Avaroth [Tar Neôl](../Main/Tar%20Neôl.md) aandoen voor een grootse finale.
 
 ### Management
-[[../NPC/Avaroth|Avaroth]]
-[[../NPC/Ebzir|Ebzir]]
+[[NPCs/circus/Avaroth|Avaroth]]
+[[NPCs/circus/Ebzir|Ebzir]]
 
 ### Artiesten
-[[../NPC/Azter Ib Azzas|Azter Ib Azzas]]
-[[../NPC/Durdur Kienoog|Durdur Kienoog]]
-[[../NPC/Duaine de steenling|Duaine de steenling]]
-[[../NPC/Zomer Nachtewind|Zomer Nachtewind]]
-[[../NPC/Tobin, Jorin, Lowin en Golin Ligblad|Tobin, Jorin, Lowin en Golin Ligblad]]
-[[../NPC/Kokomo Donkeroog|Kokomo Donkeroog]]
-[[../NPC/Lessra Bloedrots|Lessra Bloedrots]]
-[[../NPC/Jestus Grimlach|Jestus Grimlach]]
-[[../NPC/Nomina Lentezinger|Nomina Lentezinger]]
+[[NPCs/circus/Azter Ib Azzas|Azter Ib Azzas]]
+[[NPCs/circus/Durdur Kienoog|Durdur Kienoog]]
+[[NPCs/circus/Duaine de steenling|Duaine de steenling]]
+[[NPCs/circus/Zomer Nachtewind|Zomer Nachtewind]]
+[[NPCs/circus/Tobin, Jorin, Lowin en Golin Ligblad|Tobin, Jorin, Lowin en Golin Ligblad]]
+[[NPCs/circus/Kokomo Donkeroog|Kokomo Donkeroog]]
+[[NPCs/circus/Lessra Bloedrots|Lessra Bloedrots]]
+[[NPCs/circus/Jestus Grimlach|Jestus Grimlach]]
+[[NPCs/circus/Nomina Lentezinger|Nomina Lentezinger]]
 
 ### Overige
-[[../NPC/Turdum Luidsnuit|Turdum Luidsnuit]]
-[[../NPC/Zossu Luidsnuit|Zossu Luidsnuit]]
-[[../NPC/Lanja, Lavna en Lagna|Lanja, Lavna en Lagna]]
+[[NPCs/circus/Turdum Luidsnuit|Turdum Luidsnuit]]
+[[NPCs/circus/Zossu Luidsnuit|Zossu Luidsnuit]]
+[[NPCs/circus/Lanja, Lavna en Lagna|Lanja, Lavna en Lagna]]
