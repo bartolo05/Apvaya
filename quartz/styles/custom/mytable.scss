@@ -1,0 +1,90 @@
+﻿$color_1: #ece9e4;
+$background-color_1: #908149;
+
+/*  Wiki Tables (!WTBL)
+==============================================================================*/
+/**
+ *  Base Table styling to mimic Bootstrap Tables
+ */
+/**
+ *  Color the Table
+ */
+.wiki-content-table {
+	table {
+		margin-bottom: 20px;
+		width: 100%;
+		max-width: 100%;
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+	thead {
+		>tr {
+			>th {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+				background: #908149;
+				color: $color_1;
+			}
+			>td {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+			}
+		}
+		background-color: $background-color_1;
+	}
+	tbody {
+		>tr {
+			>th {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+				background: #908149;
+				color: $color_1;
+			}
+			>td {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+			}
+		}
+	}
+	tfoot {
+		>tr {
+			>th {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+				background: #908149;
+				color: $color_1;
+			}
+			>td {
+				border-top: 1px solid #ccc;
+				line-height: 1.42857;
+				padding: 8px;
+				vertical-align: top;
+				border-top: none;
+				border-bottom: 1px solid #ccc;
+			}
+		}
+	}
+	th {
+		text-align: left;
+	}
+}
