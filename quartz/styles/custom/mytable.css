@@ -7,15 +7,16 @@
   margin-bottom: 20px;
   width: 100%;
   max-width: 100%;
+  background-color: rgba(0, 0, 0, 0);
   border-collapse: collapse;
   border-spacing: 0;
 }
-.wiki-content-table thead > tr > th,
-.wiki-content-table tbody > tr > th,
-.wiki-content-table tfoot > tr > th,
-.wiki-content-table thead > tr > td,
-.wiki-content-table tbody > tr > td,
-.wiki-content-table tfoot > tr > td {
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.wiki-content-table > thead > tr > td,
+.wiki-content-table > tbody > tr > td,
+.wiki-content-table > tfoot > tr > td {
   border-top: 1px solid #ccc;
   line-height: 1.42857;
   padding: 8px;
@@ -24,24 +25,35 @@
 .wiki-content-table th {
   text-align: left;
 }
+
 /**
- *  Color the Table
- */
-.wiki-content-table thead > tr > th,
-.wiki-content-table tbody > tr > th,
-.wiki-content-table tfoot > tr > th,
-.wiki-content-table thead > tr > td,
-.wiki-content-table tbody > tr > td,
-.wiki-content-table tfoot > tr > td {
+*  Color the Table
+*/
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.wiki-content-table > thead > tr > td,
+.wiki-content-table > tbody > tr > td,
+.wiki-content-table > tfoot > tr > td {
   border-top: none;
   border-bottom: 1px solid #ccc;
 }
-.wiki-content-table thead > tr > th,
-.wiki-content-table tbody > tr > th,
-.wiki-content-table tfoot > tr > th {
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th {
   background: #908149;
-  color: #ece9e4;
+  color: #333;
 }
-.wiki-content-table thead {
+
+.wiki-content-table > thead > tr,
+.wiki-content-table > thead > tr > th {
   background-color: #908149;
+  border-color: #908149;
+  border: 1px solid #908149;
+}
+
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th {
+  color: #ece9e4;
 }
