@@ -12,7 +12,7 @@ cssclasses:
 |                 |                      |     |              |            |          |
 |                 |                      |     |              |            |          |
 |                 |                      |     |              |            |          |
-### Light Armor html table
+### Light Armor html table w/o css
 
 <table   class ="wiki-content-table"><thead>
   <tr>
@@ -69,67 +69,70 @@ cssclasses:
 </table>
 
 ### armor css table
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-acii{background-color:#FFF;border-color:inherit;color:#333;text-align:left;vertical-align:top}
-.tg .tg-jly4{background-color:#908149;border-color:inherit;color:#ECE9E4;font-weight:bold;text-align:left;vertical-align:top}
+.tg td{border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f1mx{background-color:#908149;color:#ECE9E4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9m0t{background-color:#FDDEB3;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
-  <tr style="color:#ECE9E4;background-color:#908149">
-    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Name</span></th>
-    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Armor Class (AC)</span></th>
-    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Stealth</span></th>
-    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Weight</span></th>
-    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Cost</span></th>
+  <tr>
+    <th class="tg-f1mx"><span style="color:#ECE9E4;background-color:#908149">Name</span></th>
+    <th class="tg-f1mx"><span style="color:#ECE9E4;background-color:#908149">Armor Class (AC)</span></th>
+    <th class="tg-f1mx"><span style="color:#ECE9E4;background-color:#908149">Stealth</span></th>
+    <th class="tg-f1mx"><span style="color:#ECE9E4;background-color:#908149">Weight</span></th>
+    <th class="tg-f1mx"><span style="color:#ECE9E4;background-color:#908149">Cost</span></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-acii">Hide</td>
-    <td class="tg-acii">12 + Dex modifier (max 2)</td>
-    <td class="tg-acii">-</td>
-    <td class="tg-acii">12 lb.</td>
-    <td class="tg-acii">10 gp</td>
+    <td class="tg-9m0t">Hide</td>
+    <td class="tg-9m0t">12 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">-</td>
+    <td class="tg-9m0t">12 lb.</td>
+    <td class="tg-9m0t">10 gp</td>
   </tr>
   <tr>
-    <td class="tg-acii">Chain Shirt</td>
-    <td class="tg-acii">13 + Dex modifier (max 2)</td>
-    <td class="tg-acii">-</td>
-    <td class="tg-acii">20 lb.</td>
-    <td class="tg-acii">50 gp</td>
+    <td class="tg-9m0t">Chain Shirt</td>
+    <td class="tg-9m0t">13 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">-</td>
+    <td class="tg-9m0t">20 lb.</td>
+    <td class="tg-9m0t">50 gp</td>
   </tr>
   <tr>
-    <td class="tg-acii">Scale Mail</td>
-    <td class="tg-acii">14 + Dex modifier (max 2)</td>
-    <td class="tg-acii">Disadvantage</td>
-    <td class="tg-acii">45 lb.</td>
-    <td class="tg-acii">50 gp</td>
+    <td class="tg-9m0t">Scale Mail</td>
+    <td class="tg-9m0t">14 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">Disadvantage</td>
+    <td class="tg-9m0t">45 lb.</td>
+    <td class="tg-9m0t">50 gp</td>
   </tr>
   <tr>
-    <td class="tg-acii">Spiked Armor</td>
-    <td class="tg-acii">14 + Dex modifier (max 2)</td>
-    <td class="tg-acii">Disadvantage</td>
-    <td class="tg-acii">45 lb.</td>
-    <td class="tg-acii">75 gp</td>
+    <td class="tg-9m0t">Spiked Armor</td>
+    <td class="tg-9m0t">14 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">Disadvantage</td>
+    <td class="tg-9m0t">45 lb.</td>
+    <td class="tg-9m0t">75 gp</td>
   </tr>
   <tr>
-    <td class="tg-acii">Breastplate</td>
-    <td class="tg-acii">14 + Dex modifier (max 2)</td>
-    <td class="tg-acii">-</td>
-    <td class="tg-acii">20 lb.</td>
-    <td class="tg-acii">400 gp</td>
+    <td class="tg-9m0t">Breastplate</td>
+    <td class="tg-9m0t">14 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">-</td>
+    <td class="tg-9m0t">20 lb.</td>
+    <td class="tg-9m0t">400 gp</td>
   </tr>
   <tr>
-    <td class="tg-acii">Halfplate</td>
-    <td class="tg-acii">15 + Dex modifier (max 2)</td>
-    <td class="tg-acii">Disadvantage</td>
-    <td class="tg-acii">40 lb.</td>
-    <td class="tg-acii">750 gp</td>
+    <td class="tg-9m0t">Halfplate</td>
+    <td class="tg-9m0t">15 + Dex modifier (max 2)</td>
+    <td class="tg-9m0t">Disadvantage</td>
+    <td class="tg-9m0t">40 lb.</td>
+    <td class="tg-9m0t">750 gp</td>
   </tr>
 </tbody></table>
+
+
 
 
 ### new armor css
@@ -140,7 +143,7 @@ cssclasses:
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-jly4{background-color:#908149;border-color:inherit;color:#ECE9E4;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-g8x4{background-color:#000000;border-color:inherit;color:#333;text-align:left;vertical-align:top}
+.tg .tg-6rso{background-color:#fddeb3;border-color:inherit;color:#333;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
@@ -152,46 +155,46 @@ cssclasses:
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-g8x4">Hide</td>
-    <td class="tg-g8x4">12 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">-</td>
-    <td class="tg-g8x4">12 lb.</td>
-    <td class="tg-g8x4">10 gp</td>
+    <td class="tg-6rso">Hide</td>
+    <td class="tg-6rso">12 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">-</td>
+    <td class="tg-6rso">12 lb.</td>
+    <td class="tg-6rso">10 gp</td>
   </tr>
   <tr>
-    <td class="tg-g8x4">Chain Shirt</td>
-    <td class="tg-g8x4">13 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">-</td>
-    <td class="tg-g8x4">20 lb.</td>
-    <td class="tg-g8x4">50 gp</td>
+    <td class="tg-6rso">Chain Shirt</td>
+    <td class="tg-6rso">13 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">-</td>
+    <td class="tg-6rso">20 lb.</td>
+    <td class="tg-6rso">50 gp</td>
   </tr>
   <tr>
-    <td class="tg-g8x4">Scale Mail</td>
-    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">Disadvantage</td>
-    <td class="tg-g8x4">45 lb.</td>
-    <td class="tg-g8x4">50 gp</td>
+    <td class="tg-6rso">Scale Mail</td>
+    <td class="tg-6rso">14 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">Disadvantage</td>
+    <td class="tg-6rso">45 lb.</td>
+    <td class="tg-6rso">50 gp</td>
   </tr>
   <tr>
-    <td class="tg-g8x4">Spiked Armor</td>
-    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">Disadvantage</td>
-    <td class="tg-g8x4">45 lb.</td>
-    <td class="tg-g8x4">75 gp</td>
+    <td class="tg-6rso">Spiked Armor</td>
+    <td class="tg-6rso">14 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">Disadvantage</td>
+    <td class="tg-6rso">45 lb.</td>
+    <td class="tg-6rso">75 gp</td>
   </tr>
   <tr>
-    <td class="tg-g8x4">Breastplate</td>
-    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">-</td>
-    <td class="tg-g8x4">20 lb.</td>
-    <td class="tg-g8x4">400 gp</td>
+    <td class="tg-6rso">Breastplate</td>
+    <td class="tg-6rso">14 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">-</td>
+    <td class="tg-6rso">20 lb.</td>
+    <td class="tg-6rso">400 gp</td>
   </tr>
   <tr>
-    <td class="tg-g8x4">Halfplate</td>
-    <td class="tg-g8x4">15 + Dex modifier (max 2)</td>
-    <td class="tg-g8x4">Disadvantage</td>
-    <td class="tg-g8x4">40 lb.</td>
-    <td class="tg-g8x4">750 gp</td>
+    <td class="tg-6rso">Halfplate</td>
+    <td class="tg-6rso">15 + Dex modifier (max 2)</td>
+    <td class="tg-6rso">Disadvantage</td>
+    <td class="tg-6rso">40 lb.</td>
+    <td class="tg-6rso">750 gp</td>
   </tr>
 </tbody></table>
 
