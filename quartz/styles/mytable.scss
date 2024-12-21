@@ -1,0 +1,102 @@
+﻿$color_1: #333;
+$color_2: #ece9e4;
+$background-color_1: rgba(0, 0, 0, 0);
+$background-color_2: #908149;
+$border-color_1: #908149;
+
+/*  Wiki Tables (!WTBL)
+==============================================================================*/
+/**
+ *  Base Table styling to mimic Bootstrap Tables
+ */
+/**
+*  Color the Table
+*/
+.wiki-content-table {
+  table {
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+    background-color: $background-color_1;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  > thead {
+    > tr {
+      > th {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+        background: #908149;
+        color: $color_1;
+        background-color: $background-color_2;
+        border-color: $border-color_1;
+        border: 1px solid #908149;
+        color: $color_2;
+      }
+      > td {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+      }
+      background-color: $background-color_2;
+      border-color: $border-color_1;
+      border: 1px solid #908149;
+    }
+  }
+  > tbody {
+    > tr {
+      > th {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+        background: #908149;
+        color: $color_1;
+        color: $color_2;
+      }
+      > td {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+      }
+    }
+  }
+  > tfoot {
+    > tr {
+      > th {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+        background: #908149;
+        color: $color_1;
+        color: $color_2;
+      }
+      > td {
+        border-top: 1px solid #ccc;
+        line-height: 1.42857;
+        padding: 8px;
+        vertical-align: top;
+        border-top: none;
+        border-bottom: 1px solid #ccc;
+      }
+    }
+  }
+  th {
+    text-align: left;
+  }
+}
