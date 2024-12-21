@@ -2,7 +2,7 @@
 cssclasses:
   - wiki-content-table
 ---
-### Light Armor
+### Light Armor normal table
 
 |    **Name**     | **Armor Class (AC)** |     | **Stealth**  | **Weight** | **Cost** |
 | :-------------: | :------------------: | --- | :----------: | :--------: | :------: |
@@ -12,9 +12,9 @@ cssclasses:
 |                 |                      |     |              |            |          |
 |                 |                      |     |              |            |          |
 |                 |                      |     |              |            |          |
-<table class ="wiki-content-table"> <thead> <tr> <th>Header 1</th> <th>Header 2</th> </tr> </thead> <tbody> <tr> <td>Body 1</td> <td>Body 2</td> </tr> <tr> <td>Body 3</td> <td>Body 4</td> </tr> <tr> <td>Body 5</td> <td>Body 6</td> </tr> </tbody> </table>
+### Light Armor html table
 
-<table><thead>
+<table   class ="wiki-content-table"><thead>
   <tr>
     <th>Name</th>
     <th>Armor Class (AC)</th>
@@ -68,6 +68,7 @@ cssclasses:
 </tbody>
 </table>
 
+### armor css table
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -131,8 +132,71 @@ cssclasses:
 </tbody></table>
 
 
+### new armor css
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jly4{background-color:#908149;border-color:inherit;color:#ECE9E4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g8x4{background-color:#000000;border-color:inherit;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Name</span></th>
+    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Armor Class (AC)</span></th>
+    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Stealth</span></th>
+    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Weight</span></th>
+    <th class="tg-jly4"><span style="color:#ECE9E4;background-color:#908149">Cost</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-g8x4">Hide</td>
+    <td class="tg-g8x4">12 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">-</td>
+    <td class="tg-g8x4">12 lb.</td>
+    <td class="tg-g8x4">10 gp</td>
+  </tr>
+  <tr>
+    <td class="tg-g8x4">Chain Shirt</td>
+    <td class="tg-g8x4">13 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">-</td>
+    <td class="tg-g8x4">20 lb.</td>
+    <td class="tg-g8x4">50 gp</td>
+  </tr>
+  <tr>
+    <td class="tg-g8x4">Scale Mail</td>
+    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">Disadvantage</td>
+    <td class="tg-g8x4">45 lb.</td>
+    <td class="tg-g8x4">50 gp</td>
+  </tr>
+  <tr>
+    <td class="tg-g8x4">Spiked Armor</td>
+    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">Disadvantage</td>
+    <td class="tg-g8x4">45 lb.</td>
+    <td class="tg-g8x4">75 gp</td>
+  </tr>
+  <tr>
+    <td class="tg-g8x4">Breastplate</td>
+    <td class="tg-g8x4">14 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">-</td>
+    <td class="tg-g8x4">20 lb.</td>
+    <td class="tg-g8x4">400 gp</td>
+  </tr>
+  <tr>
+    <td class="tg-g8x4">Halfplate</td>
+    <td class="tg-g8x4">15 + Dex modifier (max 2)</td>
+    <td class="tg-g8x4">Disadvantage</td>
+    <td class="tg-g8x4">40 lb.</td>
+    <td class="tg-g8x4">750 gp</td>
+  </tr>
+</tbody></table>
 
 
+### wiki content table
 <table class ="wiki-content-table">
     <thead>
         <tr>
