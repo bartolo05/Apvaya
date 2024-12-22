@@ -3,4 +3,4 @@ Het verzorgen van de dieren gebeurt door drie gnomenmeisjes, [[NPCs/circus/Lanja
 
 Durdur is voorzien van een grote jutte zak die leidt tot een minidimensie waar zijn exotische dieren de ruimte hebben om te leven en verzorgt te worden. 
 
-![](img/Durdur.jpg)
+![](../../img/Durdur.jpg)

@@ -2,7 +2,7 @@
 cssclasses:
   - wiki-content-table
 ---
-De interne winkel van Circus Avaroth wordt uitgebaat door kwartiermeester [Turdum Luidsnuit](NPCs/circus/Turdum%20Luidsnuit.md). Als operationele factoren hebben de spelers toegang tot de volledige stock, die niet voor alle leden van het circus toegankelijk zijn. Turdum heeft ook de kunst om op aanvraag specifiekere voorwerpen te bemachtigen of te weten welke verkopers in de stad deze aanbieden. 
+De interne winkel van Circus Avaroth wordt uitgebaat door kwartiermeester [[../NPCs/circus/Turdum Luidsnuit|Turdum Luidsnuit]]. Als operationele factoren hebben de spelers toegang tot de volledige stock, die niet voor alle leden van het circus toegankelijk zijn. Turdum heeft ook de kunst om op aanvraag specifiekere voorwerpen te bemachtigen of te weten welke verkopers in de stad deze aanbieden. 
 
 <table class ="wiki-content-table"><thead>
   <tr>

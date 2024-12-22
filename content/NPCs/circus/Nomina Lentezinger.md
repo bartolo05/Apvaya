@@ -5,4 +5,4 @@ In afwachting van haar grootse act doet ze karweitjes voor de [[NPCs/circus/Turd
 
 De [[NPCs/circus/Tobin, Jorin, Lowin en Golin Ligblad|Ligbladbroertjes]] proberen haar al lang te strikken voor een van hun seksfeestjes maar hebben tot nu toe enkel bot gevangen.
 
-![](img/Nomina.jpg)
+![](../../img/Nomina.jpg)

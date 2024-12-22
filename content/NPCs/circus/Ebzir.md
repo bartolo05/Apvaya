@@ -1,6 +1,6 @@
-Waar [[NPCs/circus/Avaroth]] de grote touwen in handen heeft, houdt Ebzir het dagelijks leven gaande. 
+Waar [[NPCs/circus/Avaroth|Avaroth]] de grote touwen in handen heeft, houdt Ebzir het dagelijks leven gaande. 
 De verdelingen van alle taken en verantwoordelijkheden alsook de schatkist en administratie houdt hij op zorgvuldige wijze bij.
 
 Steeds noterend in zijn notitieboekje zal deze tiefling geen enkel detail aan zich voorbij laten gaan.
 
-![](img/Ebzir.jpg)
+![](../../img/Ebzir.jpg)
