@@ -8,7 +8,7 @@ Aeseria is echter technologisch niet gigantisch geavanceerd, dus geen zotte arti
 Om de characters en backgrounds wat interessanter te maken kiest elke speler uit een van onderstaande opties (bestaande uit een voordelige, een negatieve en een nadelige feature) die ze toevoegen aan hun character. Wanneer je gekozen hebt dips je die in de discord en dan kan niemand anders die nog kiezen.
 [[features/Optie 1| Optie 1]]
 [[features/Optie 2| Optie 2]]
-[[features/Optie 3| Optie 3]]
+Optie 3: geclaimd door Estelle
 [[features/Optie 4| Optie 4]]
 [[features/Optie 5| Optie 5]]
 [[features/Optie 6| Optie 6]]
@@ -35,6 +35,15 @@ een handig overzicht vind je [hier](https://www.dndbeyond.com/races?srsltid=AfmB
 We starten met [point buy](https://chicken-dinner.com/5e/5e-point-buy.html) stats.
 
 Geeft je species een of meerdere +2/+1 bonus aan een vaste stat, mag je die bonussen in eender welke stat zetten.
+
+## Min/maxen
+Als jullie of een van jullie gaan min/maxen, ga ik het ook doen en gaat het niet tof zijn voor jullie. Keep the characters en combo's fun :) heb je hier vragen over, stuur de DM.
+
+## Character design
+Een van de leukste dingen aan character creation is je character design. Deel je design zeker met de rest. 
+ontwerpen kan bv met [heroforge](https://www.heroforge.com/intro/?srsltid=AfmBOooHR0fHP7G4-2FzQBGjk4fTquVyg8HyP3iPU8w8qK-AUCKwRJXX), maar AI tools als chatgpt kunnen helpen, ofwel met het bedenken als met het designen zelf (alle images op de wiki zijn met chatgpt gemaakt).
+
+
 ![Divider_1.webp](../Divider_1.webp)
 # Rol in het circus
 Hoe is ben je bij het circus gekomen? hoe lang geleden is dat? welke rol heb je momenteel in het circus en wil je verder doorgroeien of zit je goed? ben je een assistent van iemand of zelfstandig?
