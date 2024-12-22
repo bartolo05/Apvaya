@@ -15,6 +15,8 @@ Optie 3: geclaimd door Estelle
 
 Je zorgt er voor dat deze features verwerkt zijn in je achtergrond. Hoe kom je aan die item? waar heb je die informatie geleerd? waarom ben je geïnteresseerd in dat onderwerp? ...
 
+Laat dit u niet tegenhouden om uw character nog verder uit te werken dan deze 3 features.
+
 ## Godendom
 Apvaÿa heeft een custom godendom, planes en duivels. Speel je een cleric, warlock of op een andere manier een character met een magische vazalliteit, vraag uw DM (Dungeon Maître) om advies, samen maken we de wereld van Apvaÿa rijker.
 
@@ -28,7 +30,7 @@ Multiclassen kan! hierover meer info bij session 0
 
 ## Species
 Is het gepubliceerd is het waarschijnlijk oké, maar geen automatons of cyborgs.
-een handig overzicht vind je [hier](https://www.dndbeyond.com/races?srsltid=AfmBOop2JjlbogvAbZF510YwA0H5I3OLdn7zvPskVRON3ytGbxA1Ct8H), maar je mag ook buiten deze lijst.
+een handig overzicht vind je [hier](https://www.dndbeyond.com/races?srsltid=AfmBOop2JjlbogvAbZF510YwA0H5I3OLdn7zvPskVRON3ytGbxA1Ct8H) of [hier](http://dndroll.wikidot.com/races), maar je mag ook buiten deze lijst.
 
 
 ## Stats

@@ -9,7 +9,10 @@ Kies een van onderstaande common treasures gratis:
 
 
 # Neutraal: 
-Je gelooft heel hard in het noodlot, het voorbestemde. Er is geen toeval en alles heeft een reden. Je ziet overal voortekens. 
+Je bent sterk bijgelovig, bv: 
+- Je gelooft heel hard in het noodlot, het voorbestemde. Er is geen toeval en alles heeft een reden. Je ziet overal voortekens. 
+- je gelooft in sterrenbeelden of geboortestenen, ... 
+
 
 
 
