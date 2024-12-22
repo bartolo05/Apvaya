@@ -56,7 +56,7 @@ De uitbater, Niddala, is een djinn op leeftijd die zijn dagen liefst in zijn sch
 Allerhande alledaagse benodigdheden met Aurhan Langhand de goliath achter de kassa.
 
 #### 't Ouwe kruid
-Kruidenier en alchemist [[NPCs/Pyra]] de half-elf heeft voor alle noden een potion of zalf. 
+Kruidenier en alchemist [[Hidden/Shops/Shopkeeps/Pyra]] de half-elf heeft voor alle noden een potion of zalf. 
 Pyra is een hete MILF op het randje van GILF.
 
 #### De koperen ketel
