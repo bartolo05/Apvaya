@@ -7,6 +7,8 @@ potions drinken is een bonus actie, maar toepassen op iemand anders is een actie
 ### Inspiration
 Inspiration kan je inzetten nadat je het resultaat van de rol te weten bent gekomen, inspiration kan ook ingezet worden voor elkaar.  Inspiration kan per persoon tot 3 stacken.
 
+Ispiration mag ook ingeruild worden voor 10ft movement in een beurt.
+
 ### Short Rests
 Er wordt een manier voorzien om te short resten in 15 min ipv 60.
 
