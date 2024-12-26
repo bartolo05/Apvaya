@@ -52,7 +52,7 @@ ontwerpen kan bv met [heroforge](https://www.heroforge.com/intro/?srsltid=AfmBOo
 
 ![Divider_1.webp](../Divider_1.webp)
 # Rol in het circus
-Hoe is ben je bij het circus gekomen? hoe lang geleden is dat? welke rol heb je momenteel in het circus en wil je verder doorgroeien of zit je goed? ben je een assistent van iemand of zelfstandig?
+Hoe ben je bij het circus gekomen? Hoe lang geleden is dat? Welke rol heb je momenteel in het circus en wil je verder doorgroeien of zit je goed? Ben je een assistent van iemand of zelfstandig?
 
 Het circus bestaat uit mensen met speciale vaardigheden en stelt deze voor een prijsje ter beschikking van notabelen, gilden, machtshebbers en andere instanties die het kunnen betalen. Na de eerste sessie(s) vormen de spelers een ploegje dat diensten voor zulke instanties kunnen uitvoeren. Het circus heeft momenteel al meerdere van zulke teams van operatieve factoren maar breidt dus uit met dit team. Het team zal op termijn ook een eigen naam moeten kiezen.
 
