@@ -18,11 +18,11 @@ Je zorgt er voor dat deze features verwerkt zijn in je achtergrond. Hoe kom je a
 Laat dit u niet tegenhouden om uw character nog verder uit te werken dan deze 3 features.
 
 ## Gratis Feat
-Iedereen begint met een gratis Feat, voor je eerste twee Feats mag je niet Lucky kiezen.
+Iedereen begint met een gratis Feat, voor je eerste twee Feats mag je niet Lucky kiezen. Dit stackt niet met variant Human.
 
 
 ## Godendom
-Apvaÿa heeft een custom godendom, planes en duivels. Speel je een cleric, warlock of op een andere manier een character met een magische vazalliteit, vraag uw DM (Dungeon Maître) om advies, samen maken we de wereld van Apvaÿa rijker.
+Apvaÿa heeft een custom godendom, planes en duivels, specifiek ook ijsduivels. Speel je een cleric, warlock of op een andere manier een character met een magische vazalliteit, vraag uw DM (Dungeon Maître) om advies, samen maken we de wereld van Apvaÿa rijker.
 
 
 ## Starter lvl
