@@ -5,7 +5,7 @@ We spelen met de regels van DnD 5e, maar er kunnen zeker enkele dingen van 2024 
 potions drinken is een bonus actie, maar toepassen op iemand anders is een actie. Een potion die gedronken wordt als een Action healt max HP.
 
 ### Inspiration
-Inspiration kan je inzetten nadat je het resultaat van de rol te weten bent gekomen, inspiration kan ook ingezet worden voor elkaar. 
+Inspiration kan je inzetten nadat je het resultaat van de rol te weten bent gekomen, inspiration kan ook ingezet worden voor elkaar.  Inspiration kan per persoon tot 3 stacken.
 
 ### Short Rests
 Er wordt een manier voorzien om te short resten in 15 min ipv 60.
