@@ -18,7 +18,8 @@ Je zorgt er voor dat deze features verwerkt zijn in je achtergrond. Hoe kom je a
 Laat dit u niet tegenhouden om uw character nog verder uit te werken dan deze 3 features.
 
 ## Gratis Feat
-Iedereen begint met een gratis Feat, voor je eerste twee Feats mag je niet Lucky kiezen. Dit stackt niet met variant Human.
+Iedereen begint met een gratis Feat. Dit stackt niet met variant Human.
+Voor je eerste twee Feats mag je niet Lucky kiezen. voor je eerste mag je niet kiezen uit:  Elven Accuracy, great weapon master of Sharpshooter
 
 
 ## Godendom
