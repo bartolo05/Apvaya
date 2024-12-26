@@ -11,6 +11,6 @@ Inspiration kan je inzetten nadat je het resultaat van de rol te weten bent geko
 Er wordt een manier voorzien om te short resten in 15 min ipv 60.
 
 ### Exhaustion
-voor elke lvl exhaustion: -1 op elke D20 rol, DC en -5ft op speed (speed kan niet 0 worden, minimum 5ft).
+voor elke lvl exhaustion: -1 op elke D20 rol, DC, AC en -5ft op speed (speed kan niet 0 worden, minimum 5ft).
 
 
