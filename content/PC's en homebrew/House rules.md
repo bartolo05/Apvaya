@@ -17,3 +17,6 @@ voor elke lvl exhaustion: -1 op elke D20 rol, DC, AC en -5ft op speed (speed kan
 
 ### Spells per beurt
 Casters mogen meerdere spells per beurt casten.
+
+### flanking
+no flanking.
