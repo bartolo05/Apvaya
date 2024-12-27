@@ -15,7 +15,7 @@ Als er een stad de hoofdstad genoemd moet worden, is het [[Ordsas]], de grootste
 
 ## Yzerzee
 De Yzerzee wordt deels doorkliefd door het [Zwartwijrm Schiereiland](../Locations/Features/Zwartwijrm%20Schiereiland.md), wat oostelijk door de Zinkzee en westelijk door de Koperzee geflankeerd wordt. 
-[Tar Neôl](../Main/Tar%20Neôl.md), [Ghester](../Locations/Features/Ghester.md) en [[Ysri]] liggen hier op de zuidelijke oever en hebben een zowel geografisch als economisch een centrale positie in Aeseria.
+[Tar Neôl](../Main/Tar%20Neôl.md), [Ghester](../Locations/Cities/Ghester.md) en [[Ysri]] liggen hier op de zuidelijke oever en hebben een zowel geografisch als economisch een centrale positie in Aeseria.
 Centraal op het schiereiland liggen de Roestige Ruïnes (yseburg). 
 
 In het noorden van de [[Koperzee]] is het land moerasachtig en bewoond door feeërieke wezens en Sylvische volkeren waar weinig handel mee wordt gedreven. 
