@@ -15,12 +15,12 @@ Als er een stad de hoofdstad genoemd moet worden, is het [[Ordsas]], de grootste
 
 ## Yzerzee
 De Yzerzee wordt deels doorkliefd door het [Zwartwijrm Schiereiland](../Locations/Features/Zwartwijrm%20Schiereiland.md), wat oostelijk door de Zinkzee en westelijk door de Koperzee geflankeerd wordt. 
-[Tar Neôl](../Main/Tar%20Neôl.md), [Ghester](../Locations/Cities/Ghester.md) en [[Ysri]] liggen hier op de zuidelijke oever en hebben een zowel geografisch als economisch een centrale positie in Aeseria.
+[Tar Neôl](../Main/Tar%20Neôl.md), [Ghester](../Locations/Cities/Ghester.md) en [Ysri](../Locations/Cities/Ysri.md) liggen hier op de zuidelijke oever en hebben een zowel geografisch als economisch een centrale positie in Aeseria.
 Centraal op het schiereiland liggen de Roestige Ruïnes (yseburg). 
 
 In het noorden van de [[Koperzee]] is het land moerasachtig en bewoond door feeërieke wezens en Sylvische volkeren waar weinig handel mee wordt gedreven. 
 
-De [[Zinkzee]] wordt noordelijk afgesloten door [[Öl]] aan de rivier [[Ö]], waar handel gedreven wordt met de [[Yoln]] volkeren voorbij de [[Berobergen]]. De stichting van Öl wordt toegeschreven aan de Yolni, maar tegenwoordig leven er vooral Aeseri. 
+De [Zinkzee](../Locations/Features/Zinkzee.md) wordt noordelijk afgesloten door [Öl](../Locations/Cities/Öl.md) aan de rivier [Ö](../Locations/Features/Ö.md), waar handel gedreven wordt met de [Yoln]((../Locations/Features/Yoln.md) volkeren voorbij de [Berobergen](../Locations/Features/Berobergen.md). De stichting van Öl wordt toegeschreven aan de Yolni, maar tegenwoordig leven er vooral Aeseri. 
 
 De [[Straat van Kath]] verbind de Yzerzee met de [[Kathbaai]] aan de Grote Oceaan. Theocratische [[Oud- en Nieuw Kathander]], bekend vanwege hun polygone piramides, zijn de poorten tot de Straat van Kath. 
 
