@@ -35,6 +35,6 @@ Overdag is ze niet zo zichtbaar in het licht van de zon, maar 's nachts geeft ze
 
 Phion en Apvion roteren om elkaar in een cyclus van veertig dagen.
 
-Phion was ooit een planeet gevuld met magiërs aller stielen, tot een oorlog ongeveer 800 jaar geleden de gehele planeet in brand stak. Op vele plaatsen brandt Phion nog steeds, maar hier en daar zijn er volkeren terug op aan het duiken aan het oppervlak van deze verwoeste planeet.
+Phion was ooit een planeet gevuld met magiërs aller stielen, tot een oorlog ongeveer 2800 jaar geleden de gehele planeet in brand stak. Op vele plaatsen brandt Phion nog steeds, maar hier en daar zijn er volkeren terug op aan het duiken aan het oppervlak van deze verwoeste planeet.
 
 De meeste steden zijn gediend van een portaal dat doorgang verleend aan Phion, een zwaarbewaakte locatie waar slechts weinigen toegang tot hebben.
