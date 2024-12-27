@@ -9,12 +9,10 @@ Kies een van onderstaande common treasures gratis:
 
 
 # Neutraal: 
-Je bent sterk bijgelovig, bv: 
+Je bent sterk bijgelovig op een bepaalde manier, bv: 
 - Je gelooft heel hard in het noodlot, het voorbestemde. Er is geen toeval en alles heeft een reden. Je ziet overal voortekens. 
-- je gelooft in sterrenbeelden of geboortestenen, ... 
-
-
+- Je gelooft in sterrenbeelden, geboortestenen, feng shui, ...
 
 
 # Nadeel:
-Je geraakt heel gemakkelijk afgeleid en hebt moeite het doel in het oog te houden. 
+Iemand uit je verleden of familie heeft een echt slechte reputatie, waar jij mee geassocieerd kunt worden (bv boze tovenaar, oorlogsmisdadiger of seriemoordenaar in uw stamboom)
