@@ -1,5 +1,5 @@
 # Positief: vrije proficiencywissel
-Je mag één proficiency in een skill wisselen (één kwijt, één bij) of een andere proficiency verdubbelentf (één kwijt, één dubbel). Daarnaast mag je ook één tool proficiency
+Je mag één proficiency in een skill wisselen (één kwijt, één bij) of een andere proficiency verdubbelen (één kwijt, één dubbel). Daarnaast mag je ook één tool proficiency
 inwisselen voor een andere.
 
 # Neutraal: dromer

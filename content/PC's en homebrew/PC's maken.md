@@ -9,7 +9,7 @@ Om de characters en backgrounds wat interessanter te maken kiest elke speler uit
 [[features/Optie 1| Optie 1]]
 [[features/Optie 2| Optie 2]]
 Optie 3: geclaimd door Estelle
-[[features/Optie 4| Optie 4]]
+Optie 4: geclaimd door Caitlin
 [[features/Optie 5| Optie 5]]
 [[features/Optie 6| Optie 6]]
 
