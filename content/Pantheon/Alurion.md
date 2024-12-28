@@ -3,5 +3,4 @@
 - **Symbol**: An open book with a blazing sun.
 - **Domains**: Libraries, education, revelations, and justice through knowledge.
 - **Personality**: Honest, compassionate, but unyielding in their pursuit of transparency.
-- **Opposite**: [Veylxos (Lost Knowledge, Mysteries, Darkness, and Deception)](Pantheon/Veylxos%20(Lost%20Knowledge,%20Mysteries,%20Darkness,%20and%20Deception).md)
-- 
+- **Opposite**: [Veylxos](Pantheon/Veylxos.md)

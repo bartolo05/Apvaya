@@ -1,13 +1,40 @@
-God of lost knowledge, mysteries, darknes and deception <-> God of light, truth, clarity and information
-God of shits and giggles <-> god of seriousness
-God of the seasons <-> god of timelessness
-God of war and bloodshed <-> god of peace and pacifism
-god of jutice, status quo and order <-> god of rebellion and mutation
+
+|    name: |          [Aethelis](../Pantheon/Aethelis.md)           | &harr; |           [Nythara](../Pantheon/Nythara.md)           |
+| -------: | :----------------------------------------------------: | ------ | :---------------------------------------------------: |
+|   title: |                  The Eternal Witness                   |        |                   The Cycle of Life                   |
+| domains: | Immortality, stasis, inevitability, and eternal truths |        |     Agriculture, renewal, cycles, and adaptation      |
+|  symbol: |    An hourglass without sand on an unbroken circle     |        | A four-pointed wheel or a tree with seasonal sections |
 
 
-|    name: |                      **Aethelis**                      | <=> |                      **Nythara**                      |
-| -------: | :----------------------------------------------------: | --- | :---------------------------------------------------: |
-|   title: |                  The Eternal Witness                   |     |                   The Cycle of Life                   |
-| domains: | Immortality, stasis, inevitability, and eternal truths |     | A four-pointed wheel or a tree with seasonal sections |
-|  symbol: |    An hourglass without sand on an unbroken circle     |     |     Agriculture, renewal, cycles, and adaptation      |
-|          |                                                        |     |                                                       |
+|    name: |                 [Alurion](../Pantheon/Alurion.md)                 | &harr; |                               [Veylxos](../Pantheon/Veylxos.md)                               |
+| -------: | :---------------------------------------------------------------: | ------ | :-------------------------------------------------------------------------------------------: |
+|   title: |                    The Beacon of Illumination                     |        |                                      The Veil of Secrets                                      |
+| domains: | Libraries, education, revelations, and justice through knowledge. |        | Lost ruins, forbidden magic, forgotten truths, the unknown, mysteries, darkness en deception. |
+|  symbol: |                  An open book with a blazing sun                  |        |                                      A half-covered tome                                      |
+
+|    name: |        [Oryndur](../Pantheon/Oryndur.md)        | &harr; |          [Krelar](../Pantheon/Krelar.md)           |
+| -------: | :---------------------------------------------: | ------ | :------------------------------------------------: |
+|   title: |            The Arbiter of Diligence             |        | The Trickster of Chaos<br>God of shits and giggles |
+| domains: | Discipline, structure, professionalism, and law |        |    Pranks, chaos, spontaneity, and celebration     |
+|  symbol: |            Unbroken circle of chain             |        |              a ripped-up playing card              |
+
+|    name: | [Lyravelle](../Pantheon/Lyravelle.md) | &harr; | [Rhazgor](../Pantheon/Rhazgor.md)  |
+| -------: | :-----------------------------------: | ------ | :--------------------------------: |
+|   title: |          The Soothing Voice           |        |         The Crimson Blade          |
+| domains: | Diplomacy, forgiveness, and sanctuary |        | courage, strategy, honor in battle |
+|  symbol: |                A dove                 |        |           A broken sword           |
+
+|    name: |   [Thexiel](../Pantheon/Thexiel.md)    | &harr; | [Zhyrrak](../Pantheon/Zhyrrak.md) |
+| -------: | :------------------------------------: | ------ | :-------------------------------: |
+|   title: |           The Balance Keeper           |        |        The Shifting Flame         |
+| domains: | Law, governance, fairness, and balance |        |  Revolution, evolution, defiance  |
+|  symbol: |          A Pair of Open Hands          |        |         a swirling vortex         |
+
+|    name: |                [Fyntheros](../Pantheon/Fyntheros.md)                 | &harr; |                   [Maldrith](../Pantheon/Maldrith.md)                   |
+| -------: | :------------------------------------------------------------------: | ------ | :---------------------------------------------------------------------: |
+|   title: |                          The Forge Eternal                           |        |                           The Wasting Shadow                            |
+| domains: | Creation, innovation, invention, creativity, and the art of building |        | Ruin, entropy, natural decay, and the destruction necessary for renewal |
+|  symbol: |                      A hammer striking an anvil                      |        |                           a crumbling pillar                            |
+
+
+WIP: er komen nog goden bij, deze zouden al veel domains moeten dekken.

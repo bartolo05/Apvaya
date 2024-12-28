@@ -1,0 +1,5 @@
+- **Name**: **Fyntheros** ("The Forge Eternal")
+- **Appearance**: A muscular figure with hands glowing like molten metal, wearing a smith’s apron adorned with intricate designs. Their eyes flicker like embers.
+- **Symbol**: A hammer striking an anvil
+- **Domains**: Creation, innovation, invention, creativity, and the art of building.
+- **Personality**: Passionate, methodical, and deeply devoted to creation, often seeing their work as an extension of themselves.

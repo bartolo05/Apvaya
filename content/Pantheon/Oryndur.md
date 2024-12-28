@@ -3,6 +3,6 @@
 - **Symbol**: A stone tablet or a sealed envelope.
 - **Domains**: Discipline, structure, professionalism, and law.
 - **Personality**: Rigid, humorless, and steadfast in their ideals.
-- **Opposite**: [[Pantheon/Krelar (Shits and Giggles)]]
+- **Opposite**: [[Pantheon/Krelar]]
 
 

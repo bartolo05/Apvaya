@@ -1,6 +1,6 @@
 - **Name**: **Veylxos** ("The Veil of Secrets")
 - **Appearance**: A shadowy figure with a shifting form, constantly wrapped in dark mist. Their eyes are faint pinpricks of light.
-- **Symbol**: A half-covered tome or a blackened key.
+- **Symbol**: A half-covered tome
 - **Domains**: Lost ruins, forbidden magic, forgotten truths, the unknown, mysteries, darkness en deception.
 - **Personality**: Manipulative, cryptic, delights in riddles and obscurity.
-- **Opposite**: [[Pantheon/Alurion (Light, Truth, Clarity, and Information)]]
+- **Opposite**: [[Pantheon/Alurion]]

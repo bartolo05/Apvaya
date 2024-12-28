@@ -3,4 +3,4 @@
 - **Symbol**: An hourglass without sand or an unbroken circle.
 - **Domains**: Immortality, stasis, inevitability, and eternal truths.
 - **Personality**: Aloof, emotionless, and obsessed with permanence.
-- **Opposite**: [Nythara](Pantheon/Nythara%20(Seasons).md)
+- **Opposite**: [Nythara](Pantheon/Nythara.md)

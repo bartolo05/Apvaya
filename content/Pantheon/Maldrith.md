@@ -1,0 +1,5 @@
+- **Name**: **Maldrith** ("The Wasting Shadow")
+- **Appearance**: A gaunt figure cloaked in tattered robes, with blackened hands that turn anything they touch to ash. Their form constantly crumbles but never disappears.
+- **Symbol**: A shattered hammer or a crumbling pillar.
+- **Domains**: Ruin, entropy, natural decay, and the destruction necessary for renewal.
+- **Personality**: Calm and inevitable, with a quiet acceptance of all things ending, though they can be ruthless when their destructive hand is forced.
