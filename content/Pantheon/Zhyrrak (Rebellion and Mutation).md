@@ -1,0 +1,6 @@
+- **Name**: **Zhyrrak** ("The Shifting Flame")
+- **Appearance**: A chaotic figure constantly changing form, with flames and tendrils sprouting unpredictably.
+- **Symbol**: A shattered chain or a swirling vortex.
+- **Domains**: Revolution, evolution, defiance, and chaos.
+- **Personality**: Bold, inspiring, but dangerously unpredictable.
+- **Opposite**: [Thexiel](Pantheon/Thexiel%20(Justice,%20Status%20Quo,%20and%20Order).md)

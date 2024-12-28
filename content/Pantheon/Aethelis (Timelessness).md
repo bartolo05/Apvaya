@@ -1,0 +1,6 @@
+- **Name**: **Aethelis** ("The Eternal Witness")
+- **Appearance**: A genderless figure made of crystal or starlight, frozen in a single unchanging pose.
+- **Symbol**: An hourglass without sand or an unbroken circle.
+- **Domains**: Immortality, stasis, inevitability, and eternal truths.
+- **Personality**: Aloof, emotionless, and obsessed with permanence.
+- **Opposite**: [Nythara](Pantheon/Nythara%20(Seasons).md)

@@ -1,0 +1,6 @@
+- **Name**: **Rhazgor** ("The Crimson Blade")
+- **Appearance**: A hulking warrior draped in spiked armor, with weapons constantly dripping blood.
+- **Symbol**: A broken sword or a bloody handprint.
+- **Domains**: Conflict, courage, strategy, and destruction.
+- **Personality**: Brutal, passionate, and thrives in the chaos of battle.
+- **Opposite**: [Lyravelle](Pantheon/Lyravelle%20(Peace%20and%20Pacifism).md)

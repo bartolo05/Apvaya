@@ -1,0 +1,6 @@
+- **Name**: **Thexiel** ("The Balance Keeper")
+- **Appearance**: A blindfolded figure with scales in one hand and a sword in the other, dressed in regal armor.
+- **Symbol**: A scale or a gavel.
+- **Domains**: Law, governance, fairness, and balance.
+- **Personality**: Fair but inflexible, with no tolerance for chaos or rebellion.
+- **Opposite**: [Zhyrrak (Rebellion and Mutation)](Pantheon/Zhyrrak%20(Rebellion%20and%20Mutation).md)

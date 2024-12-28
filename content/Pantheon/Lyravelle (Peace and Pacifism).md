@@ -1,0 +1,6 @@
+- **Name**: **Lyravelle** ("The Soothing Voice")
+- **Appearance**: A serene figure in flowing robes, holding an olive branch or harp, radiating calming energy.
+- **Symbol**: A dove or a still pond.
+- **Domains**: Diplomacy, healing, forgiveness, and sanctuary.
+- **Personality**: Gentle, wise, but steadfast in their aversion to violence.
+- **Opposite**: [Rhazgor](Pantheon/Rhazgor%20(War%20and%20Bloodshed).md)
