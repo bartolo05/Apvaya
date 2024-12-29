@@ -3,3 +3,4 @@
 - **Symbol**: A hammer striking an anvil
 - **Domains**: Creation, innovation, invention, creativity, and the art of building.
 - **Personality**: Passionate, methodical, and deeply devoted to creation, often seeing their work as an extension of themselves.
+- **Opposite**: [Maldrith](../Pantheon/Maldrith.md)

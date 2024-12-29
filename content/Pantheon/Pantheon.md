@@ -36,5 +36,11 @@
 | domains: | Creation, innovation, invention, creativity, and the art of building |        | Ruin, entropy, natural decay, and the destruction necessary for renewal |
 |  symbol: |                      A hammer striking an anvil                      |        |                           a crumbling pillar                            |
 
+|    name: |      [Thryssaeon](../Pantheon/Thryssaeon.md)       | &harr; |       [Ascython](../Pantheon/Ascython.md)       |
+| -------: | :------------------------------------------------: | ------ | :---------------------------------------------: |
+|   title: |                The Weaver of Forms                 |        |              Patron of Perfection               |
+| domains: | Mutation, Adaptation, Rebellion Against Convention |        | Purity, perfection, natural order and hierarchy |
+|  symbol: |         A hand with a claw, hoof and thumb         |        |              an octahedral crystal              |
+
 
 WIP: er komen nog goden bij, deze zouden al veel domains moeten dekken.
