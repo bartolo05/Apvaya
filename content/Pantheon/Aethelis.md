@@ -3,4 +3,4 @@
 - **Symbol**: een zandloper zonder zand op een cirkel.
 - **Domeinen**: onsterfelijkheid, onoverkomelijkheid, eeuwigeheid en continualiteit.
 - **karakter**: droog, dromend end geobsedeerd door het permanente.
-- **tegenpool**: [Nythara](Pantheon/Nythara.md)
+- **tegenpool**: [Nythara](../Pantheon/Nythara.md)
