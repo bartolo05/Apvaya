@@ -42,5 +42,6 @@
 | domains: | Mutation, Adaptation, Rebellion Against Convention |        | Purity, perfection, natural order and hierarchy |
 |  symbol: |         A hand with a claw, hoof and thumb         |        |              an octahedral crystal              |
 
+TODO: Oceaan, magie, wild magic
 
 WIP: er komen nog goden bij, deze zouden al veel domains moeten dekken.
