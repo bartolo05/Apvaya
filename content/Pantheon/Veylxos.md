@@ -1,6 +1,6 @@
-- **Name**: **Veylxos** ("De sluier der geheimen")
-- **Appearance**: Een figuur van schaduwen gehuld in een zwarte mantel.
-- **Symbol**: Een half verborgen boek
-- **Domains**: vergane ruïnes, verboden magie, vergeten waarheden, het onbekende, de schaduw en bedrog.
-- **Personality**: Manipulatief, cryptisch, geniet van raadsels en onduidelijkheid.
-- **Opposite**: [[../Pantheon/Alurion]]
+- **Naam**: **Veylxos** ("De sluier der geheimen")
+- **Voorkomen**: Een figuur van schaduwen gehuld in een zwarte mantel.
+- **Symbool**: Een half verborgen boek
+- **Domeinen**: vergane ruïnes, verboden magie, vergeten waarheden, het onbekende, de schaduw en bedrog.
+- **Karakter**: Manipulatief, cryptisch, geniet van raadsels en onduidelijkheid.
+- **Tegenpool**: [[../Pantheon/Alurion]]
