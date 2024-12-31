@@ -1,6 +1,6 @@
-- **Name**: **Alurion** ("Het baken van verlichting")
-- **Appearance**: een verlichtend figuur in wit gewaad met een gouden gloed.
-- **Symbol**: Een open boek met stralende zon.
-- **Domains**: Boeken, onderwijs, openbaringen en kennis.
-- **Personality**: Eerlijk en medelijdend maar onbuigzaam over transprantie.
-- **Opposite**: [Veylxos](Pantheon/Veylxos.md)
+- **Naam**: **Alurion** ("Het baken van verlichting")
+- **Voorkomen**: een verlichtend figuur in wit gewaad met een gouden gloed.
+- **Symbool**: Een open boek met stralende zon.
+- **Domeinen**: Boeken, onderwijs, openbaringen en kennis.
+- **Karakter:**: Eerlijk en medelijdend maar onbuigzaam over transprantie.
+- **Tegenpool**: [Veylxos](Pantheon/Veylxos.md)
