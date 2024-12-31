@@ -3,4 +3,4 @@
 - **Symbool**: Een open boek met stralende zon.
 - **Domeinen**: Boeken, onderwijs, openbaringen en kennis.
 - **Karakter:**: Eerlijk en medelijdend maar onbuigzaam over transprantie.
-- **Tegenpool**: [Veylxos](Pantheon/Veylxos.md)
+- **Tegenpool**: [Veylxos](../Pantheon/Veylxos.md)
