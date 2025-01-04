@@ -1,6 +1,6 @@
-- **Name**: **Veylxos** ("The Veil of Secrets")
-- **Appearance**: A shadowy figure with a shifting form, constantly wrapped in dark mist. Their eyes are faint pinpricks of light.
-- **Symbol**: A half-covered tome
-- **Domains**: Lost ruins, forbidden magic, forgotten truths, the unknown, mysteries, darkness en deception.
-- **Personality**: Manipulative, cryptic, delights in riddles and obscurity.
-- **Opposite**: [[Pantheon/Alurion]]
+- **Naam**: **Veylxos** ("De sluier der geheimen")
+- **Voorkomen**: Een figuur van schaduwen gehuld in een zwarte mantel.
+- **Symbool**: Een half verborgen boek
+- **Domeinen**: vergane ruïnes, verboden magie, vergeten waarheden, het onbekende, de schaduw en bedrog.
+- **Karakter**: Manipulatief, cryptisch, geniet van raadsels en onduidelijkheid.
+- **Tegenpool**: [[../Pantheon/Alurion]]

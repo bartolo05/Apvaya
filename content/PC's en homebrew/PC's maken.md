@@ -10,7 +10,7 @@ Om de characters en backgrounds wat interessanter te maken kiest elke speler uit
 [[features/Optie 2| Optie 2]]
 Optie 3: geclaimd door Estelle
 Optie 4: geclaimd door Caitlin
-[[features/Optie 5| Optie 5]]
+Optie 5: geclaimd door Pop-up
 [[features/Optie 6| Optie 6]]
 
 Je zorgt er voor dat deze features verwerkt zijn in je achtergrond. Hoe kom je aan die item? waar heb je die informatie geleerd? waarom ben je geïnteresseerd in dat onderwerp? ...

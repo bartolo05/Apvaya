@@ -1,6 +1,6 @@
-- **Name**: **Nythara** ("The Cycle of Life")
-- **Appearance**: A figure that shifts between four distinct forms (spring maiden, summer warrior, autumn elder, winter sage).
-- **Symbol**: A four-pointed wheel or a tree with seasonal sections.
-- **Domains**: Agriculture, renewal, cycles, and adaptation.
-- **Personality**: Patient, nurturing, and deeply connected to nature’s rhythms.
+- **Naam**: **Nythara** ("de levenscyclys")
+- **Voorkomen**: Een figuur steeds afwisselend tussen vier A figure that shifts between four distinct forms (spring maiden, summer warrior, autumn elder, winter sage).
+- **Symbool**: een vierpuntig wiel of een boom in vier verchillende seizoenen.
+- **Domeinen**: Landbouw, vernieuwing, cycli.
+- **Karakter**: Geduldig, opvoedend, verbonden met het ritme van de natuur.
 - 

@@ -1,6 +1,6 @@
-- **Name**: **Alurion** ("The Beacon of Illumination")
-- **Appearance**: A radiant figure clad in gleaming white robes, surrounded by a golden glow.
-- **Symbol**: An open book with a blazing sun.
-- **Domains**: Libraries, education, revelations, and justice through knowledge.
-- **Personality**: Honest, compassionate, but unyielding in their pursuit of transparency.
-- **Opposite**: [Veylxos](Pantheon/Veylxos.md)
+- **Naam**: **Alurion** ("Het baken van verlichting")
+- **Voorkomen**: een verlichtend figuur in wit gewaad met een gouden gloed.
+- **Symbool**: Een open boek met stralende zon.
+- **Domeinen**: Boeken, onderwijs, openbaringen en kennis.
+- **Karakter:**: Eerlijk en medelijdend maar onbuigzaam over transprantie.
+- **Tegenpool**: [Veylxos](../Pantheon/Veylxos.md)
