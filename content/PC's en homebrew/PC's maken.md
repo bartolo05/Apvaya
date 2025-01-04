@@ -6,7 +6,7 @@ Aeseria is echter technologisch niet gigantisch geavanceerd, dus geen zotte arti
 ![Divider_1.webp](../Divider_1.webp)
 ## Extra features
 Om de characters en backgrounds wat interessanter te maken kiest elke speler uit een van onderstaande opties (bestaande uit een voordelige, een negatieve en een nadelige feature) die ze toevoegen aan hun character. Wanneer je gekozen hebt dips je die in de discord en dan kan niemand anders die nog kiezen.
-[[features/Optie 1| Optie 1]]
+Optie 1: geclaimd door Aristo
 [[features/Optie 2| Optie 2]]
 Optie 3: geclaimd door Estelle
 Optie 4: geclaimd door Caitlin
