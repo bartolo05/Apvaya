@@ -1,15 +1,15 @@
 ---
 Type: Player
-Art: "![[../img/scoot.jpg]]"
+Art: "![[Character Image Placholder]]"
 Level: 3
 AC: 17
-Prof: "2"
+Prof: "+2"
 HP: 0
 HitDice: d0
 Speed: 30
-STR: 16
-DEX: 8
-CONST: 16
+STR: 0
+DEX: 0
+CONST: 0
 INT: 0
 WIS: 0
 CHA: 0
@@ -44,12 +44,10 @@ Electrum: 0
 Gold: 0
 Platinum: 0
 ---
-test
-
 >[!column|flex 2]
 >> [!infobox]
 >> # `=this.file.name`
->> ![](../img/scoot.jpg)
+>> ![[Character Image Placeholder]]
 >> ###### Stats
 >>  |
 >> ---|---|
@@ -121,10 +119,3 @@ test
 | Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
 | Stealth (DEX)         | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
 | Survival (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
-
-
-
-
-
-
-![](../img/scoot.jpg)
