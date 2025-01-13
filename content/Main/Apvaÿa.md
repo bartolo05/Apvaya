@@ -1,6 +1,7 @@
 ---
-publish: "true"
+{"publish":true,"PassFrontmatter":true}
 ---
+
 Apvion is het continent van de bekende wereld op Apvaÿa, andere continenten zijn gevonden maar niet gedocumenteerd en handel met deze exotische continenten is schaars.
 <iframe src="https://bartolo05.github.io/Apvaya-map/" width="100%" height="800px"></iframe>
 
@@ -8,9 +9,9 @@ Apvion is het continent van de bekende wereld op Apvaÿa, andere continenten zij
 
 
 # Aeseria
-De cultuur centraal in Apvion heet Aeseria, een verzameling onafhankelijke stadstaten aan de [[#Yzerzee]]. De Aeseriaanse steden zijn onafhankelijk maar verbonden door drukke handel. Handel staat centraal in de cultuur en overstijgt elke vorm van oorlog.
+De cultuur centraal in Apvion heet Aeseria, een verzameling onafhankelijke stadstaten aan de [[Main/Apvaÿa#Yzerzee\|#Yzerzee]]. De Aeseriaanse steden zijn onafhankelijk maar verbonden door drukke handel. Handel staat centraal in de cultuur en overstijgt elke vorm van oorlog.
 
-Als er een stad de hoofdstad genoemd moet worden, is het [[Ordsas]], de grootste stad aan de Yzerzee op de zuidelijke oever. Elke stad heeft diplomatieke hoofdzetel in Ordsas waardoor het bestuur ervan zich vaak neutraal en gematigd gedraagt op het interstedelijk landschap.
+Als er een stad de hoofdstad genoemd moet worden, is het [[Locations/Cities/Ordsas\|Ordsas]], de grootste stad aan de Yzerzee op de zuidelijke oever. Elke stad heeft diplomatieke hoofdzetel in Ordsas waardoor het bestuur ervan zich vaak neutraal en gematigd gedraagt op het interstedelijk landschap.
 
 
 ## Yzerzee
