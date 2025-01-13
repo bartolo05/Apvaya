@@ -57,4 +57,4 @@ Hoeveel verwachten jullie van:
 | Lore                  | 10     | 10      | 14      | 9      | 11      |        | 54     |
 | Puzzels en mysteries  | 12     | 10      | 15      | 14     | 14      |        | 65     |
 | Non-combat encounters | 12     | 5       | 10      | 3      | 8       |        | 38     |
-| totaal                | /50    | 50/50   | 50/50   | 50/50  |         |        |        |
+| totaal                | 50/50  | 50/50   | 50/50   | 50/50  | 50/50   |        |        |
