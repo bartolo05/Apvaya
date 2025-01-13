@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"PassFrontmatter":true}
 ---
+
 # PC's maken
 
 De regels voor de character creation zijn simpel: is het gepubliceerd is het waarschijnlijk oké.
@@ -10,7 +11,7 @@ Aeseria is echter technologisch niet gigantisch geavanceerd, dus geen zotte arti
 ## Extra features
 Om de characters en backgrounds wat interessanter te maken kiest elke speler uit een van onderstaande opties (bestaande uit een voordelige, een negatieve en een nadelige feature) die ze toevoegen aan hun character. Wanneer je gekozen hebt dips je die in de discord en dan kan niemand anders die nog kiezen.
 Optie 1: geclaimd door Aristo
-[[features/Optie 2| Optie 2]]
+[[PC's en homebrew/features/Optie 2\| Optie 2]]
 Optie 3: geclaimd door Estelle
 Optie 4: geclaimd door Caitlin
 Optie 5: geclaimd door Pop-up
