@@ -1,5 +1,7 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
+@use "./themes";
+
 /* -- MMW SCSS Modules -- */
 @use "./custom/callout-adjustments.scss";
 @use "./custom/caption-callout.scss";

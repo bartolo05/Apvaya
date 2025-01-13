@@ -10,7 +10,7 @@ Als entertainment heeft [[content/Main/Circus Avaroth|Circus Avaroth]] de erkenn
 Tar Neôl valt onder te verdeling in vier delen: de buitenstad, de bovengrondse stad, de ondergrondse en de klifhaven.
 
 Deze afbeelding geeft al een goed beeld van hoe de stad er uit ziet:
-![](../img/Tar%20Neôl(1).jpg)
+![](img/Tar%20Neôl.jpg)
 
 
 # De bovenstad
