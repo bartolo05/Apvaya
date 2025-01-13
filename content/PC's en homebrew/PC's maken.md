@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # PC's maken
 
 De regels voor de character creation zijn simpel: is het gepubliceerd is het waarschijnlijk oké.
