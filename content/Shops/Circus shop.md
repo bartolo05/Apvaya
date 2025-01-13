@@ -580,4 +580,6 @@ De interne winkel van Circus Avaroth wordt uitgebaat door kwartiermeester [[../N
     <td>5 sp</td>
     <td>—</td>
   </tr>
-</tbody></table>
+</tbody></table>Daarnaast kan de party er ook koekjes kopen van Zossu:
+
+![](../../img/Zossu's_koekjes_van_gezwinde_rust.png)

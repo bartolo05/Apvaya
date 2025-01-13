@@ -6,3 +6,7 @@ Ze biedt steeds een luisterend oor aan iedereen die het nodig heeft en biedt daa
 Hoewel ze niet de beste genezer is, komt iedereen ook met kleine en middelgrote kwaaltjes naar haar omdat haar gebak de pijn toch altijd kan verlichten.
 
 ![](img/Loxodons.jpg)
+
+
+Zossu haar kookkunsten zijn befaamd bij avonturiers en wel om een goede reden:
+![](../../img/Zossu's_koekjes_van_gezwinde_rust.png)
