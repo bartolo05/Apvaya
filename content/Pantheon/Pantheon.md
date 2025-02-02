@@ -42,6 +42,14 @@
 | domains: | Mutation, Adaptation, Rebellion Against Convention |        | Purity, perfection, natural order and hierarchy |
 |  symbol: |         A hand with a claw, hoof and thumb         |        |              an octahedral crystal              |
 
+|    name: |                   [Kaldyra](../Pantheon/Kaldyra.md)                   | &harr; |          [Drysyn](../Pantheon/Drysyn.md)          |
+| -------: | :-------------------------------------------------------------------: | ------ | :-----------------------------------------------: |
+|   title: |                           The Golden Scales                           |        |                  The Empty Purse                  |
+| domains: |                  Trade, Economy, Wealth, Reciprocity                  |        | Poverty, Scarcity, Survival, Ingenuity, Necessity |
+|  symbol: | A golden scale balanced with coins on one side and grain on the other |        |                  A cracked bowl                   |
+
+
+
 TODO: Oceaan, magie, wild magic
 
 WIP: er komen nog goden bij, deze zouden al veel domains moeten dekken.

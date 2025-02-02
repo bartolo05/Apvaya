@@ -6,7 +6,7 @@
 Circus Avaroth Exotica Nova kan soms meer een freakshow lijken dan een gewoon circus. 
 Van de stenen man tot de levende tatoeage tot een vierling van acrobatenbroers, of je nu houdt van arcane entertainment of groteske anomalieën, iedere bezoeker zal vol van verbazing genieten van de show!
 
-Bijna op het einde van een succesvolle tournee langs de zuidelijke oever van het [Zwartwijrm Schiereiland](../Locations/Features/Zwartwijrm%20Schiereiland.md), zal Circus Avaroth [Tar Neôl](../Main/Tar%20Neôl.md) aandoen voor een grootse finale.
+Bijna op het einde van een succesvolle tournee langs de zuidelijke oever van het [Zwartwijrm Schiereiland](Locations/Features/Zwartwijrm%20Schiereiland.md), zal Circus Avaroth [Tar Neôl](../Main/Tar%20Neôl.md) aandoen voor een grootse finale.
 
 ### Management
 [[NPCs/circus/Avaroth\|Avaroth]]
