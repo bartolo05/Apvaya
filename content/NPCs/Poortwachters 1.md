@@ -1,6 +1,0 @@
-
-
-
-```statblock
-monster: Rhinokin Gateguard
-```
