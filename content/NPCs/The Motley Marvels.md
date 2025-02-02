@@ -1,0 +1,1 @@
+Bestaat uit [Alexander Ribs](Hidden/Tar%20Neôl%20NPC's/Alexander%20Ribs.md), [Corvin Wildfire](Hidden/Tar%20Neôl%20NPC's/Corvin%20Wildfire.md), [Hans Hands](Hidden/Tar%20Neôl%20NPC's/Hans%20Hands.md) and their leader [Madame Truska](Hidden/Tar%20Neôl%20NPC's/Madame%20Truska.md)

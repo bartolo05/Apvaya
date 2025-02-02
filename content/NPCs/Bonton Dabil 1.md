@@ -1,0 +1,1 @@
+Lokale gepensioneerde handelaar en investeerder. heeft veel connecties en kennis van zaken.

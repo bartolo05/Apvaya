@@ -1,6 +1,6 @@
 # Brior Lunarmane
 Brior is een Leonin circle of the shepherd druid
-![](../img/Brior.webp)
+![](../img/Brior.img)
 
 ```statblock
 name: Lion

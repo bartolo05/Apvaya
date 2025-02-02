@@ -3,7 +3,7 @@ De party bestaat uit
 [Brior Lunarmane](../PC's%20en%20homebrew/Brior%20Lunarmane.md), de Leonin druid,
 [Scoot McToot](../PC's%20en%20homebrew/Scoot%20McToot.md), de Tortle barbarian en
 [Tav Marvelous](../PC's%20en%20homebrew/Tav%20Marvelous.md), de Human sorcerer
+[Laevis Hollowtail](../PC's%20en%20homebrew/Laevis%20Hollowtail.md), de Harengon paladin
 
 Binnenkort ook uit:
-[Laevis Hollowtail](../PC's%20en%20homebrew/Laevis%20Hollowtail.md), de Harengon paladin en 
 [Sutske McSutsface](../PC's%20en%20homebrew/Sutske%20McSutsface.md)
