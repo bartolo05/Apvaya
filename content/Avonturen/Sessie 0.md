@@ -1,9 +1,9 @@
 # Sessie 0
 ### sessies
 [Sessie 1](../Avonturen/Sessie%201%20De%20trek.md) is 11/1 om 14h snackverantwoordelijke: Estelle
-[Sessie 2](Avonturen/Sessie%202%20reclame%20op%20het%20handelsplein.md) is 25/1 om 18h snackverantwoordelijke: Aristo
-sessie 3 is 8/2 om 14h snackverantwoordelijke: Spetter
-sessie 4 is 22/2 om 18h snackverantwoordelijke: Pop-up
+[Sessie 2](../Avonturen/Sessie%202%20reclame%20op%20het%20handelsplein.md) is 25/1 om 18h snackverantwoordelijke: Aristo
+[Sessie 3](../Avonturen/Sessie%203%20Het%20handelsplein%20continued.md) is 8/2 om 18h snackverantwoordelijke: Spetter
+Sessie 4 is 22/2 om 18h snackverantwoordelijke: Pop-up
 
   
 
