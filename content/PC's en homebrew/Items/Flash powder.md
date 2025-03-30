@@ -1,0 +1,3 @@
+As an attack, you can throw this bomb up to 40 feet, creating a blinding flash of light on impact. Make a ranged attack against a creature or object, treating the flash bomb as an improvised weapon. On a hit (objects have an AC of 13 for this effect), the target and all creatures within 10 ft are blinded for 1 minute. A creature can end this effect early by succeeding on a DC 13 Constitution saving throw at the end of their turn.
+On a miss, the bomb doesn't go off and can be recuperated.
+prijs: 75gp

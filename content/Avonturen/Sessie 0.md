@@ -3,11 +3,11 @@
 [Sessie 1](../Avonturen/Sessie%201%20De%20trek.md): zaterdag 11/1 om 14h snackverantwoordelijke: Estelle
 [Sessie 2](../Avonturen/Sessie%202%20reclame%20op%20het%20handelsplein.md): zaterdag 25/1 om 18h snackverantwoordelijke: Aristo
 [Sessie 3](../Avonturen/Sessie%203%20Het%20handelsplein%20continued.md): zaterdag 8/2 om 18h snackverantwoordelijke: Spetter
-Sessie 4: zaterdag 22/2 om 18h snackverantwoordelijke: Pop-up
-Sessie 5: zondag 2/3 om 17h (SV: Caite)
-Sessie 6: Zondag 16/3 om 14h (SV: Estelle)
-Sessie 7: Zondag 30/3 om 14h (SV: Aristo)
-Sessie 8: Zondag 13/4 om 14h (SV: Spetter)
+[Sessie 4](Avonturen/Sessie%204%20Voidglass%20in%20the%20dark.md): zaterdag 22/2 om 18h snackverantwoordelijke: Pop-up
+~~Sessie 5: zondag 2/3 om 17h (SV: Caite)~~
+Sessie 5: Zondag 16/3 om 14h (SV: Caite)
+Sessie 6: Zondag 30/3 om 17h (SV: Estelle)
+Sessie 7: Zondag 13/4 om 14h (SV: Aristo)
 
   
 

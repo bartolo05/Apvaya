@@ -1,0 +1,3 @@
+As an attack, you can throw this bomb up to 40 feet. Make a ranged attack against a creature or object, treating the flash bomb as an improvised weapon. On a hit (objects have an AC of 13 for this effect),  darkness spreads from a point you choose within range to fill a 15-foot radius sphere for 1 min. The darkness spreads around corners. A creature with darkvision **can** see through this darkness, and nonmagical light can't illuminate it.
+On a miss, the bomb doesn't go off and can be recuperated.
+price: 75gp
