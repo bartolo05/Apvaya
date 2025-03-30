@@ -1,4 +1,4 @@
-![](img/Ecliptic.jpg)
+![](../img/Ecliptic.jpg)
 ### Beschrijving
 Een handelspand van goede kwaliteit in de betere wijken van Tar Neôl.
 Het Ecliptisch Emporium verkoopt alchemische ingrediënten, natuurlijke producten met magische effecten, ornamentele schedels en lichaamsdelen van exotische monsters en 
@@ -54,21 +54,21 @@ These items are not openly sold but can be acquired through Zhiran’s connectio
 ---
 
 ### Items Useful for the Party
-- [Alchemist's solvent](PC's%20en%20homebrew/Items/Alchemist's%20solvent.md) – This potent alchemical solution is designed to break down magical and mundane materials alike, dissolving adhesives, softening metals, and neutralizing magical bindings. It comes in a small glass vial containing enough solvent for three applications. _Wondrous Item, uncommon, 300 GP_
+- [Alchemist's solvent](../PC's%20en%20homebrew/Items/Alchemist's%20solvent.md) – This potent alchemical solution is designed to break down magical and mundane materials alike, dissolving adhesives, softening metals, and neutralizing magical bindings. It comes in a small glass vial containing enough solvent for three applications. _Wondrous Item, uncommon, 300 GP_
 
-- [Dustbreather Extract](../../Hidden/Items/Dustbreather%20Extract.md) – A thick, dusky-colored liquid stored in a small, airtight vial. When uncorked, the extract releases a faint, shimmering dust that seems to move unnaturally in the air. The scent is dry and metallic, like ancient stone crumbling to dust. _Wondrous Item, rare, 300GP_
+- [Dustbreather Extract](../PC's%20en%20homebrew/Items/Dustbreather%20Extract.md) – A thick, dusky-colored liquid stored in a small, airtight vial. When uncorked, the extract releases a faint, shimmering dust that seems to move unnaturally in the air. The scent is dry and metallic, like ancient stone crumbling to dust. _Wondrous Item, rare, 300GP_
 
-- [Serpent’s Reflex Potion](PC's%20en%20homebrew/Items/Potion%20of%20Serpent's%20Reflex.md) – Can give an edge in battle. 125 GP
+- [Serpent’s Reflex Potion](../PC's%20en%20homebrew/Items/Potion%20of%20Serpent's%20Reflex.md) – 125 GP
 
-- [Duskbloom](../../Hidden/Items/Duskbloom.md) – If a magic-user in the party is desperate, they might risk using it.
+- [Duskbloom](../PC's%20en%20homebrew/Items/Duskbloom.md)
 
-- [Blinkstalker’s Maw](PC's%20en%20homebrew/Items/Blinkstalker’s%20Maw.md) _(Wondrous Item, Uncommon)_ A preserved jawbone from a **Blinkstalker**, a rare predator from the deep dark with both camouflage and short-range teleportation abilities. The jawbone hums faintly with latent magic. 200GP
+- [Blinkstalker’s Maw](../PC's%20en%20homebrew/Items/Blinkstalker’s%20Maw.md) _(Wondrous Item, Uncommon)_ A preserved jawbone from a **Blinkstalker**, a rare predator from the deep dark with both camouflage and short-range teleportation abilities. The jawbone hums faintly with latent magic. 200GP
 
 - **Gorgon’s Breath Capsule** _(Consumable, Rare)_ – A small glass bead containing vapor from a gorgon’s breath. When thrown, it shatters, releasing a 10-ft. cloud of petrifying mist. Creatures inside must succeed on a DC 14 Constitution save or be restrained for one round as their limbs stiffen. 200GP
 
 - **Duskrune Pendant** _(Wondrous Item, Uncommon)_ – A simple stone amulet carved with an ancient rune, sourced from deep underground. Once per day, the wearer can activate it to gain darkvision for one hour or extend their existing darkvision by 30 feet. 50GP
 
-- [Whispering Coins](../Hidden/Items/Whispering%20Coins.md) (Sending stones, set of 5) – Could be used to send hidden messages. 150GP
+- [Whispering Coins](../PC's%20en%20homebrew/Items/Whispering%20Coins.md) (Sending stones, set of 5) – Could be used to send hidden messages. 150GP
 
 ### Spell Components
 - Charcoal incense and herbs 10gp

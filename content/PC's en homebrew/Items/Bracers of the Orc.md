@@ -10,3 +10,5 @@ Forged in the fires of countless battles, these bracers are said to carry the un
 - **Relentless Endurance:** When you are reduced to **0 hit points** but not killed outright, you can **drop to 1 hit point instead**. You can’t use this feature again until you **finish a long rest**.
 
 Legends speak of orcish champions who refused to fall in battle, driven by sheer willpower alone. These bracers echo their undying resolve, ensuring that even in the face of death, you will stand once more.
+
+![](../../img/BracersOfTheOrc.webp)
