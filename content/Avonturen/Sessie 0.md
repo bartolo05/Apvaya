@@ -8,6 +8,12 @@
 Sessie 5: Zondag 16/3 om 14h (SV: Caite)
 Sessie 6: Zondag 30/3 om 17h (SV: Estelle)
 Sessie 7: Zondag 13/4 om 14h (SV: Aristo)
+Sessie 8: Zondag 4/5 om 13h (SV: Spetter)
+Sessie 9: Zondag 18 mei om 17h (SV: Caite)
+Sessie 10: Zaterdag 7 juni om 17h (SV: Pop-Up)
+Sessie 11: Zondag 22 juni om 13h (SV: Estelle)
+Sessie 12: Zondag 29 juni 18 (eten ervoor) (SV: Aristo)
+Sessie 13: Zondag 13 juli 13h (SV: Spetter)
 
   
 

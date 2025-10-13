@@ -4,6 +4,7 @@
 |   title: |                  The Eternal Witness                   |        |                   The Cycle of Life                   |
 | domains: | Immortality, stasis, inevitability, and eternal truths |        |     Agriculture, renewal, cycles, and adaptation      |
 |  symbol: |    An hourglass without sand on an unbroken circle     |        | A four-pointed wheel or a tree with seasonal sections |
+|          |                                                        |        |                                                       |
 
 
 |    name: |                 [Alurion](../Pantheon/Alurion.md)                 | &harr; |                               [Veylxos](../Pantheon/Veylxos.md)                               |
