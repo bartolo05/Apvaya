@@ -7,3 +7,5 @@ De party bestaat uit
 
 Binnenkort ook uit:
 [Sutske McSutsface](../PC's%20en%20homebrew/Sutske%20McSutsface.md)
+[Jewel McJewelface](../PC's%20en%20homebrew/Jewel%20McJewelface.md)
+[Mark Van Zee](../PC's%20en%20homebrew/Mark%20Van%20Zee.md)
