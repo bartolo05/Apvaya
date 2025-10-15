@@ -4,7 +4,6 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
@@ -14,4 +13,4 @@ content/Hidden/*
 content/hidden
 content/hidden/*
 
-content/.obsidian/plugins/quartz-syncer/data.json git rm --cached content/.obsidian/plugins/quartz-syncer/data.json
+content/.obsidian/plugins/quartz-syncer/data.json
