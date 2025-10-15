@@ -1,0 +1,429 @@
+{
+  "main": {
+    "id": "39f45b136b4cc76b",
+    "type": "split",
+    "children": [
+      {
+        "id": "92eff4924d5c95eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48b12af1cf9aadb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Zarra Vex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zarra Vex"
+            }
+          },
+          {
+            "id": "75bdf50b21f70d8e",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Werewolf",
+                    "source": "5e SRD",
+                    "size": "Medium",
+                    "type": "humanoid",
+                    "subtype": "human",
+                    "alignment": "chaotic evil",
+                    "ac": 11,
+                    "hp": 58,
+                    "hit_dice": "9d8 + 17",
+                    "speed": "30 ft. (40 ft. in wolf form)",
+                    "stats": [
+                      15,
+                      13,
+                      14,
+                      10,
+                      11,
+                      10
+                    ],
+                    "skillsaves": [
+                      {
+                        "perception": 4
+                      }
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",
+                    "condition_immunities": "",
+                    "senses": "passive Perception 14",
+                    "languages": "Common (can't speak in wolf form)",
+                    "cr": "3",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Shapechanger",
+                        "desc": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Keen Hearing and Smell",
+                        "desc": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack (Humanoid or Hybrid Form Only)",
+                        "desc": "The werewolf makes two attacks: one with its bite and one with its claws or spear.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Bite (Wolf or Hybrid Form Only)",
+                        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.",
+                        "attack_bonus": 4,
+                        "damage_dice": "1d8",
+                        "damage_bonus": 2
+                      },
+                      {
+                        "name": "Claws (Hybrid Form Only)",
+                        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.",
+                        "attack_bonus": 4,
+                        "damage_dice": "2d4",
+                        "damage_bonus": 2
+                      },
+                      {
+                        "name": "Spear (Humanoid Form Only)",
+                        "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
+                        "attack_bonus": 4,
+                        "damage_dice": "1d6",
+                        "damage_bonus": -2
+                      }
+                    ]
+                  },
+                  6
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "e8cf8d52ee60b500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tar Neôl/Avarno's Silkware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Avarno's Silkware"
+            }
+          },
+          {
+            "id": "6fffd44dc40cff72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tar Neôl/Karzal's Pit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Karzal's Pit"
+            }
+          },
+          {
+            "id": "b8adca26f8a34828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "11) Karzal's Pit"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69294d1dd7b39030",
+    "type": "split",
+    "children": [
+      {
+        "id": "925327e2a4ec8155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658d27a6ff1a2b78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61d840ddb3e5b183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c5131260064d369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "ad85b2e2f1ee4924",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ef4d05717d0393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5414c4847edc54c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c47f0f38e9d3cb19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ad96ebe10c5bc717",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "598bd62b3ef8b669",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9075a8122613e45f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5c78dd8abc09b815",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c8955f3e1a2b572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0dfbb6f95d717bd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "75bdf50b21f70d8e",
+  "lastOpenFiles": [
+    "Tar Neôl/Avarno's Silkware.md",
+    "Tar Neôl/Karzal's Pit.md",
+    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "NPCs/Karzal.md",
+    "NPCs/Zarra Vex.md",
+    "Tar Neôl/The Brazen Gritpour.md",
+    "Tar Neôl/Straten/Anvilsong Lane.md",
+    "Hidden/old/Optie 5.md",
+    "Avonturen/Sessie 8 The nightmare surgery.md",
+    "Tar Neôl/Shops/Untitled 1.md",
+    "Tar Neôl/Shops",
+    "Tar Neôl/Straten",
+    "Main/Tar Neôl.md",
+    "Tar Neôl/Gilden/De Gilden.md",
+    "Hidden/old/Optie 6.md",
+    "Hidden/old/Optie 4.md",
+    "Hidden/old/Optie 3.md",
+    "Hidden/old/Optie 1.md",
+    "NPCs/Poortwachters.md",
+    "NPCs/Untitled",
+    "img/ZarraVex.png",
+    "img/Unconfirmed 164793.crdownload",
+    "NPCs/Karzal \"the pit butcher\" Dravak.md",
+    "Hidden/NPC's/Bledd Sheerann.md",
+    "img/Karzal.png",
+    "img/Unconfirmed 282410.crdownload",
+    "Hidden/plannen en avonturen/10) the hunt for the shapeshifter.md",
+    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
+    "Hidden/NPC's/Gelly.md",
+    "Pantheon/Pantheon.md",
+    "Avonturen/Sessie 0.md",
+    "Tar Neôl/De Maanstenen Lantaarn.md",
+    "Hidden/img/drakong.png",
+    "img/Aeron.png",
+    "img/Bltng.jpg",
+    "img/Gelly.png",
+    "img/Gelly.png.crdownload",
+    "Pasted image 20250518135653.png",
+    "img/Contract.pdf",
+    "Hidden/img/GlassOfRevealing.png",
+    "img/Selyra.png",
+    "img/ChatGPT Image 30 mrt 2025, 15_53_19.png",
+    "Hidden/img/WandOfWonkyFire.png.crdownload",
+    "img/LaevisBlue.png.crdownload",
+    "img/BracersOfTheOrc.png.crdownload",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Apvion Map",
+      "locked": true,
+      "lastAccessed": 1732971436977,
+      "markers": [
+        {
+          "id": "ID_c9b8a9986a3a",
+          "type": "default",
+          "loc": [
+            -81.8011157949403,
+            316.17128118607303
+          ],
+          "layer": "%5B%5BApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa289abbdb19",
+          "type": "default",
+          "loc": [
+            77.89775563680865,
+            332.0529250278203
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8286a1abac9",
+          "type": "default",
+          "loc": [
+            70.4731344343499,
+            346.7253907374412
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da6b089a58c9",
+          "type": "default",
+          "loc": [
+            149.01953125,
+            370.671875
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_baa8c85aaad8",
+          "type": "default",
+          "loc": [
+            69.83203125,
+            371.921875
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9fbd85a6b5b",
+          "type": "default",
+          "loc": [
+            22.5390625,
+            352.84375
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b4899d8b81b",
+          "type": "default",
+          "loc": [
+            29.0390625,
+            271.96875
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bba498a7b9a",
+          "type": "default",
+          "loc": [
+            65.9140625,
+            221.21875
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59b94a5bb8cb",
+          "type": "default",
+          "loc": [
+            78.5390625,
+            205.34375
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aeaebfbca29",
+          "type": "default",
+          "loc": [
+            104.9445900171941,
+            266.02682933452644
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a493afaa83a",
+          "type": "default",
+          "loc": [
+            86.02948362045395,
+            311.6352167210588
+          ],
+          "layer": "%5B%5B..%2FApvion.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "tar neol",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Hidden/testmap.md",
+        "Main/Apvaÿa.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Temple",
+      "iconName": "landmark",
+      "color": "#bdd73c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "archway",
+      "iconName": "archway",
+      "color": "#66f55c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "dungeon",
+      "iconName": "dungeon",
+      "color": "#641212",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "mountains",
+      "iconName": "mountain",
+      "color": "#e4f0f1",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "camp",
+      "iconName": "campground",
+      "color": "#6f29a8",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

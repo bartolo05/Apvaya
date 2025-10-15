@@ -1,0 +1,8 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@table-unwrap": true,
+  "ITS@@tables-no-hover": true,
+  "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
+  "ITS@@ITS-Table-Alt-Colors": "tables-no-alt-background",
+  "ITS@@callout-block": true
+}

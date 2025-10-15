@@ -1,0 +1,1317 @@
+{
+  "monsters": [
+    [
+      "Duaine the Stoneling",
+      {
+        "image": null,
+        "name": "Duaine the Stoneling",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Neutral Good",
+        "hp": 51,
+        "hit_dice": "6d10 + 18",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          20,
+          10,
+          16,
+          8,
+          12,
+          10
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "piercing, and slashing from nonmagical attacks",
+        "damage_vulnerabilities": "bludgeoning",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 7
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 7
+          },
+          {
+            "Perception": 3
+          },
+          {
+            "Intimidation": 2
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 6,
+        "traits": [
+          {
+            "name": "Heavy Form:",
+            "desc": "He has disadvantage on Dexterity (Stealth) checks and swimming"
+          },
+          {
+            "name": "Immovable Strength:",
+            "desc": "He cannot be moved or shoved against his will unless the attacker succeeds on a DC 15 Strength check."
+          },
+          {
+            "name": "Indomitable Grip",
+            "desc": "Duaine has advantage on checks and saving throws to maintain a grapple or resist being disarmed."
+          },
+          {
+            "name": "Stone Resilience (Recharge 5–6)",
+            "desc": "As a reaction, Duaine can harden his body further to reduce damage. Until the start of his next turn, he gains resistance to all damage except psychic."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Duaine makes two melee weapon attacks"
+          },
+          {
+            "name": "Hammer Fist",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
+          },
+          {
+            "name": "Ground Smash (Recharge 6)",
+            "desc": "Duaine slams the ground with immense force, creating a shockwave. Each creature within 10 feet of him must succeed on a DC 15 Dexterity saving throw or take 14 (3d6 + 5) bludgeoning damage and be knocked prone."
+          },
+          {
+            "name": "Rock Throw",
+            "desc": "Ranged Weapon Attack: +7 to hit, range 30/60 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Avaroth",
+      {
+        "image": null,
+        "name": "Avaroth",
+        "source": "CritterDB",
+        "type": "Half-Orc",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "ac": 16,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          18,
+          14,
+          12,
+          12,
+          16
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": 7
+          },
+          {
+            "intelligence": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Deception": 6
+          },
+          {
+            "Insight": 4
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Persuasion": 6
+          },
+          {
+            "Sleight of Hand": 7
+          },
+          {
+            "Stealth": 7
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Sneak Attack.",
+            "desc": "Once per turn, Avaroth deals an extra 4d6 damage when he hits a target with a finesse or ranged weapon and he has advantage on the attack roll, or when the target is within 5 feet of an ally of Avaroth who isn’t incapacitated and Avaroth doesn’t have disadvantage on the roll."
+          },
+          {
+            "name": "Master of Tactics (Mastermind)",
+            "desc": "Avaroth can use the Help action as a bonus action. When he uses the Help action to aid an ally’s attack, the target of that attack can be within 30 feet of him, rather than 5 feet."
+          },
+          {
+            "name": "Insightful Manipulator (Mastermind)",
+            "desc": "If Avaroth spends 1 minute observing or interacting with another creature outside combat, he can learn whether the creature is his equal, superior, or inferior in two characteristics of his choice (Intelligence, Wisdom, or Charisma)."
+          },
+          {
+            "name": "Evasion",
+            "desc": "If the avaroth is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the avaroth instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+          },
+          {
+            "name": "Uncanny Dodge",
+            "desc": "When an attacker Avaroth can see hits him with an attack, he can use his reaction to halve the damage."
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "On each of his turns, Avaroth can use a bonus action to take the Dash, Disengage, or Hide action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+          },
+          {
+            "name": "Shortbow",
+            "desc": "Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+          },
+          {
+            "name": "Cutting Remark (Recharge 5–6).",
+            "desc": "Avaroth makes a scathing comment that distracts a foe. As a bonus action, he forces one creature within 30 feet that can hear him to make a DC 15 Charisma saving throw. On a failed save, the creature has disadvantage on its next attack roll or ability check before the start of Avaroth’s next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "",
+            "desc": ""
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Ebzir",
+      {
+        "image": null,
+        "name": "Ebzir",
+        "source": "CritterDB",
+        "type": "Tiefling",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 45,
+        "hit_dice": "7d8 + 14",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          14,
+          14,
+          12,
+          12,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": 1
+          },
+          {
+            "charisma": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 1
+          },
+          {
+            "Deception": 4
+          },
+          {
+            "Insight": 1
+          },
+          {
+            "Persuasion": 4
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Cantrips",
+            "desc": "Eldritch Blast, Mage Hand, Minor Illusion, Prestidigitation"
+          },
+          {
+            "name": "1st-4th Level Spells (2 spell slots, 4th level)",
+            "desc": "1st: Charm Person, Hex\n2nd: Suggestion, Mirror Image\n3rd: Counterspell, Hypnotic Pattern\n4th: Banishment"
+          },
+          {
+            "name": "Agonizing Blast",
+            "desc": "Add Charisma modifier to Eldritch Blast damage."
+          },
+          {
+            "name": "Book of Shadows",
+            "desc": "Ebzir’s little book acts as his Book of Shadows. He can use it to cast certain rituals, such as Comprehend Languages and Identify."
+          },
+          {
+            "name": "Misty Visions",
+            "desc": "Cast Silent Image at will without expending a spell slot"
+          },
+          {
+            "name": "Beguiling Influence",
+            "desc": "Gain proficiency in Deception and Persuasion skills."
+          },
+          {
+            "name": "Infernal Legacy",
+            "desc": "Ebzir can cast Hellish Rebuke (2d10 fire damage, DC 15) once per long rest as a 2nd-level spell"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 3 (1d6 + 0) piercing damage."
+          },
+          {
+            "name": "Eldritch Blast",
+            "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 1d10 + 4 force damage."
+          },
+          {
+            "name": "Commanding Voice (Recharge 5–6)",
+            "desc": "Ebzir can command one creature within 30 ft. to make a DC 15 Wisdom saving throw. On a failure, the creature is charmed or frightened (Ebzir’s choice) until the end of Ebzir’s next turn"
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage in melee, or 4 (1d4 + 2) piercing damage at range."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Hond",
+      {
+        "image": null,
+        "name": "Hond",
+        "source": "CritterDB",
+        "type": "Beast",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "ac": 13,
+        "speed": "40 ft.",
+        "stats": [
+          14,
+          14,
+          13,
+          4,
+          12,
+          7
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "",
+        "languages": "",
+        "cr": 0.25,
+        "traits": [
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "the hond has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+          },
+          {
+            "name": "well-trained",
+            "desc": "a creature that the hond is friendly to has advantage on Wisdom (Animal Handling) checks to control or handle it."
+          }
+        ],
+        "actions": [
+          {
+            "name": "bite",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Alexander Ribs",
+      {
+        "image": null,
+        "name": "Alexander Ribs",
+        "source": "CritterDB",
+        "type": "Tiefling",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 55,
+        "hit_dice": "10d8 + 10",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          18,
+          12,
+          10,
+          11,
+          16
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": 7
+          },
+          {
+            "charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 7
+          },
+          {
+            "Performance": 6
+          },
+          {
+            "Sleight of Hand": 7
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "Common, Infernal",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Flexible Contortionist",
+            "desc": "Alexander can squeeze through spaces as small as 6 inches wide without squeezing penalties, provided he is not wearing bulky clothing or armor."
+          },
+          {
+            "name": "Legendary Performer",
+            "desc": "Alexander has a knack for drawing a crowd. He can use his action to draw attention to himself, creating a zone of fascination within 20 feet. Hostile creatures must succeed on a DC 14 Charisma saving throw or lose interest in their current target and instead focus on Alexander until the end of their next turn."
+          },
+          {
+            "name": "Darkvision 60ft",
+            "desc": ""
+          },
+          {
+            "name": "Hellish Resistance",
+            "desc": "Resistance to fire damage"
+          },
+          {
+            "name": "Infernal Legacy",
+            "desc": "Knows the Thaumaturgy cantrip. At 3rd level, can cast Hellish Rebuke once per long rest. At 5th level, can cast Darkness once per long rest"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Ribcage Melody",
+            "desc": "Alexander can play his ribcage as a glockenspiel. As an action, he can perform:\n\nDistracting Melody:  All creatures within 15 feet must succeed on a DC 14 Wisdom saving throw or have disadvantage on Perception checks and attack rolls until the start of Alexander's next turn. \nInspiring Jingle:  One creature of Alexander’s choice within 30 feet gains 1d8 temporary hit points and advantage on its next ability check.\n"
+          },
+          {
+            "name": "Unnerving Display",
+            "desc": "As a bonus action, Alexander can perform a grotesque trick such as detaching his joints or contorting in disturbing ways. Up to three creatures of his choice within 30 feet must make a DC 14 Wisdom saving throw or become frightened until the end of its next turn."
+          },
+          {
+            "name": "Unarmed Strike (Flexible Flurry)",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. On a hit, Alexander can attempt to grapple the target by wrapping them in his stretched skin (Escape DC 14)."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Elastic Skin (recharge 5-6)",
+            "desc": "Alexander can stretch his skin to create distractions or shields. As a reaction, when a creature within 5 feet targets him with an attack, he can impose disadvantage by stretching his skin to evade the attack."
+          },
+          {
+            "name": "Skin Shield (recharge 6)",
+            "desc": "When a creature Alexander can see attacks him, he can stretch his skin to partially absorb the blow, reducing the damage by 1d8 + 4."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Madame Truska",
+      {
+        "image": null,
+        "name": "Madame Truska",
+        "source": "CritterDB",
+        "type": "Dwarf",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 65,
+        "hit_dice": "10d8 + 20",
+        "ac": 14,
+        "speed": "25 ft.",
+        "stats": [
+          12,
+          16,
+          14,
+          12,
+          8,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "slashing",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "charisma": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 6
+          },
+          {
+            "Performance": 7
+          },
+          {
+            "Persuasion": 7
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "Common, Dwarvish",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Dwarven Resilience",
+            "desc": "Madame Truska has advantage on saving throws against poison and resistance to poison damage."
+          },
+          {
+            "name": "Animated Hair",
+            "desc": "The hairs Madame Truska grows are immune to all nonmagical damage and cannot be sheared, cut, or sliced."
+          },
+          {
+            "name": "Indestructible Hair",
+            "desc": "The hairs Madame Truska grows are immune to all nonmagical damage and cannot be sheared, cut, or sliced."
+          },
+          {
+            "name": "Hair Manipulation (3/Day)",
+            "desc": "As a bonus action, Madame Truska can animate her hair to perform the following actions until the start of her next turn:\n\nExtra Reach. Increase her melee weapon reach to 15 feet.\n\nGrappling Tendrils. When Madame Truska successfully grapples a creature, she can restrain it using her hair (escape DC 15)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Madame Truska makes two melee attacks with her Animated Hair."
+          },
+          {
+            "name": "Animated Hair",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage,  and the target must succeed on a DC 13 Strength saving throw or be grappled (escape DC 15)."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Corvin Wildfire",
+      {
+        "image": null,
+        "name": "Corvin Wildfire",
+        "source": "CritterDB",
+        "type": "ravenfolk",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 22,
+        "hit_dice": "4d6 + 8",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          16,
+          14,
+          12,
+          10,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "constitution": 4
+          },
+          {
+            "charisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Performance": 6
+          },
+          {
+            "Acrobatics": 5
+          },
+          {
+            "Arcana": 3
+          },
+          {
+            "Sleight of Hand": 5
+          }
+        ],
+        "senses": "darkvision 60",
+        "languages": "Common",
+        "cr": 0.25,
+        "traits": [
+          {
+            "name": "Spellcasting",
+            "desc": "Corvin is a 4th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). He knows the following sorcerer spells:\n\nCantrips (at will): Fire Bolt, Control Flames, Prestidigitation, Minor Illusion\n1st Level (4 slots): Mage Armor, Burning Hands\n2nd Level (3 slots): Scorching Ray, Aganazzar's Scorcher"
+          },
+          {
+            "name": "Sorcery Points (4)",
+            "desc": "Corvin uses his sorcery points to fuel Metamagic (such as Subtle Spell and Distant Spell)."
+          },
+          {
+            "name": "Flight",
+            "desc": "Corvin has a flying speed of 30 feet."
+          },
+          {
+            "name": "Raven's Agility",
+            "desc": "Corvin dashes, disengages, or dodges as a bonus action."
+          },
+          {
+            "name": "Sudden Attack",
+            "desc": "You have advantage on attack rolls against a surprised creature"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 3 (1d6 + 0) piercing damage."
+          },
+          {
+            "name": "Fire Dance (Recharge 5-6)",
+            "desc": "Corvin twirls and creates dazzling patterns of flame. Each creature within 15 feet of him must make a DC 14 Dexterity saving throw or take 10 (3d6) fire damage. Those who succeed take half damage. Creatures affected by this ability have disadvantage on Perception checks until the start of Corvin’s next turn as the lights dazzle their vision."
+          },
+          {
+            "name": "Mimicry",
+            "desc": "Ravenfolk can mimic any sound they’ve heard. Make a Charisma (Deception) check against the passive Wisdom (Insight) of any listeners. Success indicates they believe the sound you created was real"
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Hans Hands",
+      {
+        "image": null,
+        "name": "Hans Hands",
+        "source": "CritterDB",
+        "type": "Elfx",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "ac": 16,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          18,
+          13,
+          10,
+          14,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 6
+          },
+          {
+            "Performance": 4
+          },
+          {
+            "Sleight of Hand": 6
+          },
+          {
+            "Athletics": 2
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "Common, Elvish",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Step of the Handwalker",
+            "desc": "Hans can spend 1 ki point to take the Dash or Disengage action as a bonus action on his turn."
+          },
+          {
+            "name": "Ki-Empowered Acrobatics",
+            "desc": "Hans has 6 ki points, which he can use to fuel his unique abilities. He regains all expended ki points after finishing a short or long rest."
+          },
+          {
+            "name": "Handwalker’s Resilience",
+            "desc": "Hans can move at full speed while balancing on his hands. He does not provoke opportunity attacks while moving this way."
+          },
+          {
+            "name": "Graceful Acrobatics",
+            "desc": "Hans has advantage on Dexterity (Acrobatics) checks, and falling damage is reduced by 30 feet due to his exceptional balance and control."
+          },
+          {
+            "name": "Flurry of Kicks",
+            "desc": "(Costs 1 ki point). Hans makes two unarmed strikes as a bonus action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 3 (1d6 + 0) piercing damage."
+          },
+          {
+            "name": "Handspring Strike",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Deflect Missiles",
+            "desc": "When Hans is hit by a ranged weapon attack, he can use his reaction to reduce the damage by 1d10 + 6. If the damage is reduced to 0, he can spend 1 ki point to catch the projectile and immediately throw it back as part of the same reaction (range 20/60 ft., +6 to hit)."
+          },
+          {
+            "name": "Cartwheel Sweep (Recharge 5-6)",
+            "desc": "Hans spins into a wide sweep, forcing all creatures within 10 feet of him to make a DC 14 Dexterity saving throw. On a failed save, a creature takes 10 (3d6) bludgeoning damage and is knocked prone. On a success, a creature takes half damage and isn’t knocked prone."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Rhinokin Gateguard",
+      {
+        "image": null,
+        "name": "Rhinokin Gateguard",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Neutral",
+        "hp": 34,
+        "hit_dice": "4d10 + 12",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          10,
+          16,
+          11,
+          12,
+          10
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "slashing, piercing, bludgeoning",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 6
+          },
+          {
+            "Perception": 3
+          },
+          {
+            "Intimidation": 2
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Rhinoceros Charge",
+            "desc": "If the rhinokin moves at least 20 feet straight toward a target and then hits it with a melee attack on the same turn, the target takes an additional 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Thick Hide",
+            "desc": "The rhinokin has resistance to nonmagical bludgeoning, piercing, and slashing damage."
+          },
+          {
+            "name": "Keen Senses",
+            "desc": "the rhinokin gateguard has advantage on Wisdom (Perception) checks that rely on sight, hearing or smell."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The rhinokin makes two melee attacks with its mace"
+          },
+          {
+            "name": "Mace",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage."
+          },
+          {
+            "name": "Horn Strike",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage."
+          },
+          {
+            "name": "Enforce the Peace (Recharge 5–6)",
+            "desc": "The rhinokin bellows a commanding roar. Each hostile creature within 30 feet of it that can hear must make a DC 13 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Terragnaw",
+      {
+        "image": null,
+        "name": "Terragnaw",
+        "source": "CritterDB",
+        "type": "Monstrosity",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 85,
+        "hit_dice": "10d10 + 30",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          16,
+          6,
+          12,
+          8
+        ],
+        "damage_immunities": "psychic; poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, frightened",
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Stealth": 4
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "tremmor sense, darkvision",
+        "languages": "Common",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Earth Glide",
+            "desc": "the terragnaw can burrow through nonmagical, unworked earth and stone. While doing so, the terragnaw doesn't disturb the material it moves through."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "The Terragnaw makes two attacks: one with its Bite and one with its Claw."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.  If the target is a creature, it must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled, the target is also restrained."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Alchemical Ooze",
+      {
+        "image": null,
+        "name": "Alchemical Ooze",
+        "source": "CritterDB",
+        "type": "Ooze",
+        "subtype": "",
+        "size": "Small",
+        "alignment": "Unaligned",
+        "hp": 52,
+        "hit_dice": "8d10 + 8",
+        "ac": 8,
+        "speed": "20 ft.",
+        "stats": [
+          12,
+          14,
+          12,
+          1,
+          6,
+          3
+        ],
+        "damage_immunities": "psychic; bludgeoning",
+        "damage_resistances": "acid, poison",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, frightened, paralyzed, poisoned, prone",
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "constitution": 3
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "Common",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Unstable Composition",
+            "desc": "when hit with a spell attack, the damage is taken but the spell also returns to sender."
+          },
+          {
+            "name": "Split on Slashing",
+            "desc": "If the ooze takes slashing damage, it splits into two smaller oozes (HP is halved). This effect can happen only twice."
+          },
+          {
+            "name": "multiattack",
+            "desc": "one Alchemical Lash, one Alchemical Burst per turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Alchemical Burst",
+            "desc": "DC 13 Dexterity save or roll on random potion table. DC 12 Constitution save or minor minor random alchemical effect (GM’s choice, like glowing skin, mild nausea, or temporary limb numbness)."
+          },
+          {
+            "name": "Alchemical Lash",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) acid damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Maerion Inkthayne, the Augmentor",
+      {
+        "image": null,
+        "name": "Maerion Inkthayne, the Augmentor",
+        "source": "CritterDB",
+        "type": "High Elf Tiefling",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "ac": 16,
+        "speed": "40 ft.",
+        "stats": [
+          10,
+          16,
+          16,
+          18,
+          14,
+          20
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened",
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "constitution": 6
+          },
+          {
+            "charisma": 8
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 7
+          },
+          {
+            "Deception": 8
+          },
+          {
+            "Insight": 5
+          },
+          {
+            "Persuasion": 8
+          }
+        ],
+        "senses": "Darkvision 60ft.",
+        "languages": "Common, Elvish, Infernal, Abyssal",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Quickened Spell",
+            "desc": "Maerion can cast a 1st or 2nd level spell as a bonus action, consuming a use of this ability (3/day)."
+          },
+          {
+            "name": "Spellcasting (Sorlock, DC 16)",
+            "desc": "Maerion Inkthayne, the augmentor's Sorlock spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:\n\nAt will: mage hand, chill touch, eldritch blast, minor illusion\n2/day: mirror image, hold person, suggestion, misty step\n1/day: haste, bestow curse, blight"
+          },
+          {
+            "name": "Pactbound Immortality",
+            "desc": "If Maerion is reduced to 0 HP, he disappears into mist and reforms 1d4 days later in a hidden sanctuary unless his soul contracts are destroyed."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Maerion makes two Eldritch Blast attacks and one Claw Strike attack."
+          },
+          {
+            "name": "Eldritch Blast",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 120/null ft., one target. Hit: 8 (1d10 + 5) force damage. If the target fails a DC 16 Strength save, they are pushed or pulled 10 feet (Maerion’s choice)."
+          },
+          {
+            "name": "Claw Strike",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Blinkstalker",
+      {
+        "image": null,
+        "name": "Blinkstalker",
+        "source": "CritterDB",
+        "type": "Aberration",
+        "subtype": "",
+        "size": "Small",
+        "alignment": "",
+        "hp": 44,
+        "hit_dice": "8d6 + 16",
+        "ac": 14,
+        "speed": "30 ft. (hover)",
+        "stats": [
+          10,
+          16,
+          14,
+          8,
+          14,
+          12
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "prone",
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "senses": "darkvision 60ft",
+        "languages": "Common",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Hovering Eyebeast",
+            "desc": "The Blinkstalker is always levitating, using its small, flapping tendrils for stability. It cannot be knocked prone and ignores non-magical difficult terrain while hovering."
+          },
+          {
+            "name": "Phase Shift",
+            "desc": "It blinks in and out of visibility as it moves, making it harder to track. Moving does not trigger Opportunity Attacks."
+          },
+          {
+            "name": "Adaptive Camouflage",
+            "desc": "Grants advantage on Stealth checks in dim light or darkness"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Blinkstalker fires two Eye Rays at random."
+          },
+          {
+            "name": "Eye Rays (Roll 1d4 for each beam)",
+            "desc": ".\nShimmer Ray: The target must make a DC 13 Intelligence saving throw or become incorporeal until the end of its next turn, unable to interact with the physical world but still visible.\nDisorient Ray:The target must make a DC 13 Constitution saving throw or become Dazed (cannot take reactions, speed halved) for 1 minute. The target repeats the save at the end of its turns.\nFirewound ray: The target must make a DC 13 Dexterity saving throw or take 2d10 fire damage, without any fire being created, a burn appears on the target.\nGleeful Gaze: The target must make a DC 13 Wisdom saving throw or become Charmed for 1 minute. The target repeats the save at the end of each of its turns."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Reactive Blink (Recharge 5-6)",
+            "desc": "When hit by an attack, the Blinkstalker can instantly teleport up to 30 feet to an unoccupied space it can see. This does not prevent the triggering attack from hitting, but helps it avoid follow-up attacks."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Cult Fanatic",
+      {
+        "name": "Cult Fanatic",
+        "cr": "2 (450 XP)",
+        "types": "Humanoid (any race)",
+        "size": "Medium",
+        "languages": "any one language (usually Common)",
+        "alignment": "Any Non-good",
+        "description": "[b]Fanatics[/b[ are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.",
+        "suggestedenvironment": "",
+        "ac": "13 (leather armor)",
+        "hitpoints": "33 [roll:6d8+6]",
+        "strength": "11",
+        "dexterity": "14",
+        "constitution": "12",
+        "intelligence": "10",
+        "wisdom": "13",
+        "charisma": "14",
+        "movement": "30",
+        "fly": "",
+        "hover": "",
+        "burrow": "",
+        "swim": "",
+        "climb": "",
+        "senses": "passive Perception 11",
+        "skills": "Deception +4, Persuasion +4, Religion +2",
+        "savingthrows": "",
+        "damagevulnerabilities": "",
+        "damageresistances": "",
+        "damageimmunities": "",
+        "conditionimmunities": "",
+        "spellcasting": "The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The acolyte has following cleric spells prepared:",
+        "atwill": "Cantrips (at will): [i]light, sacred flame, thaumaturgy[/i][br]\r\n1st level (4 slots): [i]command, inflict wounds, shield of faith[/i][br]\r\n2nd level (3 slots): [i]hold person, spiritual weapon[/i]",
+        "onceperday": "",
+        "twiceperday": "",
+        "thriceperday": "",
+        "specialabilities": "[b][i]Dark Devotion.[/i][/b] The cultist has advantage on saving throws against being charmed or frightened.",
+        "actions": "[b][i]Multiattack.[/i][/b] The fanatic makes two melee attacks.\r\n[br]\r\n[b][i]Dagger.[/i][/b] [i]Melee or Ranged Weapon Attack:[/i] +4 to hit, reach 5 ft. or range 20/60 ft., one target. [i]Hit:[/i] 4 [roll:1d4+2] piercing damage.",
+        "reactions": "",
+        "legendaryactions": "",
+        "lairdescription": "",
+        "lairactions": "",
+        "regionaleffects": "",
+        "image": "",
+        "tabledata": "",
+        "tags": "",
+        "templateId": "21",
+        "blockId": "566"
+      }
+    ],
+    [
+      "Ascended Cultist",
+      {
+        "image": null,
+        "name": "Ascended Cultist",
+        "source": "CritterDB",
+        "type": "Aberration",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 75,
+        "hit_dice": "10d8 + 30",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          16,
+          10,
+          12,
+          8
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Legendary Mutation (Once Per Combat)",
+            "desc": "if the Ascended Cultist has half its HP or less, It sprouts an additional limb, allowing it to make one extra Tendril Strike as a bonus action on each of its turns."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Ascended Cultist makes two Tendril Strikes or one Tendril Strike and one Mutagenic Blast."
+          },
+          {
+            "name": "Tendril Strike",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage."
+          },
+          {
+            "name": "Mutagenic Blast",
+            "desc": "Ranged Spell Attack: +4 to hit, range 30ft., one target. Hit: 11 (2d8 + 2) necrotic damage.\nand the target must succeed on a DC 13 Constitution saving throw or be stunned until the start of the cultist’s next turn."
+          },
+          {
+            "name": "Warping Howl (Recharge 5-6)",
+            "desc": "The Ascended Cultist releases a horrifying, reality-warping screech.\n\nEach creature within 15 ft. must make a DC 13 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened for 1 minute.\nA creature can repeat the save at the end of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Reptilian Flesh Golem",
+      {
+        "image": null,
+        "name": "Reptilian Flesh Golem",
+        "source": "CritterDB",
+        "type": "construct",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 110,
+        "hit_dice": "13d8 + 52",
+        "ac": 12,
+        "speed": "30ft, climb 20ft",
+        "stats": [
+          18,
+          9,
+          18,
+          6,
+          10,
+          5
+        ],
+        "damage_immunities": "lightning, poison, psychic",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "blinded, charmed, exhaustion, frightened, paralyzed, poisoned",
+        "saves": [
+          {
+            "constitution": 6
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Blind But Aware",
+            "desc": "The golem is blind but has blindsight out to 10 feet. It automatically fails any ability check that requires sight but is not affected by effects that rely solely on vision."
+          },
+          {
+            "name": "Reptilian Hide",
+            "desc": "The flesh golem has patches of scaled, thickened skin. Once per day, it can reduce damage from a single attack by 10 (as a reaction)."
+          },
+          {
+            "name": "Surgical Reconstruction",
+            "desc": "The golem has visible seams and stitches from various surgeries. Any slashing damage causes it to lose pieces—when it drops below half HP, it gains disadvantage on Dexterity saving throws."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The golem makes two slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 7,
+    "patch": 8
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

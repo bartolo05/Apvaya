@@ -1,0 +1,169 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Calender Apvaÿa",
+      "description": "Calender for the world of Apvaÿa",
+      "id": "ID_e9cb18099a78",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "1",
+            "id": "ID_49481beb6b5b"
+          },
+          {
+            "type": "day",
+            "name": "2",
+            "id": "ID_cac9da69aa1b"
+          },
+          {
+            "type": "day",
+            "name": "3",
+            "id": "ID_09abc8c9ead8"
+          },
+          {
+            "type": "day",
+            "name": "4",
+            "id": "ID_f8d8380afa78"
+          },
+          {
+            "type": "day",
+            "name": "5",
+            "id": "ID_58a8aaeaab6b"
+          },
+          {
+            "type": "day",
+            "name": "6",
+            "id": "ID_39c99b59ca7b"
+          },
+          {
+            "type": "day",
+            "name": "7",
+            "id": "ID_8a89db0bf8e9"
+          },
+          {
+            "type": "day",
+            "name": "8",
+            "id": "ID_e988695b18a8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Primar",
+            "length": 40,
+            "id": "ID_59dbf87a4ae8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sequar",
+            "length": 40,
+            "id": "ID_6bd8696b291a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tertar",
+            "length": 40,
+            "id": "ID_696bd96838b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quar",
+            "length": 40,
+            "id": "ID_cbd9fb58ca38",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quintar",
+            "length": 40,
+            "id": "ID_2beafb29f859",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sestar",
+            "length": 40,
+            "id": "ID_dba868fa593b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Settar",
+            "length": 40,
+            "id": "ID_9b69baa8289a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ottar",
+            "length": 40,
+            "id": "ID_f8ea1b089918",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "current": {
+        "day": 28,
+        "month": 3,
+        "year": 2802
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_e9cb18099a78",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}
