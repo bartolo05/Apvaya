@@ -7,11 +7,11 @@
 |          |                                                        |        |                                                       |
 
 
-|    name: |                 [Alurion](../Pantheon/Alurion.md)                 | &harr; |                               [Veylxos](../Pantheon/Veylxos.md)                               |
-| -------: | :---------------------------------------------------------------: | ------ | :-------------------------------------------------------------------------------------------: |
-|   title: |                    The Beacon of Illumination                     |        |                                      The Veil of Secrets                                      |
-| domains: | Libraries, education, revelations, and justice through knowledge. |        | Lost ruins, forbidden magic, forgotten truths, the unknown, mysteries, darkness en deception. |
-|  symbol: |                  An open book with a blazing sun                  |        |                                      A half-covered tome                                      |
+|    name: |                 [Alurion](../Pantheon/Alurion.md)                 | &harr; |                               [Veylxos](../Pantheon/Veylxos.md)                               |     |
+| -------: | :---------------------------------------------------------------: | ------ | :-------------------------------------------------------------------------------------------: | --- |
+|   title: |                    The Beacon of Illumination                     |        |                                      The Veil of Secrets                                      |     |
+| domains: | Libraries, education, revelations, and justice through knowledge. |        | Lost ruins, forbidden magic, forgotten truths, the unknown, mysteries, darkness en deception. |     |
+|  symbol: |                  An open book with a blazing sun                  |        |                                      A half-covered tome                                      |     |
 
 |    name: |        [Oryndur](../Pantheon/Oryndur.md)        | &harr; |          [Krelar](../Pantheon/Krelar.md)           |
 | -------: | :---------------------------------------------: | ------ | :------------------------------------------------: |
