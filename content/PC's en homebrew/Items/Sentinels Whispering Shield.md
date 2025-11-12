@@ -7,7 +7,7 @@ tags: [magic item, shield, artifact]
 
 Etched with runes that softly **whisper warnings**, this ancient shield seems almost alive — murmuring faintly at the edge of hearing whenever danger draws near. The whispers are not words but impressions: tension, alertness, the sound of air shifting before a strike.
 
-When held close, the shield’s surface hums with quiet vigilance, like a heartbeat that does not belong to its bearer.
+When held close, the shield’s surface hums wsith quiet vigilance, like a heartbeat that does not belong to its bearer.
 
 ---
 
