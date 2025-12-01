@@ -8,7 +8,89 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a48b12af1cf9aadb",
+            "id": "5ded99f01e4a916f",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Bandit",
+                    "source": "5e SRD",
+                    "size": "Medium",
+                    "type": "humanoid",
+                    "subtype": "any race",
+                    "alignment": "any non-lawful alignment",
+                    "ac": 12,
+                    "hp": 11,
+                    "hit_dice": "2d8 + 2",
+                    "speed": "30 ft.",
+                    "stats": [
+                      11,
+                      12,
+                      12,
+                      10,
+                      10,
+                      10
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "",
+                    "senses": "passive Perception 10",
+                    "languages": "any one language (usually Common)",
+                    "cr": "1/8",
+                    "bestiary": true,
+                    "actions": [
+                      {
+                        "name": "Scimitar",
+                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
+                        "attack_bonus": 3,
+                        "damage_dice": "1d6",
+                        "damage_bonus": 1
+                      },
+                      {
+                        "name": "Light Crossbow",
+                        "desc": "Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+                        "attack_bonus": 3,
+                        "damage_dice": "1d8",
+                        "damage_bonus": 1
+                      }
+                    ]
+                  },
+                  6
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "6fffd44dc40cff72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/plannen en avonturen/14) Silvermourn village.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "14) Silvermourn village"
+            }
+          },
+          {
+            "id": "bfb3ae1a7d8da580",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,136 +114,12 @@
             }
           },
           {
-            "id": "4f168590bb3f3f8f",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Shambling Mound",
-                    "source": "5e SRD",
-                    "size": "Large",
-                    "type": "plant",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 15,
-                    "hp": 136,
-                    "hit_dice": "16d10 + 48",
-                    "speed": "20 ft., swim 20 ft.",
-                    "stats": [
-                      18,
-                      8,
-                      16,
-                      5,
-                      10,
-                      5
-                    ],
-                    "skillsaves": [
-                      {
-                        "stealth": 2
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "cold, fire",
-                    "damage_immunities": "lightning",
-                    "condition_immunities": "blinded, deafened, exhaustion",
-                    "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10",
-                    "languages": "",
-                    "cr": "5",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Lightning Absorption",
-                        "desc": "Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Slam",
-                        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
-                        "attack_bonus": 7,
-                        "damage_dice": "2d8",
-                        "damage_bonus": 4
-                      },
-                      {
-                        "name": "Engulf",
-                        "desc": "The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.",
-                        "attack_bonus": 0
-                      }
-                    ]
-                  },
-                  2
-                ],
-                [
-                  {
-                    "image": null,
-                    "name": "Vine Blight",
-                    "source": "CritterDB",
-                    "type": "Plant",
-                    "subtype": "",
-                    "size": "Medium",
-                    "alignment": "",
-                    "hp": 32,
-                    "hit_dice": "5d8 + 10",
-                    "ac": 13,
-                    "speed": "20",
-                    "stats": [
-                      15,
-                      8,
-                      14,
-                      5,
-                      10,
-                      3
-                    ],
-                    "damage_immunities": "",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "blinded, deafened",
-                    "saves": [],
-                    "skillsaves": [],
-                    "senses": "blindsight 60 ft",
-                    "languages": "Common",
-                    "cr": 1,
-                    "traits": [
-                      {
-                        "name": "False Appearance",
-                        "desc": "While the blight remains motionless, it is indistinguishable from a tangle of vines."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Constrict",
-                        "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the blight can't constrict another target."
-                      },
-                      {
-                        "name": "Entangling Plants (Recharge 5–6)",
-                        "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become restrained. A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success"
-                      }
-                    ],
-                    "reactions": [],
-                    "legendary_actions": []
-                  },
-                  3
-                ]
-              ],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
-            "id": "e8cf8d52ee60b500",
+            "id": "d425a0c88f107597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/NPC's/Silvermourn/Vorrin.md",
+                "file": "Hidden/plannen en avonturen/13) The path to silvermourn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -176,16 +134,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vorrin"
+              "title": "13) The path to silvermourn"
             }
           },
           {
-            "id": "6fffd44dc40cff72",
+            "id": "53dbe119d01dfa1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's en homebrew/Items/Seers Lens.md",
+                "file": "Hidden/NPC's/Branolda and Rellin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -200,35 +158,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Seers Lens"
-            }
-          },
-          {
-            "id": "bfb3ae1a7d8da580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/Items/Bounty Note – Contract on Ebzir.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bounty Note – Contract on Ebzir"
+              "title": "Branolda and Rellin"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shield",
+                "query": "murm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 314.5
   },
   "right": {
     "id": "ad85b2e2f1ee4924",
@@ -397,7 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -412,28 +346,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e8cf8d52ee60b500",
+  "active": "d425a0c88f107597",
   "lastOpenFiles": [
-    "Hidden/img/Vorrin.png",
-    "Hidden/NPC's/Silvermourn/Vorrin.md",
-    "Hidden/img/Unconfirmed 734036.crdownload",
+    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
+    "Hidden/NPC's/Silvermourn/Khessa Longclaw.md",
     "Hidden/Locations/Silvermourn.md",
+    "Hidden/NPC's/Branolda and Rellin.md",
+    "Hidden/plannen en avonturen/14) Silvermourn village.md",
+    "Hidden/img/Mirael.png",
+    "Untitled 1.base",
     "Hidden/plannen en avonturen/13) The path to silvermourn.md",
+    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "Hidden/Items/Cloak of Resonant Faith.md",
+    "Hidden/Items/Staff of the Gentle Moon.md",
+    "Hidden/img/CloakOfResonantFaith.png",
+    "Hidden/img/Unconfirmed 188913.crdownload",
+    "Hidden/NPC's/Silvermourn/Vorrin.md",
+    "Hidden/img/MiraelTheWhisperingBlight.png",
+    "Hidden/img/Unconfirmed 80599.crdownload",
+    "Hidden/NPC's/Silvermourn/Mirael.md",
+    "Hidden/img/KhessaLongclaw.png",
+    "Hidden/img/Unconfirmed 35458.crdownload",
+    "PC's en homebrew/Items/Seers Lens.md",
+    "Hidden/Items/Bounty Note – Contract on Ebzir.md",
+    "Hidden/img/Vorrin.png",
+    "Hidden/img/Unconfirmed 734036.crdownload",
     "Pantheon/Kaldyra.md",
     "Pantheon/Pantheon.md",
     "Tar Neôl/Karzal's Pit.md",
     "Untitled.base",
-    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
     "Tar Neôl/Avarno's Silkware.md",
     "Hidden/NPC's/Silvermourn/Tilda Threadbone.md",
     "Hidden/NPC's/Silvermourn/Clucksworth.md",
-    "Hidden/img/Mirael.png",
     "Hidden/img/Mammuphant.png",
     "Hidden/NPC's/Silvermourn/Varik.md",
     "Hidden/Character plothooks/Braella's pray count.md",
@@ -442,29 +391,14 @@
     "Hidden/img/TildaThreadbone.png",
     "Hidden/img/Unconfirmed 357745.crdownload",
     "Hidden/NPC's/Silvermourn",
-    "Hidden/NPC's/Branolda and Rellin.md",
     "Hidden/img/BranoldaAndRellin.png",
     "Hidden/img/Unconfirmed 528558.crdownload",
     "Hidden/NPC's/Silvermourn/Redcap Mender.md",
     "Hidden/img/Redcap.png",
-    "Hidden/img/Unconfirmed 357649.crdownload",
     "Hidden/NPC's/Silvermourn/Gnarl.md",
-    "Hidden/NPC's/Silvermourn/Mirael.md",
-    "Hidden/img/Gnarl.png",
-    "Hidden/img/Unconfirmed 90569.crdownload",
-    "Hidden/img/Unconfirmed 336169.crdownload",
-    "Hidden/Locations",
     "Hidden/Untitled.md",
-    "img/Azter.png",
-    "img/Avaroth.jpg",
-    "Hidden/Items/Bounty Note – Contract on Ebzir.md",
     "NPCs/circus/Ebzir.md",
     "Avonturen/Sessie 1 De trek.md",
-    "Hidden/plannen en avonturen/1) De Trek.md",
-    "Avonturen/Sessie 5 De Flesh Warrens.md",
-    "NPCs/Zarra Vex.md",
-    "NPCs/Karzal.md",
-    "Tar Neôl/The Brazen Gritpour.md",
     "Untitled.canvas"
   ]
 }
