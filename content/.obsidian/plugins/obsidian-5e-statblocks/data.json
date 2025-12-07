@@ -1339,6 +1339,83 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Phionic Shardskitter",
+      {
+        "image": null,
+        "name": "Phionic Shardskitter",
+        "source": "CritterDB",
+        "type": "Aberration",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Chaotic Neutral",
+        "hp": 68,
+        "hit_dice": "8d8 + 32",
+        "ac": 15,
+        "speed": "40ft.",
+        "stats": [
+          10,
+          18,
+          18,
+          6,
+          14,
+          6
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, frightened",
+        "saves": [
+          {
+            "dexterity": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 6
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 6
+          }
+        ],
+        "senses": "darkvision 120 ft., tremorsense 20 ft.",
+        "languages": "understands Deep Speech",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Dimensional Skitter",
+            "desc": "When a creature misses the Shardskitter with an attack, it teleports randomly on the battlefield.\nThis movement does not provoke opportunity attacks."
+          },
+          {
+            "name": "Phase-On-Impact (1/turn)",
+            "desc": "The first time the skitter hits a creature with an attack on it's turn, they both randomly teleport together."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Shardskitter makes two attacks: one with its Bite and one with its Claw."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\nand the target must make a DC 14 Wisdom save or take 4 (1d6) psychic damage as fractal pain echoes through their mind."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+          },
+          {
+            "name": "Dimensional Slice (Recharge 5–6)",
+            "desc": "ranged spell effect: The Shardskitter tears the air with its crystalline limbs, creating a brief rift.\nEach creature in a 10-foot cone must make a DC 14 Dexterity save, taking:\n14 (4d6) force damage on a failed save, Half on a success\n\nOn a failure, the creature also teleports 5 feet in a random direction (roll a d8)."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {},
