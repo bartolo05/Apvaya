@@ -1,11 +1,8 @@
-De party bestaat uit 
+De party bestaat uit
 [Aeron Nightbreeze](../PC's%20en%20homebrew/Aeron%20Nightbreeze.md), de Owlin sorcerer,
 [Brior Lunarmane](../PC's%20en%20homebrew/Brior%20Lunarmane.md), de Leonin druid,
 [Scoot McToot](../PC's%20en%20homebrew/Scoot%20McToot.md), de Tortle barbarian en
 [Tav Marvelous](../PC's%20en%20homebrew/Tav%20Marvelous.md), de Human sorcerer
 [Laevis Hollowtail](../PC's%20en%20homebrew/Laevis%20Hollowtail.md), de Harengon paladin
-
-Binnenkort ook uit:
-[Sutske McSutsface](../PC's%20en%20homebrew/Sutske%20McSutsface.md)
-[Jewel McJewelface](../PC's%20en%20homebrew/Jewel%20McJewelface.md)
-[Mark Van Zee](../PC's%20en%20homebrew/Mark%20Van%20Zee.md)
+[Breala Gleambow](../PC's%20en%20homebrew/Breala%20Gleambow.md), Lizard-folk Cleric
+[Mark Van Zee](../PC's%20en%20homebrew/Mark%20Van%20Zee.md), Triton Warlock

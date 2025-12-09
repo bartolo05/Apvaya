@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/plannen en avonturen/13) The path to silvermourn.md",
+                "file": "PC's en homebrew/De Party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,59 +110,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "13) The path to silvermourn"
-            }
-          },
-          {
-            "id": "d425a0c88f107597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/plannen en avonturen/13) The path to silvermourn.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "13) The path to silvermourn"
-            }
-          },
-          {
-            "id": "53dbe119d01dfa1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/NPC's/Branolda and Rellin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Branolda and Rellin"
+              "title": "De Party"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,21 +183,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "b5414c4847edc54c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "c47f0f38e9d3cb19",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC's en homebrew/De Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for De Party"
             }
           },
           {
@@ -331,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,8 +295,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d425a0c88f107597",
+  "active": "bfb3ae1a7d8da580",
   "lastOpenFiles": [
+    "PC's en homebrew/Mark Van Zee.md",
+    "PC's en homebrew/De Party.md",
+    "PC's en homebrew/Breala Gleambow.md",
+    "PC's en homebrew/Laevis Hollowtail.md",
+    "PC's en homebrew/Tav Marvelous.md",
+    "PC's en homebrew/Scoot McToot.md",
+    "PC's en homebrew/Brior Lunarmane.md",
+    "PC's en homebrew/Aeron Nightbreeze.md",
+    "PC's en homebrew/Algemene afspraken.md",
+    "index.md",
+    "Main/Apvaÿa.md",
+    "NPCs/circus/Lanja, Lavna en Lagna.md",
+    "NPCs/circus/Durdur Kienoog.md",
+    "PC's en homebrew/PC's maken.md",
+    "Pasted image 20250518135653.png",
     "Hidden/plannen en avonturen/9) The search for the Lantern.md",
     "Hidden/NPC's/Silvermourn/Khessa Longclaw.md",
     "Hidden/Locations/Silvermourn.md",
@@ -373,19 +332,10 @@
     "Hidden/img/KhessaLongclaw.png",
     "Hidden/img/Unconfirmed 35458.crdownload",
     "PC's en homebrew/Items/Seers Lens.md",
-    "Hidden/Items/Bounty Note – Contract on Ebzir.md",
     "Hidden/img/Vorrin.png",
     "Hidden/img/Unconfirmed 734036.crdownload",
-    "Pantheon/Kaldyra.md",
-    "Pantheon/Pantheon.md",
-    "Tar Neôl/Karzal's Pit.md",
     "Untitled.base",
-    "Tar Neôl/Avarno's Silkware.md",
-    "Hidden/NPC's/Silvermourn/Tilda Threadbone.md",
-    "Hidden/NPC's/Silvermourn/Clucksworth.md",
     "Hidden/img/Mammuphant.png",
-    "Hidden/NPC's/Silvermourn/Varik.md",
-    "Hidden/Character plothooks/Braella's pray count.md",
     "Hidden/img/Clucksworth.png",
     "Hidden/img/Unconfirmed 788994.crdownload",
     "Hidden/img/TildaThreadbone.png",
@@ -393,12 +343,6 @@
     "Hidden/NPC's/Silvermourn",
     "Hidden/img/BranoldaAndRellin.png",
     "Hidden/img/Unconfirmed 528558.crdownload",
-    "Hidden/NPC's/Silvermourn/Redcap Mender.md",
-    "Hidden/img/Redcap.png",
-    "Hidden/NPC's/Silvermourn/Gnarl.md",
-    "Hidden/Untitled.md",
-    "NPCs/circus/Ebzir.md",
-    "Avonturen/Sessie 1 De trek.md",
     "Untitled.canvas"
   ]
 }
