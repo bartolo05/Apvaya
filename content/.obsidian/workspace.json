@@ -8,55 +8,109 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ded99f01e4a916f",
+            "id": "6fffd44dc40cff72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/plannen en avonturen/5) The flesh warrens.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5) The flesh warrens"
+            }
+          },
+          {
+            "id": "0c4a29b3d28186de",
             "type": "leaf",
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": [
                 [
                   {
-                    "name": "Bandit",
-                    "source": "5e SRD",
+                    "image": null,
+                    "name": "Phionic Shardskitter",
+                    "source": "CritterDB",
+                    "type": "Aberration",
+                    "subtype": "",
                     "size": "Medium",
-                    "type": "humanoid",
-                    "subtype": "any race",
-                    "alignment": "any non-lawful alignment",
-                    "ac": 12,
-                    "hp": 11,
-                    "hit_dice": "2d8 + 2",
-                    "speed": "30 ft.",
+                    "alignment": "Chaotic Neutral",
+                    "hp": 68,
+                    "hit_dice": "8d8 + 32",
+                    "ac": 15,
+                    "speed": "40ft.",
                     "stats": [
-                      11,
-                      12,
-                      12,
                       10,
-                      10,
-                      10
+                      18,
+                      18,
+                      6,
+                      14,
+                      6
                     ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
                     "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "passive Perception 10",
-                    "languages": "any one language (usually Common)",
-                    "cr": "1/8",
-                    "bestiary": true,
-                    "actions": [
+                    "damage_resistances": "psychic",
+                    "damage_vulnerabilities": "",
+                    "condition_immunities": "charmed, frightened",
+                    "saves": [
                       {
-                        "name": "Scimitar",
-                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
-                        "attack_bonus": 3,
-                        "damage_dice": "1d6",
-                        "damage_bonus": 1
+                        "dexterity": 6
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "Acrobatics": 6
                       },
                       {
-                        "name": "Light Crossbow",
-                        "desc": "Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
-                        "attack_bonus": 3,
-                        "damage_dice": "1d8",
-                        "damage_bonus": 1
+                        "Perception": 4
+                      },
+                      {
+                        "Stealth": 6
                       }
-                    ]
+                    ],
+                    "senses": "darkvision 120 ft., tremorsense 20 ft.",
+                    "languages": "understands Deep Speech",
+                    "cr": 3,
+                    "traits": [
+                      {
+                        "name": "Dimensional Skitter",
+                        "desc": "When a creature misses the Shardskitter with an attack, it teleports randomly on the battlefield.\nThis movement does not provoke opportunity attacks."
+                      },
+                      {
+                        "name": "Phase-On-Impact (1/turn)",
+                        "desc": "The first time the skitter hits a creature with an attack on it's turn, they both randomly teleport together."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The Shardskitter makes two attacks: one with its Bite and one with its Claw."
+                      },
+                      {
+                        "name": "Bite",
+                        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\nand the target must make a DC 14 Wisdom save or take 4 (1d6) psychic damage as fractal pain echoes through their mind."
+                      },
+                      {
+                        "name": "Claw",
+                        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+                      },
+                      {
+                        "name": "Dimensional Slice (Recharge 5–6)",
+                        "desc": "ranged spell effect: The Shardskitter tears the air with its crystalline limbs, creating a brief rift.\nEach creature in a 10-foot cone must make a DC 14 Dexterity save, taking:\n14 (4d6) force damage on a failed save, Half on a success\n\nOn a failure, the creature also teleports 5 feet in a random direction (roll a d8)."
+                      }
+                    ],
+                    "reactions": [],
+                    "legendary_actions": []
                   },
                   6
                 ]
@@ -66,84 +120,12 @@
             }
           },
           {
-            "id": "6fffd44dc40cff72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/plannen en avonturen/14) Silvermourn village.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "14) Silvermourn village"
-            }
-          },
-          {
-            "id": "bfb3ae1a7d8da580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/plannen en avonturen/13) The path to silvermourn.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "13) The path to silvermourn"
-            }
-          },
-          {
-            "id": "d425a0c88f107597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/plannen en avonturen/13) The path to silvermourn.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "13) The path to silvermourn"
-            }
-          },
-          {
             "id": "53dbe119d01dfa1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/NPC's/Branolda and Rellin.md",
+                "file": "Hidden/Character plothooks/Tav's Background.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,11 +140,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Branolda and Rellin"
+              "title": "Tav's Background"
+            }
+          },
+          {
+            "id": "5ca8ae673a84e3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/plannen en avonturen/15) The Open Circus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "15) The Open Circus"
+            }
+          },
+          {
+            "id": "04ac3601fb1cb24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phionic Shardskitter"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,6 +336,26 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "673b5be21d345d33",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "2f36ac6319414656",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -335,8 +385,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "quartz-syncer:Quartz Syncer publication center": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -351,54 +401,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d425a0c88f107597",
+  "active": "04ac3601fb1cb24e",
   "lastOpenFiles": [
-    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
-    "Hidden/NPC's/Silvermourn/Khessa Longclaw.md",
-    "Hidden/Locations/Silvermourn.md",
-    "Hidden/NPC's/Branolda and Rellin.md",
+    "NPCs/Bltng, Zlthp en Drbn.md",
+    "Hidden/plannen en avonturen/15) The Open Circus.md",
+    "NPCs/circus/Avaroth.md",
+    "Hidden/Character plothooks/Tav's Background.md",
     "Hidden/plannen en avonturen/14) Silvermourn village.md",
-    "Hidden/img/Mirael.png",
-    "Untitled 1.base",
-    "Hidden/plannen en avonturen/13) The path to silvermourn.md",
-    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
-    "Hidden/Items/Cloak of Resonant Faith.md",
-    "Hidden/Items/Staff of the Gentle Moon.md",
-    "Hidden/img/CloakOfResonantFaith.png",
-    "Hidden/img/Unconfirmed 188913.crdownload",
-    "Hidden/NPC's/Silvermourn/Vorrin.md",
-    "Hidden/img/MiraelTheWhisperingBlight.png",
-    "Hidden/img/Unconfirmed 80599.crdownload",
-    "Hidden/NPC's/Silvermourn/Mirael.md",
-    "Hidden/img/KhessaLongclaw.png",
-    "Hidden/img/Unconfirmed 35458.crdownload",
-    "PC's en homebrew/Items/Seers Lens.md",
-    "Hidden/Items/Bounty Note – Contract on Ebzir.md",
-    "Hidden/img/Vorrin.png",
-    "Hidden/img/Unconfirmed 734036.crdownload",
-    "Pantheon/Kaldyra.md",
-    "Pantheon/Pantheon.md",
-    "Tar Neôl/Karzal's Pit.md",
-    "Untitled.base",
-    "Tar Neôl/Avarno's Silkware.md",
-    "Hidden/NPC's/Silvermourn/Tilda Threadbone.md",
-    "Hidden/NPC's/Silvermourn/Clucksworth.md",
-    "Hidden/img/Mammuphant.png",
-    "Hidden/NPC's/Silvermourn/Varik.md",
+    "Hidden/Locations/Silvermourn.md",
+    "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
+    "Hidden/img/Aurelien-Human.png",
+    "Hidden/img/Unconfirmed 426228.crdownload",
+    "Hidden/img/Aurelien-Aasimar.png",
+    "Hidden/img/Unconfirmed 878007.crdownload",
+    "Hidden/Character plothooks/The dream of the burned village.md",
     "Hidden/Character plothooks/Braella's pray count.md",
-    "Hidden/img/Clucksworth.png",
-    "Hidden/img/Unconfirmed 788994.crdownload",
-    "Hidden/img/TildaThreadbone.png",
-    "Hidden/img/Unconfirmed 357745.crdownload",
-    "Hidden/NPC's/Silvermourn",
-    "Hidden/img/BranoldaAndRellin.png",
-    "Hidden/img/Unconfirmed 528558.crdownload",
-    "Hidden/NPC's/Silvermourn/Redcap Mender.md",
-    "Hidden/img/Redcap.png",
-    "Hidden/NPC's/Silvermourn/Gnarl.md",
-    "Hidden/Untitled.md",
-    "NPCs/circus/Ebzir.md",
-    "Avonturen/Sessie 1 De trek.md",
-    "Untitled.canvas"
+    "Avonturen/Sessie 6 The stolen wizard's apprentice.md",
+    "Avonturen/Sessie 7 Battle of the IKEA.md",
+    "Avonturen/Sessie 8 The nightmare surgery.md",
+    "Hidden/plannen en avonturen/6) The stolen princess.md",
+    "Hidden/NPC's/Selyra Koperhart.md",
+    "Hidden/plannen en avonturen/8) The nightmare surgery.md",
+    "Hidden/plannen en avonturen/7) Battle of the IKEA.md",
+    "Hidden/NPC's/Maerion Inkthayne.md",
+    "Hidden/plannen en avonturen/5) The flesh warrens.md",
+    "Hidden/NPC's/Poortwachters.md",
+    "Hidden/NPC's/Corvin Wildfire.md",
+    "NPCs/The Motley Marvels.md",
+    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "Hidden/plannen en avonturen/12) Brother of the Beast.md",
+    "NPCs/circus/Lessra Bloedrots.md",
+    "NPCs/circus/Zomer Nachtewind.md",
+    "NPCs/circus/Tobin, Jorin, Lowin en Golin Ligblad.md",
+    "Hidden/stat blocks/Untitled",
+    "Hidden/stat blocks/Creatures",
+    "Hidden/img/ShardBeast.png",
+    "Hidden/img/Unconfirmed 586018.crdownload",
+    "Hidden/img/Showstopper's Prism.png",
+    "Hidden/img/Unconfirmed 999106.crdownload",
+    "Hidden/img/CloakOfResonantFaithNB.png",
+    "Hidden/img/Unconfirmed 794008.crdownload",
+    "Hidden/img/Unconfirmed 946441.crdownload",
+    "Hidden/img/MoonstoneNecklace.png",
+    "Hidden/img/Unconfirmed 729222.crdownload",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Pasted image 20250518135653.png",
+    "Hidden/img/Mirael.png",
+    "Hidden/img/CloakOfResonantFaith.png",
+    "Hidden/img/MiraelTheWhisperingBlight.png"
   ]
 }
