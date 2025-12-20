@@ -1,1 +1,10 @@
-TODO
+# Breala Gleambow
+
+Breala Gleambow is een Lizard-Folk Cleric voor het geloof van Orde.
+
+Haar elfen familie zit verzeild in een Cult vd Orde (maar zien het zo niet) en ze is daar opgegroeid. Haar familie heeft over de jaren een sterke plaats binnen de cult kunnen verkrijgen en Breala is trots op. Voor haar is het gewoon een heel knus dorp waar ze opgegroeid is, want dit is alles wat ze ooit heeft gekend. Ze heeft een aantal familie leden waar ze goed mee overweg komt en een paar kerk vriendjes. Ze had vroeger een oom die wat losser was in zijn geloof, maar die is een paar jaar terug verdwenen.
+Breala neemt het hem kwalijk, omdat dit haar met vragen achterliet waar ze liefst geen antwoord op krijgt. Ze is bang voor wat het zou betekenen. Sinds dien stelt ze af en toe, in de stilte van de nacht , sommige kleine acties van haar gemeenschap in vraag. Maar niet te vaak. Ze is nogaltijd heel gewijd aan haar geloof!
+Ze stond op het punt om haar communie te mogen doen en als volwaardig lid van de gemeenschap door het leven te mogen gaan. Maar er liep iets mis, ze heeft geen idee wat maar het is voor haar duidelijk dat ze iets verschikkelijk fout moet hebben gedaan. Net voordat de jonge elfen hun communie gingen voltooien kwam er een storm van speelkaarten binnen gewaaid. Deze vormde een tornado rondom Breala en veranderde haar gedaante van elf tot lizard-folk. Gekwetst, beschaamd en verward werd ze snel uit de ruimte gehaald. De andere kerkgangers begonnen direct met haar uit te maken voor een ongelovige en onwaardige te noemen.
+Haar vader wou een verbanning opleggen, maar dankzij het woord van haar moeder, de baas van het huishouden, werd het een pelgrimstocht. Dit gaf niet veel verschil voor Breala. Nu is ze opzoek naar een antwoord voor haar vele vragen. Ze hoopt dat ze terug een elf kan worden en haar rechtmatige plaats kan opeisen binnen de gemeenschap. Ze wilt haar vader en de andere bewijzen dat ze verkeerd waren, en ook stiekem zichzelf.
+
+![](../img/Breala%20Gleambow.webp)

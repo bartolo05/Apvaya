@@ -35,3 +35,5 @@ In ruil krijgt hij voedsel, onderdak en tijd om zijn onderzoek voort te zetten. 
 ### Persoonlijkheid
 
 Mark Van Zee is geobsedeerd, maar niet verdorven. Zijn pact met de entiteit achter de spiegel heeft zijn begrip vergroot, maar zijn geweten behouden. Hij blijft handelen uit overtuiging van goedheid, al kiest hij vaak onconventionele of chaotische wegen om die te bereiken.
+
+![](../img/MarkVanZee.webp)

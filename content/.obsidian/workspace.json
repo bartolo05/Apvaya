@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "53dbe119d01dfa1d",
+            "id": "6fffd44dc40cff72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Character plothooks/Tav's Background.md",
+                "file": "Hidden/plannen en avonturen/14) Silvermourn village.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -140,16 +140,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tav's Background"
+              "title": "14) Silvermourn village"
             }
           },
           {
-            "id": "5ca8ae673a84e3f5",
+            "id": "bfb3ae1a7d8da580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/plannen en avonturen/15) The Open Circus.md",
+                "file": "PC's en homebrew/De Party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -164,35 +164,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15) The Open Circus"
-            }
-          },
-          {
-            "id": "04ac3601fb1cb24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phionic Shardskitter"
+              "title": "De Party"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,21 +237,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "b5414c4847edc54c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "c47f0f38e9d3cb19",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC's en homebrew/De Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for De Party"
             }
           },
           {
@@ -381,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -401,54 +369,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "04ac3601fb1cb24e",
+  "active": "bfb3ae1a7d8da580",
   "lastOpenFiles": [
-    "NPCs/Bltng, Zlthp en Drbn.md",
-    "Hidden/plannen en avonturen/15) The Open Circus.md",
-    "NPCs/circus/Avaroth.md",
-    "Hidden/Character plothooks/Tav's Background.md",
-    "Hidden/plannen en avonturen/14) Silvermourn village.md",
-    "Hidden/Locations/Silvermourn.md",
-    "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
-    "Hidden/img/Aurelien-Human.png",
-    "Hidden/img/Unconfirmed 426228.crdownload",
-    "Hidden/img/Aurelien-Aasimar.png",
-    "Hidden/img/Unconfirmed 878007.crdownload",
-    "Hidden/Character plothooks/The dream of the burned village.md",
-    "Hidden/Character plothooks/Braella's pray count.md",
-    "Avonturen/Sessie 6 The stolen wizard's apprentice.md",
-    "Avonturen/Sessie 7 Battle of the IKEA.md",
-    "Avonturen/Sessie 8 The nightmare surgery.md",
-    "Hidden/plannen en avonturen/6) The stolen princess.md",
-    "Hidden/NPC's/Selyra Koperhart.md",
-    "Hidden/plannen en avonturen/8) The nightmare surgery.md",
-    "Hidden/plannen en avonturen/7) Battle of the IKEA.md",
-    "Hidden/NPC's/Maerion Inkthayne.md",
-    "Hidden/plannen en avonturen/5) The flesh warrens.md",
-    "Hidden/NPC's/Poortwachters.md",
-    "Hidden/NPC's/Corvin Wildfire.md",
-    "NPCs/The Motley Marvels.md",
-    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
-    "Hidden/plannen en avonturen/12) Brother of the Beast.md",
-    "NPCs/circus/Lessra Bloedrots.md",
-    "NPCs/circus/Zomer Nachtewind.md",
-    "NPCs/circus/Tobin, Jorin, Lowin en Golin Ligblad.md",
-    "Hidden/stat blocks/Untitled",
-    "Hidden/stat blocks/Creatures",
-    "Hidden/img/ShardBeast.png",
-    "Hidden/img/Unconfirmed 586018.crdownload",
-    "Hidden/img/Showstopper's Prism.png",
-    "Hidden/img/Unconfirmed 999106.crdownload",
-    "Hidden/img/CloakOfResonantFaithNB.png",
-    "Hidden/img/Unconfirmed 794008.crdownload",
-    "Hidden/img/Unconfirmed 946441.crdownload",
-    "Hidden/img/MoonstoneNecklace.png",
-    "Hidden/img/Unconfirmed 729222.crdownload",
-    "Untitled 1.base",
-    "Untitled.canvas",
+    "PC's en homebrew/Mark Van Zee.md",
+    "PC's en homebrew/De Party.md",
+    "PC's en homebrew/Breala Gleambow.md",
+    "PC's en homebrew/Laevis Hollowtail.md",
+    "PC's en homebrew/Tav Marvelous.md",
+    "PC's en homebrew/Scoot McToot.md",
+    "PC's en homebrew/Brior Lunarmane.md",
+    "PC's en homebrew/Aeron Nightbreeze.md",
+    "PC's en homebrew/Algemene afspraken.md",
+    "index.md",
+    "Main/Apvaÿa.md",
+    "NPCs/circus/Lanja, Lavna en Lagna.md",
+    "NPCs/circus/Durdur Kienoog.md",
+    "PC's en homebrew/PC's maken.md",
     "Pasted image 20250518135653.png",
+    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
+    "Hidden/NPC's/Silvermourn/Khessa Longclaw.md",
+    "Hidden/Locations/Silvermourn.md",
+    "Hidden/NPC's/Branolda and Rellin.md",
+    "Hidden/plannen en avonturen/14) Silvermourn village.md",
     "Hidden/img/Mirael.png",
+    "Untitled 1.base",
+    "Hidden/plannen en avonturen/13) The path to silvermourn.md",
+    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "Hidden/Items/Cloak of Resonant Faith.md",
+    "Hidden/Items/Staff of the Gentle Moon.md",
     "Hidden/img/CloakOfResonantFaith.png",
-    "Hidden/img/MiraelTheWhisperingBlight.png"
+    "Hidden/img/Unconfirmed 188913.crdownload",
+    "Hidden/NPC's/Silvermourn/Vorrin.md",
+    "Hidden/img/MiraelTheWhisperingBlight.png",
+    "Hidden/img/Unconfirmed 80599.crdownload",
+    "Hidden/NPC's/Silvermourn/Mirael.md",
+    "Hidden/img/KhessaLongclaw.png",
+    "Hidden/img/Unconfirmed 35458.crdownload",
+    "PC's en homebrew/Items/Seers Lens.md",
+    "Hidden/img/Vorrin.png",
+    "Hidden/img/Unconfirmed 734036.crdownload",
+    "Untitled.base",
+    "Hidden/img/Mammuphant.png",
+    "Hidden/img/Clucksworth.png",
+    "Hidden/img/Unconfirmed 788994.crdownload",
+    "Hidden/img/TildaThreadbone.png",
+    "Hidden/img/Unconfirmed 357745.crdownload",
+    "Hidden/NPC's/Silvermourn",
+    "Hidden/img/BranoldaAndRellin.png",
+    "Hidden/img/Unconfirmed 528558.crdownload",
+    "Untitled.canvas"
   ]
 }
