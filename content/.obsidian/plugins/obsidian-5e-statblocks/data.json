@@ -1416,6 +1416,80 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Giant Basilignar",
+      {
+        "image": null,
+        "name": "Giant Basilignar",
+        "source": "CritterDB",
+        "type": "Beast",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "Unaligned",
+        "hp": 170,
+        "hit_dice": "20d10 + 60",
+        "ac": 17,
+        "speed": "40 ft.",
+        "stats": [
+          20,
+          10,
+          17,
+          3,
+          12,
+          5
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "bludgeoning, piercing, poison",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "frightened",
+        "saves": [
+          {
+            "strength": 8
+          },
+          {
+            "constitution": 6
+          }
+        ],
+        "skillsaves": [],
+        "senses": "darkvision 60ft, tremorsense 30ft",
+        "languages": "",
+        "cr": 8,
+        "traits": [
+          {
+            "name": "Double Haste",
+            "desc": "While the Basilignar has more than half it's life total, it has two different turns per round."
+          },
+          {
+            "name": "Relentless Mass",
+            "desc": "The Basilignar has advantage on saving throws against being:\nRestrained\nGrappled\nKnocked prone\nMagically slowed or restrained\nDifficult terrain does not cost extra movement for the Basilignar.\n\nIf the Basilignar starts its turn restrained or grappled, it may immediately make a Strength check (DC equal to the original effect’s save DC) as a bonus action to end one such effect.\n\nOn a success:\n\nThe effect ends\n\nAny creature grappling it must succeed on a STR save (DC 14) or be pushed 5 ft. away"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gore",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage."
+          },
+          {
+            "name": "Spine Slam",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
+          },
+          {
+            "name": "Hoof Crush",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the Target is prone, add 1d6"
+          },
+          {
+            "name": "Petrifying Breath (Recharge 5–6)",
+            "desc": "The Basilignar exhales mineral dust in a 30-ft cone.\n\nCreatures in the area make a CON save (DC 15):\nFail: Restrained and Slowed (as the spell) until end of their next turn\nFail by 5+: Restrained for 2 rounds\nSuccess: Half movement speed until end of next turn\nStone briefly creeps over skin, then cracks away."
+          },
+          {
+            "name": "Rampaging Charge",
+            "desc": "The Basilignar moves at least 20 ft. in a straight line.\nEach creature whose space the Basilignar moves through must make a DEX saving throw (DC 15).\nOn a failure:\nThe creature takes 2d8 + 5 bludgeoning damage\nIs knocked prone\nCannot take reactions until the start of its next turn\nOn a success:\nTakes half damage, Is not knocked prone, Retains reactions"
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {},

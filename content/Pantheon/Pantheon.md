@@ -50,7 +50,16 @@
 |  symbol: | A golden scale balanced with coins on one side and grain on the other |        |                  A cracked bowl                   |
 
 
+|    name: |                   [Pelaryon](../Pantheon/Pelaryon.md)                   | &harr; |             [Caelreth](../Pantheon/Caelreth.md)             |
+| -------: | :---------------------------------------------------------------------: | ------ | :---------------------------------------------------------: |
+|   title: |                            The Endless Tide                             |        |                      The Bound Horizon                      |
+| domains: | Seas, oceans, tides, storms, currents, navigation, journeys, connection |        | Borders, stagnation, confinement, walls, limits, separation |
+|  symbol: |                A cresting wave encircling a compass rose                |        |       A straight line ending in two immovable pillars       |
+|          |                                                                         |        |                                                             |
+|          |                                                                         |        |                                                             |
+|          |                                                                         |        |                                                             |
 
-TODO: Oceaan, magie, wild magic
+
+TODO: magie, wild magic
 
 WIP: er komen nog goden bij, deze zouden al veel domains moeten dekken.

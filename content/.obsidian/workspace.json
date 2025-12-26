@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fffd44dc40cff72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/plannen en avonturen/5) The flesh warrens.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5) The flesh warrens"
-            }
-          },
-          {
-            "id": "0c4a29b3d28186de",
+            "id": "5ca8ae673a84e3f5",
             "type": "leaf",
             "state": {
               "type": "intiative-tracker-encounter-builder",
@@ -40,79 +16,76 @@
                 [
                   {
                     "image": null,
-                    "name": "Phionic Shardskitter",
+                    "name": "Giant Basilignar",
                     "source": "CritterDB",
-                    "type": "Aberration",
+                    "type": "Beast",
                     "subtype": "",
-                    "size": "Medium",
-                    "alignment": "Chaotic Neutral",
-                    "hp": 68,
-                    "hit_dice": "8d8 + 32",
-                    "ac": 15,
-                    "speed": "40ft.",
+                    "size": "Large",
+                    "alignment": "Unaligned",
+                    "hp": 170,
+                    "hit_dice": "20d10 + 60",
+                    "ac": 17,
+                    "speed": "40 ft.",
                     "stats": [
+                      20,
                       10,
-                      18,
-                      18,
-                      6,
-                      14,
-                      6
+                      17,
+                      3,
+                      12,
+                      5
                     ],
                     "damage_immunities": "",
-                    "damage_resistances": "psychic",
+                    "damage_resistances": "bludgeoning, piercing, poison",
                     "damage_vulnerabilities": "",
-                    "condition_immunities": "charmed, frightened",
+                    "condition_immunities": "frightened",
                     "saves": [
                       {
-                        "dexterity": 6
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "Acrobatics": 6
+                        "strength": 8
                       },
                       {
-                        "Perception": 4
-                      },
-                      {
-                        "Stealth": 6
+                        "constitution": 6
                       }
                     ],
-                    "senses": "darkvision 120 ft., tremorsense 20 ft.",
-                    "languages": "understands Deep Speech",
-                    "cr": 3,
+                    "skillsaves": [],
+                    "senses": "darkvision 60ft, tremorsense 30ft",
+                    "languages": "",
+                    "cr": 8,
                     "traits": [
                       {
-                        "name": "Dimensional Skitter",
-                        "desc": "When a creature misses the Shardskitter with an attack, it teleports randomly on the battlefield.\nThis movement does not provoke opportunity attacks."
+                        "name": "Double Haste",
+                        "desc": "While the Basilignar has more than half it's life total, it has two different turns per round."
                       },
                       {
-                        "name": "Phase-On-Impact (1/turn)",
-                        "desc": "The first time the skitter hits a creature with an attack on it's turn, they both randomly teleport together."
+                        "name": "Relentless Mass",
+                        "desc": "The Basilignar has advantage on saving throws against being:\nRestrained\nGrappled\nKnocked prone\nMagically slowed or restrained\nDifficult terrain does not cost extra movement for the Basilignar.\n\nIf the Basilignar starts its turn restrained or grappled, it may immediately make a Strength check (DC equal to the original effect’s save DC) as a bonus action to end one such effect.\n\nOn a success:\n\nThe effect ends\n\nAny creature grappling it must succeed on a STR save (DC 14) or be pushed 5 ft. away"
                       }
                     ],
                     "actions": [
                       {
-                        "name": "Multiattack",
-                        "desc": "The Shardskitter makes two attacks: one with its Bite and one with its Claw."
+                        "name": "Gore",
+                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage."
                       },
                       {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\nand the target must make a DC 14 Wisdom save or take 4 (1d6) psychic damage as fractal pain echoes through their mind."
+                        "name": "Spine Slam",
+                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
                       },
                       {
-                        "name": "Claw",
-                        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+                        "name": "Hoof Crush",
+                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the Target is prone, add 1d6"
                       },
                       {
-                        "name": "Dimensional Slice (Recharge 5–6)",
-                        "desc": "ranged spell effect: The Shardskitter tears the air with its crystalline limbs, creating a brief rift.\nEach creature in a 10-foot cone must make a DC 14 Dexterity save, taking:\n14 (4d6) force damage on a failed save, Half on a success\n\nOn a failure, the creature also teleports 5 feet in a random direction (roll a d8)."
+                        "name": "Petrifying Breath (Recharge 5–6)",
+                        "desc": "The Basilignar exhales mineral dust in a 30-ft cone.\n\nCreatures in the area make a CON save (DC 15):\nFail: Restrained and Slowed (as the spell) until end of their next turn\nFail by 5+: Restrained for 2 rounds\nSuccess: Half movement speed until end of next turn\nStone briefly creeps over skin, then cracks away."
+                      },
+                      {
+                        "name": "Rampaging Charge",
+                        "desc": "The Basilignar moves at least 20 ft. in a straight line.\nEach creature whose space the Basilignar moves through must make a DEX saving throw (DC 15).\nOn a failure:\nThe creature takes 2d8 + 5 bludgeoning damage\nIs knocked prone\nCannot take reactions until the start of its next turn\nOn a success:\nTakes half damage, Is not knocked prone, Retains reactions"
                       }
                     ],
                     "reactions": [],
                     "legendary_actions": []
                   },
-                  6
+                  2
                 ]
               ],
               "icon": "intiative-tracker-encounter-builder",
@@ -120,12 +93,12 @@
             }
           },
           {
-            "id": "6fffd44dc40cff72",
+            "id": "04ac3601fb1cb24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/plannen en avonturen/14) Silvermourn village.md",
+                "file": "Pantheon/Pantheon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -140,16 +113,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "14) Silvermourn village"
+              "title": "Pantheon"
             }
           },
           {
-            "id": "bfb3ae1a7d8da580",
+            "id": "e424c9fe5bde0b8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Hidden/img/basilignar.webp"
+              },
+              "icon": "lucide-image",
+              "title": "basilignar"
+            }
+          },
+          {
+            "id": "e1e94c8a3149a6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's en homebrew/De Party.md",
+                "file": "PC's en homebrew/Laevis Hollowtail.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -164,7 +149,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "De Party"
+              "title": "Laevis Hollowtail"
             }
           }
         ],
@@ -237,12 +222,21 @@
         "dimension": 50,
         "children": [
           {
+            "id": "b5414c4847edc54c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
             "id": "c47f0f38e9d3cb19",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC's en homebrew/De Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for De Party"
+              "title": "Backlinks"
             }
           },
           {
@@ -348,8 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,54 +362,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bfb3ae1a7d8da580",
+  "active": "e424c9fe5bde0b8e",
   "lastOpenFiles": [
-    "PC's en homebrew/Mark Van Zee.md",
-    "PC's en homebrew/De Party.md",
-    "PC's en homebrew/Breala Gleambow.md",
+    "img/GiantBasilignar.png",
+    "Hidden/img/basilignar.webp",
     "PC's en homebrew/Laevis Hollowtail.md",
-    "PC's en homebrew/Tav Marvelous.md",
-    "PC's en homebrew/Scoot McToot.md",
-    "PC's en homebrew/Brior Lunarmane.md",
-    "PC's en homebrew/Aeron Nightbreeze.md",
-    "PC's en homebrew/Algemene afspraken.md",
-    "index.md",
-    "Main/Apvaÿa.md",
-    "NPCs/circus/Lanja, Lavna en Lagna.md",
-    "NPCs/circus/Durdur Kienoog.md",
-    "PC's en homebrew/PC's maken.md",
-    "Pasted image 20250518135653.png",
-    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
-    "Hidden/NPC's/Silvermourn/Khessa Longclaw.md",
-    "Hidden/Locations/Silvermourn.md",
-    "Hidden/NPC's/Branolda and Rellin.md",
-    "Hidden/plannen en avonturen/14) Silvermourn village.md",
-    "Hidden/img/Mirael.png",
-    "Untitled 1.base",
-    "Hidden/plannen en avonturen/13) The path to silvermourn.md",
+    "img/Unconfirmed 472329.crdownload",
+    "Hidden/plannen en avonturen/16) Anomalieën in Tar Neôl.md",
+    "Pantheon/Pantheon.md",
+    "Pantheon/Caelreth.md",
+    "NPCs/Tolrik Ashlar.md",
+    "Hidden/Shops/Shops.md",
+    "Hidden/NPC's/Zhiran Vaen.md",
+    "img/Delp.png",
+    "NPCs/Delp.md",
+    "img/Delp.md",
+    "img/Unconfirmed 543152.crdownload",
+    "NPCs/Elric Fenrow.md",
+    "NPCs/Untitled.md",
+    "img/TolrikAshlar.png",
+    "img/Unconfirmed 771581.crdownload",
+    "img/ElricFenrow.png",
+    "img/Unconfirmed 244362.crdownload",
+    "Pantheon/Pelaryon.md",
+    "Hidden/plannen en avonturen/10) the hunt for the shapeshifter.md",
     "Hidden/plannen en avonturen/11) Karzal's Pit.md",
-    "Hidden/Items/Cloak of Resonant Faith.md",
-    "Hidden/Items/Staff of the Gentle Moon.md",
-    "Hidden/img/CloakOfResonantFaith.png",
-    "Hidden/img/Unconfirmed 188913.crdownload",
-    "Hidden/NPC's/Silvermourn/Vorrin.md",
-    "Hidden/img/MiraelTheWhisperingBlight.png",
-    "Hidden/img/Unconfirmed 80599.crdownload",
-    "Hidden/NPC's/Silvermourn/Mirael.md",
-    "Hidden/img/KhessaLongclaw.png",
-    "Hidden/img/Unconfirmed 35458.crdownload",
-    "PC's en homebrew/Items/Seers Lens.md",
-    "Hidden/img/Vorrin.png",
-    "Hidden/img/Unconfirmed 734036.crdownload",
-    "Untitled.base",
-    "Hidden/img/Mammuphant.png",
-    "Hidden/img/Clucksworth.png",
-    "Hidden/img/Unconfirmed 788994.crdownload",
-    "Hidden/img/TildaThreadbone.png",
-    "Hidden/img/Unconfirmed 357745.crdownload",
-    "Hidden/NPC's/Silvermourn",
-    "Hidden/img/BranoldaAndRellin.png",
-    "Hidden/img/Unconfirmed 528558.crdownload",
+    "Hidden/plannen en avonturen/9) The search for the Lantern.md",
+    "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
+    "Main/Tar Neôl.md",
+    "Main/Apvaÿa.md",
+    "Main/Circus Avaroth.md",
+    "Hidden/Tijdlijn.md",
+    "Templates/Player Template.md",
+    "Hidden/Character plothooks/The Devils dream.md",
+    "Items/Screeching Glaive.md",
+    "Items/Moonstone Crystal Necklaces.md",
+    "img/ScreechingGlaive.png",
+    "img/Unconfirmed 856874.crdownload",
+    "Items/Showstopper's Prism.md",
+    "NPCs/Silvermourn",
+    "img/Vorrin.png",
+    "img/WandOfWonkyFire.png",
+    "img/Mirael.png",
+    "img/Mammuphant.png",
+    "Items",
+    "Hidden/img/Unconfirmed 426228.crdownload",
+    "Hidden/img/Unconfirmed 878007.crdownload",
+    "Hidden/stat blocks/Untitled",
     "Untitled.canvas"
   ]
 }
