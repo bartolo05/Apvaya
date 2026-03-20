@@ -1,4 +1,4 @@
-Tar Neôl, a.k.a. de koperen stad vanwege de koperen daken is een havenstad op, aan en in een rotsklif. Wat ooit begon als een dwergennederzetting met een kopermijn is uitgegroeid tot een rijke metropool van ambachtslieden.
+ooklTar Neôl, a.k.a. de koperen stad vanwege de koperen daken is een havenstad op, aan en in een rotsklif. Wat ooit begon als een dwergennederzetting met een kopermijn is uitgegroeid tot een rijke metropool van ambachtslieden.
 
 De ceremoniële groothertog Menasteus III van het huis Neôl lijdt al enkele jaren onder zijn zwakke gezondheid en wordt slechts weinig in het openbaar gezien. Zijn regering van gildeheren staat onder leiding van Ottar Maanstaf, heer van de [[De Gilden#Magiërsgilde|Magiërsgilde]]. 
 

@@ -55,10 +55,6 @@
 |   title: |                            The Endless Tide                             |        |                      The Bound Horizon                      |
 | domains: | Seas, oceans, tides, storms, currents, navigation, journeys, connection |        | Borders, stagnation, confinement, walls, limits, separation |
 |  symbol: |                A cresting wave encircling a compass rose                |        |       A straight line ending in two immovable pillars       |
-|          |                                                                         |        |                                                             |
-|          |                                                                         |        |                                                             |
-|          |                                                                         |        |                                                             |
-
 
 TODO: magie, wild magic
 

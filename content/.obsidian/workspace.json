@@ -16,76 +16,88 @@
                 [
                   {
                     "image": null,
-                    "name": "Giant Basilignar",
+                    "name": "Maerion Inkthayne, the Augmentor",
                     "source": "CritterDB",
-                    "type": "Beast",
+                    "type": "High Elf Tiefling",
                     "subtype": "",
-                    "size": "Large",
-                    "alignment": "Unaligned",
-                    "hp": 170,
-                    "hit_dice": "20d10 + 60",
-                    "ac": 17,
+                    "size": "Medium",
+                    "alignment": "",
+                    "hp": 112,
+                    "hit_dice": "15d8 + 45",
+                    "ac": 16,
                     "speed": "40 ft.",
                     "stats": [
-                      20,
                       10,
-                      17,
-                      3,
-                      12,
-                      5
+                      16,
+                      16,
+                      18,
+                      14,
+                      20
                     ],
                     "damage_immunities": "",
-                    "damage_resistances": "bludgeoning, piercing, poison",
+                    "damage_resistances": "",
                     "damage_vulnerabilities": "",
-                    "condition_immunities": "frightened",
+                    "condition_immunities": "charmed, exhaustion, frightened",
                     "saves": [
                       {
-                        "strength": 8
+                        "dexterity": 6
                       },
                       {
                         "constitution": 6
-                      }
-                    ],
-                    "skillsaves": [],
-                    "senses": "darkvision 60ft, tremorsense 30ft",
-                    "languages": "",
-                    "cr": 8,
-                    "traits": [
-                      {
-                        "name": "Double Haste",
-                        "desc": "While the Basilignar has more than half it's life total, it has two different turns per round."
                       },
                       {
-                        "name": "Relentless Mass",
-                        "desc": "The Basilignar has advantage on saving throws against being:\nRestrained\nGrappled\nKnocked prone\nMagically slowed or restrained\nDifficult terrain does not cost extra movement for the Basilignar.\n\nIf the Basilignar starts its turn restrained or grappled, it may immediately make a Strength check (DC equal to the original effect’s save DC) as a bonus action to end one such effect.\n\nOn a success:\n\nThe effect ends\n\nAny creature grappling it must succeed on a STR save (DC 14) or be pushed 5 ft. away"
+                        "charisma": 8
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "Arcana": 7
+                      },
+                      {
+                        "Deception": 8
+                      },
+                      {
+                        "Insight": 5
+                      },
+                      {
+                        "Persuasion": 8
+                      }
+                    ],
+                    "senses": "Darkvision 60ft.",
+                    "languages": "Common, Elvish, Infernal, Abyssal",
+                    "cr": 4,
+                    "traits": [
+                      {
+                        "name": "Quickened Spell",
+                        "desc": "Maerion can cast a 1st or 2nd level spell as a bonus action, consuming a use of this ability (3/day)."
+                      },
+                      {
+                        "name": "Spellcasting (Sorlock, DC 16)",
+                        "desc": "Maerion Inkthayne, the augmentor's Sorlock spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:\n\nAt will: mage hand, chill touch, eldritch blast, minor illusion\n2/day: mirror image, hold person, suggestion, misty step\n1/day: haste, bestow curse, blight"
+                      },
+                      {
+                        "name": "Pactbound Immortality",
+                        "desc": "If Maerion is reduced to 0 HP, he disappears into mist and reforms 1d4 days later in a hidden sanctuary unless his soul contracts are destroyed."
                       }
                     ],
                     "actions": [
                       {
-                        "name": "Gore",
-                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage."
+                        "name": "Multiattack",
+                        "desc": "Maerion makes two Eldritch Blast attacks and one Claw Strike attack."
                       },
                       {
-                        "name": "Spine Slam",
-                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
+                        "name": "Eldritch Blast",
+                        "desc": "Ranged Weapon Attack: +6 to hit, range 120/null ft., one target. Hit: 8 (1d10 + 5) force damage. If the target fails a DC 16 Strength save, they are pushed or pulled 10 feet (Maerion’s choice)."
                       },
                       {
-                        "name": "Hoof Crush",
-                        "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the Target is prone, add 1d6"
-                      },
-                      {
-                        "name": "Petrifying Breath (Recharge 5–6)",
-                        "desc": "The Basilignar exhales mineral dust in a 30-ft cone.\n\nCreatures in the area make a CON save (DC 15):\nFail: Restrained and Slowed (as the spell) until end of their next turn\nFail by 5+: Restrained for 2 rounds\nSuccess: Half movement speed until end of next turn\nStone briefly creeps over skin, then cracks away."
-                      },
-                      {
-                        "name": "Rampaging Charge",
-                        "desc": "The Basilignar moves at least 20 ft. in a straight line.\nEach creature whose space the Basilignar moves through must make a DEX saving throw (DC 15).\nOn a failure:\nThe creature takes 2d8 + 5 bludgeoning damage\nIs knocked prone\nCannot take reactions until the start of its next turn\nOn a success:\nTakes half damage, Is not knocked prone, Retains reactions"
+                        "name": "Claw Strike",
+                        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
                       }
                     ],
                     "reactions": [],
                     "legendary_actions": []
                   },
-                  2
+                  1
                 ]
               ],
               "icon": "intiative-tracker-encounter-builder",
@@ -93,48 +105,12 @@
             }
           },
           {
-            "id": "04ac3601fb1cb24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pantheon/Pantheon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pantheon"
-            }
-          },
-          {
             "id": "e424c9fe5bde0b8e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Hidden/img/basilignar.webp"
-              },
-              "icon": "lucide-image",
-              "title": "basilignar"
-            }
-          },
-          {
-            "id": "e1e94c8a3149a6f4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's en homebrew/Laevis Hollowtail.md",
+                "file": "NPCs/Poortwachters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -149,11 +125,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Laevis Hollowtail"
+              "title": "Poortwachters"
+            }
+          },
+          {
+            "id": "210aad23c84f3ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tar Neôl/Avarno's Silkware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Avarno's Silkware"
+            }
+          },
+          {
+            "id": "279610da9801040f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/plannen en avonturen/19) & 20) & 21) De Druwedren.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "19) & 20) & 21) De Druwedren"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "murm",
+                "query": "avarno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 337.5
   },
   "right": {
     "id": "ad85b2e2f1ee4924",
@@ -320,8 +344,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "685a5a187e31f918",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "8c8955f3e1a2b572",
@@ -362,53 +397,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e424c9fe5bde0b8e",
+  "active": "658d27a6ff1a2b78",
   "lastOpenFiles": [
-    "img/GiantBasilignar.png",
-    "Hidden/img/basilignar.webp",
-    "PC's en homebrew/Laevis Hollowtail.md",
-    "img/Unconfirmed 472329.crdownload",
-    "Hidden/plannen en avonturen/16) Anomalieën in Tar Neôl.md",
-    "Pantheon/Pantheon.md",
-    "Pantheon/Caelreth.md",
-    "NPCs/Tolrik Ashlar.md",
-    "Hidden/Shops/Shops.md",
-    "Hidden/NPC's/Zhiran Vaen.md",
-    "img/Delp.png",
-    "NPCs/Delp.md",
-    "img/Delp.md",
-    "img/Unconfirmed 543152.crdownload",
-    "NPCs/Elric Fenrow.md",
-    "NPCs/Untitled.md",
-    "img/TolrikAshlar.png",
-    "img/Unconfirmed 771581.crdownload",
-    "img/ElricFenrow.png",
-    "img/Unconfirmed 244362.crdownload",
-    "Pantheon/Pelaryon.md",
-    "Hidden/plannen en avonturen/10) the hunt for the shapeshifter.md",
-    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "Hidden/NPC's/Kaelrath Embercrest.md",
+    "Tar Neôl/Avarno's Silkware.md",
+    "NPCs/Poortwachters.md",
     "Hidden/plannen en avonturen/9) The search for the Lantern.md",
-    "Hidden/stat blocks/Creatures/Phionic Shardskitter.md",
+    "Hidden/plannen en avonturen/8) The nightmare surgery.md",
+    "Hidden/plannen en avonturen/12) Brother of the Beast.md",
+    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
+    "Hidden/plannen en avonturen/10) the hunt for the shapeshifter.md",
+    "Hidden/NPC's/Maerion Inkthayne.md",
+    "Hidden/plannen en avonturen/19) & 20) & 21) De Druwedren.md",
+    "Hidden/plannen en avonturen/5) The flesh warrens.md",
+    "Hidden/NPC's/Daryll Stonebrew.md",
+    "Tar Neôl/Gilden/De Gilden.md",
+    "Hidden/img/CopperTheaterGuildShield.png",
+    "Hidden/img/Unconfirmed 835746.crdownload",
     "Main/Tar Neôl.md",
-    "Main/Apvaÿa.md",
-    "Main/Circus Avaroth.md",
-    "Hidden/Tijdlijn.md",
-    "Templates/Player Template.md",
-    "Hidden/Character plothooks/The Devils dream.md",
-    "Items/Screeching Glaive.md",
-    "Items/Moonstone Crystal Necklaces.md",
-    "img/ScreechingGlaive.png",
-    "img/Unconfirmed 856874.crdownload",
-    "Items/Showstopper's Prism.md",
-    "NPCs/Silvermourn",
-    "img/Vorrin.png",
-    "img/WandOfWonkyFire.png",
-    "img/Mirael.png",
-    "img/Mammuphant.png",
-    "Items",
-    "Hidden/img/Unconfirmed 426228.crdownload",
-    "Hidden/img/Unconfirmed 878007.crdownload",
-    "Hidden/stat blocks/Untitled",
+    "Hidden/img/GoldenGuildShield.png",
+    "Hidden/img/Unconfirmed 963998.crdownload",
+    "Hidden/img/Team Furstappe.png",
+    "Hidden/img/Vliegende Bubbeltjes.png",
+    "Hidden/img/Great Plains Strider.png",
+    "Hidden/img/Stone Ram.png",
+    "Hidden/img/Thunder Lizard.png",
+    "PC's en homebrew/De Party.md",
+    "Hidden/NPC's/Poortwachters.md",
+    "Hidden/plannen en avonturen/18) Unravelling the mysteries.md",
+    "Hidden/NPC's/Seraphine Vaelor.md",
+    "Hidden/img/Kaelrath.png",
+    "Hidden/img/7b197856-7adf-4915-b70f-935721c3b7ec.png",
+    "Hidden/img/Seraphine.png",
+    "Pantheon/Pantheon.md",
+    "PC's en homebrew/Aeron Nightbreeze.md",
+    "Hidden/NPC's/Karzal.md",
+    "Pantheon/Rhazgor.md",
+    "Hidden/NPC's/Bonton Dabil.md",
+    "Hidden/img/Unconfirmed 337520.crdownload",
+    "Hidden/img/Unconfirmed 850434.crdownload",
+    "Hidden/img/Unconfirmed 747229.crdownload",
+    "Hidden/img/Unconfirmed 169689.crdownload",
+    "PC's en homebrew/Breala Gleambow.md",
+    "Hidden/img/Unconfirmed 544971.crdownload",
+    "Hidden/img/Unconfirmed 423297.crdownload",
+    "Hidden/img/Unconfirmed 54715.crdownload",
+    "Hidden/img/Unconfirmed 998489.crdownload",
+    "NPCs/Karzal the pit butcher Dravak.md",
+    "Hidden/NPC's/Hans Hands.md",
     "Untitled.canvas"
   ]
 }

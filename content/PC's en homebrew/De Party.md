@@ -20,7 +20,7 @@ Tortle barbarian
 Human sorcerer
 [![](../img/Tav.png)](../PC's%20en%20homebrew/Tav%20Marvelous.md)
 
-# Laevis Hollowtail
+## Laevis Hollowtail
 
 Harengon paladin
 [![](../img/Laevis.png)](../PC's%20en%20homebrew/Laevis%20Hollowtail.md)
