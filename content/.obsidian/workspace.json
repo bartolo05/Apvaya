@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Shops/Shops.md",
+                "file": "Hidden/Shops/The Horned Hen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shops"
+              "title": "The Horned Hen"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shops/Avarno's Silkware.md",
+                "file": "Tar Neôl/Plein van de gouden handel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -149,7 +149,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Avarno's Silkware"
+              "title": "Plein van de gouden handel"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Shops/Shops.md",
+                "file": "Hidden/Shops/Tabaxi Dermi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shops"
+              "title": "Tabaxi Dermi"
             }
           },
           {
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -421,54 +421,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "210aad23c84f3ee0",
+  "active": "e424c9fe5bde0b8e",
   "lastOpenFiles": [
-    "Hidden/Shops/Avarno's Silkware.md",
-    "Shops/Avarno's Silkware.md",
+    "Tar Neôl/Plein van de gouden handel.md",
+    "Tar Neôl/Handelscitadel.md",
+    "Hidden/Tar Neôl/Handelscitadel.md",
+    "Hidden/Tijdlijn.md",
+    "Hidden/Tar Neôl",
+    "Hidden/Untitled.md",
+    "Hidden/Shops/The Horned Hen.md",
+    "Tar Neôl/Gilden/De Gilden.md",
+    "Hidden/Shops/De Koperen Ketel.md",
     "Hidden/Shops/Shops.md",
-    "Shops/Goldan en zonen.md",
+    "Hidden/Shops/Tabaxi Dermi.md",
+    "Hidden/img/inspiratie/Drbn.jpg",
+    "Hidden/NPC's/Corvin Wildfire.md",
     "Hidden/plannen en avonturen/18) Unravelling the mysteries.md",
+    "Hidden/Shops/The Velvet Moon.md",
+    "Tar Neôl/The Jelly Boys.md",
+    "Tar Neôl/The Brazen Gritpour.md",
+    "Tar Neôl/De Maanstenen Lantaarn.md",
+    "Hidden/img/TabaxiDermi.png",
+    "Hidden/img/Unconfirmed 238802.crdownload",
+    "Hidden/Shops/De Prismatische Spiraal.md",
+    "Hidden/Shops/Het Betoverd Boek.md",
+    "Hidden/Shops/Avarno's Silkware.md",
+    "Hidden/img/inspiratie/DesmondTrueForm.jpg",
+    "Hidden/img/inspiratie/DesmondStreetForm.jpg",
+    "Hidden/img/inspiratie/Contorsionist.jpg",
+    "Hidden/img/inspiratie/Clown.jpg",
+    "Hidden/img/inspiratie/Alphagnaw.webp",
+    "Hidden/img/Aurelien-Human.png",
+    "Hidden/img/Aurelien-Aasimar.png",
+    "Hidden/img/basilignar.webp",
+    "Hidden/img/Unconfirmed 565117.crdownload",
+    "Hidden/img/Unconfirmed 540833.crdownload",
+    "Hidden/img/Unconfirmed 846665.crdownload",
+    "Shops/Avarno's Silkware.md",
+    "Shops/Goldan en zonen.md",
     "NPCs/Poortwachters.md",
     "Hidden/plannen en avonturen/22) Free plan.md",
     "Hidden/plannen en avonturen/19) & 20) & 21) De Druwedren.md",
     "Hidden/NPC's/Kaelrath Embercrest.md",
     "Hidden/plannen en avonturen/9) The search for the Lantern.md",
-    "Hidden/plannen en avonturen/8) The nightmare surgery.md",
-    "Hidden/plannen en avonturen/12) Brother of the Beast.md",
-    "Hidden/plannen en avonturen/11) Karzal's Pit.md",
-    "Hidden/plannen en avonturen/10) the hunt for the shapeshifter.md",
-    "Hidden/NPC's/Maerion Inkthayne.md",
-    "Hidden/plannen en avonturen/5) The flesh warrens.md",
-    "Hidden/NPC's/Daryll Stonebrew.md",
-    "Tar Neôl/Gilden/De Gilden.md",
-    "Hidden/img/CopperTheaterGuildShield.png",
     "Hidden/img/Unconfirmed 835746.crdownload",
-    "Main/Tar Neôl.md",
-    "Hidden/img/GoldenGuildShield.png",
     "Hidden/img/Unconfirmed 963998.crdownload",
-    "Hidden/img/Team Furstappe.png",
-    "Hidden/img/Vliegende Bubbeltjes.png",
-    "Hidden/img/Great Plains Strider.png",
-    "Hidden/img/Stone Ram.png",
-    "Hidden/img/Thunder Lizard.png",
-    "PC's en homebrew/De Party.md",
-    "Hidden/NPC's/Poortwachters.md",
-    "Hidden/NPC's/Seraphine Vaelor.md",
-    "Hidden/img/Kaelrath.png",
-    "Hidden/img/7b197856-7adf-4915-b70f-935721c3b7ec.png",
-    "Hidden/img/Seraphine.png",
-    "Pantheon/Pantheon.md",
-    "PC's en homebrew/Aeron Nightbreeze.md",
-    "Hidden/NPC's/Karzal.md",
-    "Pantheon/Rhazgor.md",
     "Hidden/img/Unconfirmed 337520.crdownload",
     "Hidden/img/Unconfirmed 850434.crdownload",
     "Hidden/img/Unconfirmed 747229.crdownload",
-    "Hidden/img/Unconfirmed 169689.crdownload",
-    "Hidden/img/Unconfirmed 544971.crdownload",
-    "Hidden/img/Unconfirmed 423297.crdownload",
-    "Hidden/img/Unconfirmed 54715.crdownload",
-    "Hidden/img/Unconfirmed 998489.crdownload",
     "Untitled.canvas"
   ]
 }

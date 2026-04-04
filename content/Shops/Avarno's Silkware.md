@@ -142,3 +142,33 @@ De contouren van deze mantel lijken nooit volledig stil te staan, alsof de drage
 
 **Kost:** 3500–4000 gp
 
+---
+
+## 📣 Mantel van de Stadsomroeper
+
+**Wondrous item, uncommon (requires attunement)**
+
+Een opvallende mantel met rijke kleuren en verstevigde kraag, ontworpen om de drager zowel te zien als te horen.
+
+- Je stem draagt onnatuurlijk ver  
+    → Je kan normaal gesproken **tot 300 ft verstaanbaar spreken**
+- Je hebt **advantage op Performance checks** waarbij stemgebruik centraal staat
+
+### 📣 Verkondiging
+
+Als action kan je een boodschap kracht bijzetten:
+
+- Kies een zin van max. ~20 woorden
+- Alle creatures binnen **60 ft** horen deze luid en duidelijk
+- Je hebt **advantage op de volgende Charisma check** tegen deze creatures (Persuasion, Intimidation of Performance)
+
+_(1x per short rest)_
+
+### 🎭 Publieke Aanwezigheid
+
+- Je kan niet makkelijk genegeerd worden wanneer je spreekt  
+    → Disadvantage op checks van anderen om je te **overstemmen of onderbreken**
+
+**Kost:** 900 gp
+
+---

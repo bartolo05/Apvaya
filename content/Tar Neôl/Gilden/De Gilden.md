@@ -15,7 +15,7 @@ Hondenfokkers, paardenfokkers, maneges, $\ldots$
 #### Handelsgilde
 Verreweg de grootste, machtigste en vaagste gilde, de handelsgilde erkent handelaars van alle vormen. Van vastgoed tot groothandel, bijna alles valt onder de jurisdictie van de handelsgilde.
 
-De handelsgilde is gevestigd in de [[Handelscitadel]], een spiraalvormige toren met vier armen 
+De handelsgilde is gevestigd in de [[Tar Neôl/Handelscitadel]], een spiraalvormige toren met vier armen 
 
 #### Helersgilde
 Artsen, tandartsen, vroedvrouwen, verpleegkundigen, apothekers en chirurgen
