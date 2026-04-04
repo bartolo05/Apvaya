@@ -99,45 +99,46 @@ Pelza zal klanten zorgvuldig observeren voor hij een voorstel doet.
 
 ---
 
-# 🎲 Interactie
+## 🌬️ Mantel van de Wind
 
-- Pelza beoordeelt klanten op:
-    - houding
-    - spraak
-    - zelfvertrouwen
-- Hij zal:
-    - betere opties tonen aan wie indruk maakt
-    - subtiel duurdere keuzes pushen
+**Wondrous item, uncommon (requires attunement)**
 
-Spelers kunnen hier terecht voor:
+Een lichte mantel die constant zacht beweegt, zelfs zonder wind.
 
-- Disguises
-- Infiltration gear
-- Sociale upgrades
+- +10 ft movement speed
+- Advantage op checks tegen **being grappled or restrained by wind/force effects**
 
----
+**Sprint**
 
-# 🕯️ Subtiele Geruchten
+1x per long rest:
 
-- Avarno zelf wordt zelden gezien, maar zijn invloed is merkbaar
-- Sommige stoffen lijken… moeilijk te vergeten
-- Klanten van de hoogste kringen komen hier regelmatig terug
+- Als bonus action → Dash zonder opportunity attacks
+
+**Kost:** 1200 gp
 
 ---
 
-# 🎭 DM Notes (keep separate or hidden page)
+## 🛡️ Mantel van Bescherming
 
-(you can keep your original notes here unchanged 👀)
+**Wondrous item, uncommon (requires attunement)**
+
+Een verfijnde mantel met subtiele zilveren borduursels die licht lijken te breken.
+
+- +1 bonus to **AC**
+- +1 bonus to **all saving throws**
+
+**Kost:** 1500 gp
 
 ---
 
-## 👉 Why this works
+## 🌑 Mantel van Verplaatsing
 
-- Players get:
-    - Useful gear
-    - Social tools
-    - Suspicion without confirmation
-- You keep:
-    - Crime hooks
-    - BBEG ties
-    - Secret layers intact
+**Wondrous item, rare (requires attunement)**
+
+De contouren van deze mantel lijken nooit volledig stil te staan, alsof de drager net naast zichzelf beweegt.
+
+- Aanvallen tegen jou hebben **disadvantage** zolang je niet geraakt bent
+- Het effect stopt tot het einde van je volgende beurt als je damage neemt
+
+**Kost:** 3500–4000 gp
+
