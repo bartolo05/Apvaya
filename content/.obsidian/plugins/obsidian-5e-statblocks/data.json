@@ -1490,6 +1490,363 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Caldus Veyn",
+      {
+        "image": null,
+        "name": "Caldus Veyn",
+        "source": "CritterDB",
+        "type": "Humanoid (elf)",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Evil",
+        "hp": 75,
+        "hit_dice": "10d8 + 30",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          18,
+          16,
+          14,
+          14,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": 5
+          },
+          {
+            "charisma": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Deception": 10
+          },
+          {
+            "Insight": 5
+          },
+          {
+            "Investigation": 5
+          },
+          {
+            "Perception": 5
+          },
+          {
+            "Persuasion": 7
+          },
+          {
+            "Sleight of Hand": 7
+          },
+          {
+            "Stealth": 12
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 6,
+        "traits": [
+          {
+            "name": "Borrowed Royal Sight",
+            "desc": "Because of Selyra's eyes, Caldus can perceive:\n\ninvisible magical script\nhidden warding glyphs\nmagical passcodes keyed to House Neôl\n\nHowever:\n\nAt the start of combat, roll a d6.\n\nOn a 1:\n\nCaldus suffers a flash of alien memories and is stunned until the end of his turn."
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "Bonus action Dash, Disengage, Hide."
+          },
+          {
+            "name": "Sneak Attack (1/Turn)",
+            "desc": "21 (6d6) extra damage."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The caldus veyn's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\nAt will: minor illusion, mage hand, prestidigitation\n3/day: disguise self, suggestion, detect thoughts, misty step\n1/day: dimension door"
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Caldus makes two Rapier attacks"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Uncanny Dodge",
+            "desc": "Halve damage from one attack."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Copper Eye Guardian",
+      {
+        "image": null,
+        "name": "Copper Eye Guardian",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Neutral",
+        "hp": 68,
+        "hit_dice": "8d8 + 32",
+        "ac": 19,
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          14,
+          18,
+          12,
+          15,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "constitution": 6
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 6
+          },
+          {
+            "Insight": 4
+          },
+          {
+            "Investigation": 3
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Multiattack",
+            "desc": "The Copper Eye makes three attacks."
+          },
+          {
+            "name": "Disarming Strike (Recharge 5-6)",
+            "desc": "After hitting with a melee attack, the target must make a DC 14 Strength save.\n\nOn a failure, the target drops one held item."
+          },
+          {
+            "name": "Royal Oath",
+            "desc": "The Copper Eye has advantage on saving throws against being charmed or magically compelled."
+          },
+          {
+            "name": "Protective Stance",
+            "desc": "Creatures within 5 feet of the Copper Eye have half cover against ranged attacks."
+          },
+          {
+            "name": "Vigilant",
+            "desc": "The Copper Eye cannot be surprised while conscious."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Crossbow, heavy",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Interpose",
+            "desc": "When a creature within 5 feet of the Copper Eye is hit by an attack, the Copper Eye may become the target instead."
+          },
+          {
+            "name": "Hold the Line",
+            "desc": "When a hostile creature moves within the Copper Eye's reach, it provokes an opportunity attack even if it Disengaged."
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Palace Guard of Tar Neôl",
+      {
+        "image": null,
+        "name": "Palace Guard of Tar Neôl",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 27,
+        "hit_dice": "5d8 + 5",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          12,
+          13,
+          10,
+          12,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "Athletics": 4
+          },
+          {
+            "Insight": 3
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 0.5,
+        "traits": [
+          {
+            "name": "Multiattack",
+            "desc": "The guard makes two melee attacks"
+          },
+          {
+            "name": "Formation Fighting",
+            "desc": "While within 5 feet of another allied guard wielding a shield, the guard gains +1 AC."
+          },
+          {
+            "name": "Disciplined Defender",
+            "desc": "The guard has advantage on saving throws against being frightened."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Spear",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage in melee, or 5 (1d6 + 2) piercing damage at range, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Shield Bash (Recharge 5-6)",
+            "desc": "Melee Weapon Attack: +4 to hit.\n\nHit: 4 (1d4+2) bludgeoning damage.\n\nTarget must succeed on a DC 12 Strength save or be knocked prone."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "False Copper Eye",
+      {
+        "image": null,
+        "name": "False Copper Eye",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Evil",
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "ac": 18,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          14,
+          12,
+          12,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed",
+        "saves": [
+          {
+            "wisdom": 4
+          },
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Deception": 5
+          },
+          {
+            "Insight": 4
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Multiattack",
+            "desc": "The impostor makes two attacks."
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "The impostor can Dash, Disengage, or Hide as a bonus asction."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage in melee, or 5 (1d4 + 3) piercing damage at range."
+          },
+          {
+            "name": "Crystal Dust Bomb (1/day)",
+            "desc": "The impostor throws a pouch of shimmering crystal dust at a point within 30 feet.\n\nCreatures within a 10-foot radius must succeed on a DC 13 Constitution saving throw or become blinded until the end of their next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Die for the Lantern (1/day)",
+            "desc": "When reduced to 0 HP, the impostor instead drops to 1 HP and immediately moves up to half its speed without provoking opportunity attacks."
+          }
+        ],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {},
